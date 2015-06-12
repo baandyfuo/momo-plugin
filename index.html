@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Template</title>
+  <link rel="stylesheet" href="./bootstrap-3.3.4-dist/css/bootstrap.css">
+  <link rel="stylesheet" href="./assets/momo-plugin/momo-plugin.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+
+  <div class="row">
+    <div class="top col-md-12"></div>
+  </div>
+  <div class="row">
+    <div class="header">
+      <div class="col-md-12"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="navigation col-md-8 col-md-offset-2"></div>
+  </div>
+  <div class="row">
+    <div class="sidebar col-md-2 col-md-offset-2"></div>
+    <div class="main col-md-6"></div>
+  </div>
+  <script src="./assets/js/jquery-1.11.3.min.js"></script>
+  <script src="./assets/momo-plugin/momo-plugin.js"></script>
+  <script>
+
+    var momo = $(".main").momoPlugin({
+      data: "./sample-data/product.json",
+      dataType: "json",
+    });
+
+  </script>
+</body>
+</html>

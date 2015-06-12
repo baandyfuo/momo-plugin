@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "【Pure Heart】SPF36無瑕防曬蜜粉",
+      "img": "./sample-data/imgs/01.jpg",
+      "price": "499"
+    },
+    {
+      "name": "【Pure Heart】絲光透白CC防曬舒芙蕾粉凝",
+      "img": "./sample-data/imgs/02.jpg",
+      "price": "390"
+    },
+    {
+      "name": "【Nac Nac】智慧防護紫外線消毒烘乾機",
+      "img": "./sample-data/imgs/03.jpg",
+      "price": "4999"
+    },
+    {
+      "name": "【優生】智慧型五段溫控熱水瓶+水垢清潔劑",
+      "img": "./sample-data/imgs/04.jpg",
+      "price": "2361"
+    },
+    {
+      "name": "【小獅王辛巴】大地系有機棉專利透氣枕",
+      "img": "./sample-data/imgs/05.jpg",
+      "price": "220"
+    }
+  ]
+}

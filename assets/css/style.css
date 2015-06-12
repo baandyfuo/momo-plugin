@@ -1,0 +1,28 @@
+
+
+.main {
+  min-height: 700px;
+}
+
+.top {
+  min-height: 35px;
+  background: #414141;
+}
+
+.navigation {
+  min-height: 40px;
+  background: #333;
+}
+
+.header {
+  min-height: 100px;
+}
+
+.main {
+  background: #cecece;
+}
+
+.sidebar {
+  background: #f8d4d4;
+  min-height: 400px;
+}
