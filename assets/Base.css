@@ -1,0 +1,12 @@
+html,body,div,span,ol,ul,li,dl,dt,dd,p,br,pre,hr,h1,h2,h3,h4,h5,h6,a,img,b,i,u,big,em,form {padding: 0;margin: 0;border: 0;}
+ul, ol, li{ list-style-image: none;list-style-position: outside;list-style-type: none;}
+html, body{margin:0;text-align: center;font: 100% Arial, Helvetica, sans-serif;}
+* {font-size: 12px; font-family:·s²Ó©úÅé;}
+a {text-decoration: none;}
+
+#BodyBase {width: 980px;margin: 0px auto 0;text-align: left;position: relative;}
+.StandBT{width: 980px;}
+.lolayout{overflow:hidden;}
+.lbtclass{overflow:hidden;}
+
+

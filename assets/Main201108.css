@@ -1,0 +1,451 @@
+/** �q���ʪ���P�ϳ]�w **/
+#bt_0_layout_b206 {border:1px solid #dddddd; width:198px}
+#bt_0_106_01 {width:198px;height:290px;background-color:#FBFBFB;overflow:hidden;}
+#bt_0_106_01 h2 {margin:0px 7px; font-size:15px; line-height:28px; height:28px}
+#bt_0_106_01 .TabMenu {float:right; margin:5px}
+#bt_0_106_01 .TabMenu li {display:inline}
+#bt_0_106_01 .TabMenu span {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_106/channelA.jpg) no-repeat; font-size:11px; color:#666666; padding-top:2px; width:18px; height:19px; line-height:19px; display:inline-block; font-weight:bold; text-align:center; cursor:pointer}
+#bt_0_106_01 .TabMenu .selected span {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_106/channelB.jpg) no-repeat; color:#E40480}
+#bt_0_106_01 .TabContent {padding-bottom:5px}
+#bt_0_106_01 .TabContentD {width:190px; height:130px; margin:0px 4px 0px; overflow:hidden; position:relative}
+#bt_0_106_01 .TabContentD .priceArea span {color:#D42570; position:absolute; right:10px; bottom:20px; font-family:"Century Gothic",Arial,Verdana; font-weight:bold; letter-spacing:-1px; font-size:30px; cursor:pointer}
+#bt_0_106_01 .TabContentD .prdnameArea {position:absolute; bottom:0px; width:190px; height:24px; line-height:24px; opacity:0.75; background-color:#D62671}
+#bt_0_106_01 .TabContentD h3 span {position:absolute; bottom:0px; font-size:13px; color:#FFFFFF; width:190px; height:24px; line-height:24px; overflow:hidden; text-align:center; z-index:100; cursor:pointer} /** 0725���t�ק� **/
+#bt_0_106_01 .TabContentD img {width:190px}
+#bt_0_106_01 .TabContent .TabContentD {display:none}
+#bt_0_106_01 .TabContent .selected {display:block}
+#bt_0_106_01 dl {display:inline-block; width:198px; padding:0px 0px; #padding:0px 0px 5px}
+#bt_0_106_01 dt, #bt_0_106_01 dd {float:left}
+#bt_0_106_01 dd {margin:0px 0px 5px 4px}
+#bt_0_106_01 dl a {width:34px; height:65px; display:inline-block}
+#bt_0_106_01 dl .first {margin-left:6px; _margin-left:3px}
+#bt_0_106_01 dl dd .selected, #bt_0_106_01 dl dd a:hover .unselected {display:inline-block}
+#bt_0_106_01 dl dd .unselected, #bt_0_106_01 dl dd a:hover .selected {width:34px;height:65px;display:none}
+
+#bt_0_layout_b207 {width:345px; float:left}
+#bt_0_107_01 .TabContent .TabContentD {width:345px; height:215px; overflow:hidden}/** david **/
+#bt_0_107_01 ul {width:343px; height:28px; line-height:28px; display:inline-block; border:1px solid #DDDDDD}/** david **/
+#bt_0_107_01 li {float:left; border-left:1px solid #DDDDDD; width:68px; text-align:center; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_107/bt_0_107_01btnbkA.jpg) repeat-x; cursor:pointer}
+#bt_0_107_01 .tips01 {border-left:0px; width:67px}
+#bt_0_107_01 .TabMenu span {color:#333333; font-size:13px}
+#bt_0_107_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_107/bt_0_107_01btnbkB.jpg) repeat-x}
+#bt_0_107_01 .TabMenu .selected span {color:#FFFFFF}
+#bt_0_107_01 .TabContent .TabContentD {display:none}
+#bt_0_107_01 .TabContent .selected {display:block}
+
+#bt_0_layout_b208 {width:210px; float:right}
+#todayArea {border:1px solid #E2DEDF; width:198px; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_109/bt_0_109h2bkimg.jpg) repeat-x; position:relative}
+#todayArea h2 {font-size:15px; color:#C80002; height:26px; line-height:26px; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_109/bt_0_109h2titleimg.jpg) no-repeat; padding-left:30px}
+
+#bt_0_109_01 .TabContent .TabContentD {width:198px; height:108px; overflow:hidden}/** david **/
+#bt_0_109_01 .TabMenu {position:absolute; top:5px; right:5px}
+#bt_0_109_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;}
+#bt_0_109_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_109_01 .TabMenu span {font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_109_01 .TabMenu .selected span {color:#FFFFFF}
+#bt_0_109_01 .TabMenu .tips {border-left:0px}
+#bt_0_109_01 .TabContent .TabContentD {display:none}
+#bt_0_109_01 .TabContent .selected {display:block}
+
+#bt_0_141_01 {width:198px; position:relative; border-top:1px solid #E2DEDF}
+#bt_0_141_01 .TabContent .TabContentD {width:198px; height:108px; overflow:hidden}/** david **/
+#bt_0_141_01 .TabMenu {position:absolute; top:5px; right:5px}
+#bt_0_141_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;}
+#bt_0_141_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_141_01 .TabMenu span {font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_141_01 .TabMenu .selected span {color:#FFFFFF}
+#bt_0_141_01 .TabMenu .tips {border-left:0px}
+#bt_0_141_01 .TabContent .TabContentD {display:none}
+#bt_0_141_01 .TabContent .selected {display:block}
+/*
+#bt_0_110_01 {width:200px;background-color:#ebebeb; padding:0px 0px 5px}
+#bt_0_110_01 h2 {padding:10px 7px 5px; font-size:15px; #padding-top:2px; line-height:22px;background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01h2bk.jpg) repeat-x; border:1px solid #ebebeb; color:#515151}
+#bt_0_110_01 .btn01 {float:right; display:none}
+#bt_0_110_01 .btn01:hover .bkimg {color:#000000}
+#bt_0_110_01 .topleftArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01topleft.gif) no-repeat; padding-left:7px; height:7px; line-height:7px; margin:0px 5px}
+#bt_0_110_01 .topleftArea .toprightArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01topright.gif) no-repeat right top; padding-right:7px; height:7px; line-height:7px}
+#bt_0_110_01 .topleftArea .toprightArea .topcenterArea {background-color:#FFFFFF; height:7px; line-height:7px; width:176px}
+#bt_0_110_01 .innerArea {background-color:#FFFFFF; margin:0px 5px; padding:0px 5px}
+#bt_0_110_01 .footerleftArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01footerleft.gif) no-repeat; padding-left:7px; height:7px; line-height:7px; margin:0px 5px}
+#bt_0_110_01 .footerleftArea .footerrightArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01footerright.gif) no-repeat right top; padding-right:7px; height:7px; line-height:7px}
+#bt_0_110_01 .footerleftArea .footerrightArea .footercenterArea {background-color:#FFFFFF; height:7px; line-height:7px; width:176px}
+#bt_0_110_01 .ContentD {display:inline-block; width:170px; padding:2px 5px 4px; border-top:1px dashed #CCCCCC; overflow:hidden; height:64px}
+#bt_0_110_01 h3 {line-height:24px}
+#bt_0_110_01 h3 a {display:inline-block}
+#bt_0_110_01 h3 a span {font-size:15px; color:#FD3598; font-weight:bold}
+#bt_0_110_01 .ContentD ul {height:40px;overflow:hidden;}
+#bt_0_110_01 li {float:left; line-height:20px; margin-right:6px; white-space:nowrap; _margin-right:4px}
+#bt_0_110_01 li a span {font-size:12px; color:#333333}
+#bt_0_110_01 li a:hover span {color:#E40480; text-decoration:underline}
+#bt_0_110_01 .tips {border:0px}
+#bt_0_110_01 .innerArea {padding:0px}
+#bt_0_110_01 .ContentD {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_110/bt_0_110_01titlebk.jpg) no-repeat 0px 2px; width:180px; height:45px}
+#bt_0_110_01 .ContentD ul {padding:0px 0px 0px 5px; width:175px; height:45px}
+#bt_0_110_01 .ContentD li {line-height:24px; height:24px}
+#bt_0_110_01 .ContentD .titlebox a {width:80px; display:inline-block}
+#bt_0_110_01 .ContentD .titlebox {width:80px; overflow:hidden}
+#bt_0_110_01 .ContentD .titlebox span {color:#FD3598; font-size:15px; font-weight:bold}
+#bt_0_110_01 .ContentD .titlebox a:hover span {text-decoration:none}*/
+
+#bt_0_111_01 {width:560px}
+#bt_0_111_01 dl {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_111/bt_0_111_01_bk.jpg) repeat-x; height:37px; line-height:37px}
+#bt_0_111_01 dt, #bt_0_111_01 dd {float:left}
+#bt_0_111_01 dt {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_111/bt_0_111_01_titlebk.jpg) no-repeat; width:49px; font-size:15px; font-family:Arial; color:#000000; text-align:center; margin-right:1px}
+#bt_0_111_01 dd {width:168px; overflow:hidden; height:37px; text-align:center}
+#bt_0_111_01 dd a span{font-size:15px; color:#0059A5; font-family:Arial}
+#bt_0_111_01 dd a:hover span {color:#E40480; text-decoration:underline}
+#bt_0_111_01 .tips {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_111/bt_0_111_01_rightbk.jpg) no-repeat left; width:6px}
+
+#bt_0_112_01 {width:560px;position:relative}
+#bt_0_112_01 .TabMenu ul {position:absolute; top:16px; right:5px}
+#bt_0_112_01 .TabMenu li {float:left; font-size:13px; font-weight:bold; color:#FFFFFF; text-align:center}
+#bt_0_112_01 .TabMenu li span {font-size:13px; font-weight:bold; color:#FFFFFF; float:left; width:28px; height:18px; overflow:hidden; display:inline-block; cursor:pointer}
+#bt_0_112_01 .TabMenu .selected span {color:#FFFF00}
+#bt_0_112_01 .TabContent {border:1px solid #DDDDDD}
+#bt_0_112_01 .TabContent ul {display:inline-block; padding:0px}
+#bt_0_112_01 .TabContent li {float:left; width:171px; padding:11px 7px; border-right:1px dashed #E5E5E5; border-bottom:1px dashed #E5E5E5}
+#bt_0_112_01 .TabContent .tips01 {border-bottom:0px}
+#bt_0_112_01 .TabContent .tips02 {border-right:0px}
+#bt_0_112_01 .TabContent .imgArea {float:left; overflow:hidden; width:90px; height:90px}
+#bt_0_112_01 .TabContent .imgArea img {width:90px}
+#bt_0_112_01 .TabContent .prdname {float:right; width:75px; overflow:hidden; height:55px}
+#bt_0_112_01 .TabContent .prdname a span {font-size:12px; line-height:18px; color:#333333}
+#bt_0_112_01 .TabContent .prdname a:hover span {color:#E40480; text-decoration:underline}
+#bt_0_112_01 .TabContent .priceArea {float:right; width:75px; text-align:right}
+#bt_0_112_01 .TabContent .priceArea span {text-align:right; font-family:"Century Gothic", Arial, Verdana; letter-spacing:-1px;font-size:24px; color:#D62672; font-weight:bold; overflow:hidden; width:80px; height:24px}
+#bt_0_112_01 .TabContent .TabContentD {display:none}
+#bt_0_112_01 .TabContent .selected {display:block}
+
+#bt_0_113_01 {border:1px solid #DEDEDE; width:198px}
+#bt_0_113_01 h2 {font-size:15px; height:25px; color:#FFFFFF; padding:0px 10px; line-height:25px; background-color:#3F3F3F; border-bottom:1px solid #DEDEDE}
+#bt_0_113_01 ul {padding:5px 5px 10px; overflow:hidden; height:91px; text-align:center}/** david **/
+#bt_0_113_01 li {display:inline; margin:0px 4px}
+#bt_0_113_01 a {white-space:nowrap; line-height:25px}/** david **/
+#bt_0_113_01 a:hover span {text-decoration:underline}
+#bt_0_113_01 .tips01 {color:#DAB581}
+#bt_0_113_01 .tips02 {color:#FE0000; font-size:15px}
+#bt_0_113_01 .tips03 {color:#666666; font-size:13px}
+
+#bt_0_114_01 {position:relative; width:198px; border:1px solid #DEDEDE}
+#bt_0_114_01 h2 {padding:0px 10px; line-height:25px; background-color:#3F3F3F; border-bottom:1px solid #DEDEDE}
+#bt_0_114_01 h2 span {font-size:15px; height:25px; color:#FFFFFF;}
+#bt_0_114_01 .TabMenu {position:absolute; top:5px; right:5px}
+#bt_0_114_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;}
+#bt_0_114_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_114_01 .TabMenu span {font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_114_01 .TabMenu .selected span {color:#FFFFFF}
+#bt_0_114_01 .TabMenu .tips {border-left:0px}
+#bt_0_114_01 .TabContent .TabContentD {overflow:hidden; width:198px; height:140px}/** david **/
+#bt_0_114_01 .TabContent .TabContentD {display:none}
+#bt_0_114_01 .TabContent .selected {display:block}
+
+#bt_0_115_01 {overflow:hidden; width:770px; height:50px}
+
+#bt_0_116_01 {width:768px; height:235px; border:1px solid #DEDEDE; overflow:hidden}
+#bt_0_116_01 .left{padding:2px 0 0 6px; float:left;}
+#bt_0_116_01 h2 {width:280px;height:40px;padding-left:5px; position:relative; top:0px; z-index:1}
+#bt_0_116_01 h2 span {font-size:15px; color:#CC0000; margin:0px 0px 0px 5px; vertical-align:bottom;}
+#bt_0_116_01 h3 {width:280px; height:180px; float:left;}
+#bt_0_116_01 ul {display:inline-block; position:relative}
+#bt_0_116_01 li {padding:2px 0 0 6px;float:left}
+#bt_0_116_01 li {border-left:1px dashed #DDDDDD; width:138px; _width:136px; padding:5px 10px; text-align:center}
+#bt_0_116_01 li .imgArea {width:135px; height:135px; overflow:hidden; display:inline-block}
+#bt_0_116_01 li .tops01 span {color:#FF0000; font-size:13px; margin:2px 0px; overflow:hidden; height:18px; display:block}
+#bt_0_116_01 li .tops02 span {height:34px; line-height:17px; font-size:13px; color:#333333; overflow:hidden; display:block; cursor:pointer}
+#bt_0_116_01 li .tops02 a:hover span {color:#E40480; font-size:13px; text-decoration:underline}
+#bt_0_116_01 li .priceArea span {background-color:#FF0000; color:#FFFFFF; font-size:24px; font-weight:bolder; font-family: "Century Gothic", Arial, Verdana; letter-spacing:-1px; line-height:26px; margin:2px 0px; display:block}
+
+#nineArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/whoBuyBk.jpg?t=20130103) no-repeat scroll 0;border-width: 3px; border-style: solid; border-color: #CCCCCC; display: inline-block; margin-bottom:8px; #margin-bottom:10px; height:40px; width:193px}
+#nineArea .innerArea {padding-bottom:0px}
+#nineArea .title {font-size:15px; padding:5px; font-weight:bold; height:36px}
+#nineArea .title #whoBuy {float:right; width:183px; overflow:hidden; height:38px;position:relative;}
+#nineArea .title #whoBuy .TabContent {position: relative; display:inline-block; overflow:hidden}
+#nineArea .title #whoBuy .TabContent .TabContentD{width:185px; height:40px; line-height:19px; overflow:hidden; color: #666666;font-weight: normal}
+#nineArea .title #whoBuy .TabContent .TabContentD p {float:right; width:160px; font-weight:normal; overflow:hidden; height:38px}
+#nineArea .title #whoBuy .TabContent .TabContentD p .prdnme {color:#D62672}
+
+#eightArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/bt_0_117_01topbk.gif?t=20130103) no-repeat; margin-bottom:0px}
+#eightArea .innerArea {padding-bottom:0px}
+#eightArea .title {font-size:15px; padding:13px 10px; font-weight:bold}
+#eightArea .title #tvLiveOn {float:right; width:430px; overflow:hidden; height:20px;position:relative}
+#eightArea .title #tvLiveOn .TabContent {position: relative; overflow:hidden}
+#eightArea .title #tvLiveOn .TabContent .TabContentD{width:430px; height:20px; line-height:20px; overflow:hidden; color: #666666;font-weight: normal}
+#eightArea .title #tvLiveOn .TabContent .TabContentD p {font-size:15px; font-family:Helvetica; color:#D62672; font-weight:normal}
+#eightArea .title #tvLiveOn .TabContent .TabContentD p .prdnme {width:290px; height:17px; line-height:18px; font-size:15px; font-family:Helvetica; color:#666666; margin:0px 5px; display:inline-block; overflow:hidden}
+#eightArea .title #tvLiveOn .TabContent .TabContentD p b {font-size:13px; font-weight:normal; vertical-align:bottom}
+#eightArea .title #tvLiveOn .TabContent .TabContentD p .prdprice {font-size:17px; font-family:Century Gothic; color:#D62672; font-weight:bold; margin-left:2px}
+#eightArea .region {display:inline-block; padding-left:15px; _padding-left:14px; overflow:hidden; width:750px}
+#eightArea .region h3 {font-size:13px; margin-bottom:5px; line-height:20px}
+#eightArea .region li {width:170px; height:315px; float:left; margin:10px 17px 16px 0px; #margin-bottom:20px; position:relative}/** david **/
+#eightArea .region .TabContent .TabContentD dl{display:inline-block; margin-top:5px; #margin-top:5px}
+#eightArea .region dt, #eightArea .region dd {float:left}
+#eightArea .region dt img {width:80px; height:80px; overflow:hidden; display:inline-block;margin-left:5px}
+#eightArea .region dd {width:75px; margin:0px 2px}/** david **/
+#eightArea .TabContentD .bimgArea {width:170px; height:200px; overflow:hidden; display:inline-block}/** david **/
+#eightArea .region .prdanme {height:50px; line-height:17px; overflow:hidden}/** david **/
+#eightArea .region .prdanme a span {font-size:13px; color:#333333} /** 0725���t�s�W **/
+#eightArea .region .prdanme a:hover span {height:52px; line-height:17px; color:#E40480; text-decoration:underline}
+#eightArea .region .priceArea span {color:#D62672; text-align:right; font-size:24px; font-weight:bold; font-family:"Century Gothic", Arial, Verdana; margin-top:5px; padding-left:2px;display:block; text-align:right}
+#eightArea .region .TabMenu {position:absolute; top:0px; right:0px}
+#eightArea .region .TabMenu li {display:inline; font-size:10px; font-family:Arial; font-weight:bold; line-height:16px; color:#000000; width:auto; margin:0px 0px 0px 3px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/bt_0_117_01navA.gif) no-repeat; width:15px; height:19px; text-align:center; cursor:pointer}
+#eightArea .region .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/bt_0_117_01navB.gif) no-repeat; color:#FFFFFF}
+#eightArea .region .TabContent {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/eightArealibk.jpg) no-repeat bottom; height:300px}
+#bt_0_117_01 .TabContent .TabContentD,
+#bt_0_118_01 .TabContent .TabContentD,
+#bt_0_119_01 .TabContent .TabContentD,
+#bt_0_120_01 .TabContent .TabContentD,
+#bt_0_121_01 .TabContent .TabContentD,
+#bt_0_122_01 .TabContent .TabContentD,
+#bt_0_123_01 .TabContent .TabContentD,
+#bt_0_124_01 .TabContent .TabContentD {display:none}
+#bt_0_117_01 .TabContent .selected,
+#bt_0_118_01 .TabContent .selected,
+#bt_0_119_01 .TabContent .selected,
+#bt_0_120_01 .TabContent .selected,
+#bt_0_121_01 .TabContent .selected,
+#bt_0_122_01 .TabContent .selected,
+#bt_0_123_01 .TabContent .selected,
+#bt_0_124_01 .TabContent .selected {display:block}
+#bt_0_117_01 h3 span {color:#cc6666; font-size:13px} /** 0725���t�ק� **/
+#bt_0_118_01 h3 span {color:#996666; font-size:13px} /** 0725���t�ק� **/
+#bt_0_119_01 h3 span {color:#cc9933; font-size:13px} /** 0725���t�ק� **/
+#bt_0_120_01 h3 span {color:#669966; font-size:13px} /** 0725���t�ק� **/
+#bt_0_121_01 h3 span {color:#336699; font-size:13px} /** 0725���t�ק� **/
+#bt_0_122_01 h3 span {color:#999933; font-size:13px} /** 0725���t�ק� **/
+#bt_0_123_01 h3 span {color:#3399cc; font-size:13px} /** 0725���t�ק� **/
+#bt_0_124_01 h3 span {color:#9966ff; font-size:13px} /** 0725���t�ק� **/
+
+#bt_0_125_01 {width:198px; border:1px solid #DDDDDD}
+#bt_0_125_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_125/bt_0_125_01titlbk.jpg) repeat-x; height:30px; line-height:30px}
+#bt_0_125_01 h2 span {font-size:15px; color:#FFFFFF;padding:0px 5px}
+#bt_0_125_01 ul {height:65px}
+#bt_0_125_01 li {float:left; margin:0px 6px 5px 0px; _margin:0px 4px 5px 0px}
+
+#bt_0_126_01 {width:198px; border:1px solid #DDDDDD}
+#bt_0_126_01 .h2 {font-weight:bold;background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_126/bt_0_126_01titlbk.jpg) repeat-x; height:30px; line-height:30px; font-size:15px; color:#FFFFFF; border-bottom:1px solid #DDDDDD; padding:0px 5px}
+#bt_0_126_01 img {margin:5px; _margin:5px 4px}
+#bt_0_126_01 .timeArea {float:right; margin:4px 0px 0px; font-size:17px; color:#000000; height:24px; line-height:24px}
+#bt_0_126_01 .timeArea span {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_126/timebk.gif) no-repeat; width:15px; height:24px; line-height:24px; margin:0px 1px; display:inline-block; text-align:center; color:#FFFFFF; font-size:17px; font-family:Verdana}
+
+#bt_0_127_01 {width:198px; border:1px solid #DDDDDD}
+#bt_0_127_01 .h2 {font-weight:bold;background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_127/bt_0_127_01titlbk.jpg) repeat-x; height:30px; line-height:30px; font-size:15px; color:#FFFFFF; border-bottom:1px solid #DDDDDD; padding:0px 5px; position:relative}
+#bt_0_127_01 .h2 img {margin:0px; position:absolute; top:0px; left:10px}
+#bt_0_127_01 img {margin:5px; _margin:5px 4px}
+#bt_0_127_01 .timeArea {float:right; margin:4px 0px 0px; font-size:17px; color:#000000; height:24px; line-height:24px}
+#bt_0_127_01 .timeArea b {color:#000000; font-size:15px}
+#bt_0_127_01 .timeArea span {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_127/timebk.gif) no-repeat; width:15px; height:24px; line-height:24px; margin:0px 1px; display:inline-block; text-align:center; color:#FFFFFF; font-size:17px; font-family:Verdana}
+
+#bt_0_128_01 {width:198px; border:1px solid #DDDDDD; position:relative}
+#bt_0_128_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_128/bt_0_128_01titlbk.jpg) repeat-x; height:30px; line-height:30px; font-size:15px; color:#FFFFFF; border-bottom:1px solid #DDDDDD; padding:0px 5px; position:relative}
+#bt_0_128_01 h2 span{font-weight: bold; font-size:15px; color:#FFFFFF; }
+#bt_0_128_01 img {margin:5px}
+#bt_0_128_01 .TabMenu {position:absolute; top:0px; right:0px; margin:10px 5px 0px 0px}
+#bt_0_128_01 .TabMenu ul {color:#CECECE}
+/* new tab style start */
+#bt_0_128_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_128_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_128_01 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_128_01 .TabContent .TabContentD {display:none}
+#bt_0_128_01 .TabContent .selected {display:block}
+
+#bt_0_128_02 {width:198px; border:1px solid #DDDDDD; position:relative; ; margin-bottom:10px}
+#bt_0_128_02 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_128/bt_0_128_01titlbk.jpg) repeat-x; height:30px; line-height:30px; font-size:15px; color:#FFFFFF; border-bottom:1px solid #DDDDDD; padding:0px 5px; position:relative}
+#bt_0_128_02 h2 span{font-weight: bold; font-size:15px; color:#FFFFFF; }
+#bt_0_128_02 img {margin:5px}
+#bt_0_128_02 .TabMenu {position:absolute; top:0px; right:0px; margin:10px 5px 0px 0px}
+#bt_0_128_02 .TabMenu ul {color:#CECECE}
+/* new tab style start */
+#bt_0_128_02 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_128_02 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_128_02 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_128_02 .TabContent .TabContentD {display:none}
+#bt_0_128_02 .TabContent .selected {display:block}
+
+
+#fourArea ul {display:inline-block; font-size:15px}
+#fourArea li {float:left; width:185px; margin-left:10px}
+#fourArea .tips {margin:0px}
+#bt_0_129_01 {width:185px; position:relative}
+#bt_0_129_01 h2 {font-size:15px; line-height:30px; height:30px}
+#bt_0_129_01 h2 span{font-weight:bold; font-size:15px; line-height:30px; height:30px}
+#bt_0_129_01 .TabMenu {position:absolute; top:5px; right:0px; display:inline}
+#bt_0_129_01 .TabMenu ul {display:inline}
+/* new tab style start */
+#bt_0_129_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin:0 3px 0 0px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_129_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_129_01 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_129_01 .TabContentD {border:1px solid #DDDDDD; border-top:2px solid #647ECB; overflow:hidden; width:183px; height:200px}
+#bt_0_129_01 .TabContent .TabContentD {display:none}
+#bt_0_129_01 .TabContent .selected {display:block}
+
+#bt_0_130_01 {width:185px; position:relative}
+#bt_0_130_01 h2 {font-size:15px; line-height:30px; height:30px}
+#bt_0_130_01 h2 span{font-weight:bold; font-size:15px; line-height:30px; height:30px}
+#bt_0_130_01 .TabMenu {position:absolute; top:5px; right:0px}
+#bt_0_130_01 .TabMenu ul {display:inline}
+/* new tab style start */
+#bt_0_130_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin:0 3px 0 0px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_130_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_130_01 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_130_01 .TabContentD {border:1px solid #DDDDDD; border-top:2px solid #B18341}
+#bt_0_130_01 .TabContent .TabContentD {display:none}
+#bt_0_130_01 .TabContent .selected {display:block}
+
+#bt_0_131_01 {width:185px; position:relative}
+#bt_0_131_01 h2 {font-size:15px; line-height:30px; height:30px}
+#bt_0_131_01 h2 span{font-weight:bold; font-size:15px; line-height:30px; height:30px}
+#bt_0_131_01 .TabMenu {position:absolute; top:5px; right:0px}
+#bt_0_131_01 .TabMenu ul {display:inline}
+/* new tab style start */
+#bt_0_131_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin:0 3px 0 0px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_131_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_131_01 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_131_01 .TabContentD {border:1px solid #DDDDDD; border-top:2px solid #D62672}
+#bt_0_131_01 .TabContent .TabContentD {display:none}
+#bt_0_131_01 .TabContent .selected {display:block}
+
+#bt_0_132_01 {width:185px; position:relative}
+#bt_0_132_01 h2 {font-size:15px; line-height:30px; height:30px}
+#bt_0_132_01 h2 span{font-weight:bold; font-size:15px; line-height:30px; height:30px}
+#bt_0_132_01 .TabMenu {position:absolute; top:5px; right:0px}
+#bt_0_132_01 .TabMenu ul {display:inline}
+/* new tab style start */
+#bt_0_132_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin:0 3px 0 0px;font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_132_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_132_01 .TabMenu .selected {color:#FFFFFF}
+/* new tab style end */
+#bt_0_132_01 .TabContentD {border:1px solid #DDDDDD; border-top:2px solid #6E2424}
+#bt_0_132_01 .TabContent .TabContentD {display:none}
+#bt_0_132_01 .TabContent .selected {display:block}
+
+#bt_0_133_01 {width:198px; border:1px solid #DDDDDD; border-bottom:0px}
+#bt_0_133_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_133/bt_0_133_01titlbk.jpg) repeat-x; height:30px; line-height:30px; font-size:15px; color:#FFFFFF; border-bottom:1px solid #DDDDDD; padding:0px 5px}
+#bt_0_133_01 li {border-bottom:1px dashed #CFCFCF}
+#bt_0_133_01 .btn01 {float:right; margin-top:4px; display:none}
+
+#bt_0_134_01 {width:210px;position:relative}
+#bt_0_134_01 .TabContent .TabContentD {width:210px; height:245px; overflow:hidden; position:relative}/** david **/
+#bt_0_134_01 .TabContent .TabContentD span {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_134/bt_0_134_01.png) no-repeat; width:59px; height:31px; position:absolute; bottom:0px; right:0px; font-size:25px; font-family:Century Gothic; color:#FFFFFF; font-weight:bold; letter-spacing:-1px; padding:19px 0px 0px 7px; cursor:pointer}
+#bt_0_134_01 .TabMenu {position:absolute; top:5px; right:5px}
+#bt_0_134_01 .TabMenu li {width:15px; height:15px; background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg02.gif) no-repeat; text-align:center; display:inline-block;float:left;margin-right:3px;}
+#bt_0_134_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/tabbg01.gif) no-repeat}
+#bt_0_134_01 .TabMenu span {font-family:arial; font-size:10px; color:#000000; font-weight:bold; cursor:pointer}
+#bt_0_134_01 .TabMenu .selected span {color:#FFFFFF}
+#bt_0_134_01 .TabMenu .tips {border-left:0px}
+#bt_0_134_01 .TabContent .TabContentD {display:none}
+#bt_0_134_01 .TabContent .selected {display:block}
+
+#bt_0_135_01 {width:198px; border:1px solid #DDDDDD}
+#bt_0_135_01 img {width:198px}
+
+/* for main page css img START*/
+#bt_0_106_01 .TabMenu span {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px 0px}
+#bt_0_106_01 .TabMenu .selected span {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -28px}
+#bt_0_107_01 li {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -56px}
+#bt_0_107_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -95px}
+#bt_0_134_01 .TabMenu li,
+#bt_0_109_01 .TabMenu li,
+#bt_0_141_01 .TabMenu li,
+#bt_0_114_01 .TabMenu li,
+#bt_0_128_01 .TabMenu li,
+#bt_0_128_02 .TabMenu li,
+#bt_0_129_01 .TabMenu li,
+#bt_0_130_01 .TabMenu li,
+#bt_0_131_01 .TabMenu li,
+#bt_0_132_01 .TabMenu li{background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -134px}
+#bt_0_134_01 .TabMenu .selected,
+#bt_0_109_01 .TabMenu .selected,
+#bt_0_141_01 .TabMenu .selected,
+#bt_0_114_01 .TabMenu .selected,
+#bt_0_128_01 .TabMenu .selected,
+#bt_0_128_02 .TabMenu .selected,
+#bt_0_129_01 .TabMenu .selected,
+#bt_0_130_01 .TabMenu .selected,
+#bt_0_131_01 .TabMenu .selected,
+#bt_0_132_01 .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -159px}
+#todayArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -184px}
+#todayArea h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -220px}
+#bt_0_111_01 dl {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -256px}
+#bt_0_111_01 dt {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -303px}
+#bt_0_111_01 .tips {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -350px}
+#eightArea .region .TabMenu li {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -134px}
+#eightArea .region .TabMenu .selected {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -159px}
+#bt_0_125_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -455px}
+#bt_0_126_01 .h2,
+#bt_0_128_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -495px}
+#bt_0_128_02 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -495px}
+#bt_0_126_01 .timeArea span {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -535px}
+#bt_0_133_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -569px}
+/*#bt_0_110_01 h2 {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) repeat-x 0px -717px}
+#bt_0_110_01 .topleftArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -609px}
+#bt_0_110_01 .topleftArea .toprightArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 176px -626px}
+#bt_0_110_01 .footerleftArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -643px}
+#bt_0_110_01 .footerleftArea .footerrightArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 176px -660px}
+#bt_0_110_01 .ContentD {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/main/indexallbkimg.gif) no-repeat 0px -677px}*/
+/* for main page css img END*/
+
+
+/** yfchi 20120230�s�W start**/
+#left210Area {float:left; width:210px; overflow:hidden} 
+
+/**�s�϶�(�M�ϫ�s) **/
+#bt_0_144_01 li {float:left; margin-left:4px}
+#bt_0_144_01 .first {margin-left:0px}
+#bt_0_144_01 a .selected {display:inline-block}
+#bt_0_144_01 a:hover .selected {display:none}
+#bt_0_144_01 a .unselected {width:64px;height:64px;display:none}
+#bt_0_144_01 a:hover .unselected {display:inline-block}
+
+/**�s�W�϶�(3C�M��)**/
+.bt380leftclass {float:left; width:380px; margin:0px 0px 10px} /** �s�W��TopBottom201108.css **/
+.bt380rightclass {float:right; width:380px; margin:0px 0px 10px} /** �s�W��TopBottom201108.css **/
+
+#bt_0_145_01 {border:1px solid #DDDDDD} /** 3C�a�q�ѤѲ{��϶� **/
+#bt_0_145_01 h3 {background-color:#3E66BF; height:25px; line-height:25px; padding:0px 5px}
+#bt_0_145_01 h3 span {font-size:16px; color:#FFFFFF}
+#bt_0_145_01 .TabMenu {background-color:#999999; height:24px}
+#bt_0_145_01 .TabMenu li {float:left; height:21px; line-height:21px; border-left:1px solid #FFFFFF; margin-top:3px; display:inline-block}
+#bt_0_145_01 .TabMenu a {width:75px; height:21px; text-align:center; display:block; overflow:hidden}
+#bt_0_145_01 .TabMenu a span {font-size:13px; color:#FFFFFF}
+#bt_0_145_01 .TabMenu .first {border-left:0px}
+#bt_0_145_01 .TabMenu .first a {width:74px}
+#bt_0_145_01 .TabMenu .selected {background-color:#FFFFFF}
+#bt_0_145_01 .TabMenu .selected a span {color:#666666}
+#bt_0_145_01 .TabContent .TabContentD {display:none}
+#bt_0_145_01 .TabContent .selected {display:block}
+#bt_0_145_01 .TabContentD {width:378px; padding-top:10px; display:inline-block}
+#bt_0_145_01 .TabContentD li {_float:right; height:60px}
+#bt_0_145_01 .TabContentD li .prdname {width:218px; height:18px; overflow:hidden; display:inline-block; padding-right:5px}
+#bt_0_145_01 .TabContentD li .prdname span {font-size:15px; color:#0059A5}
+#bt_0_145_01 .TabContentD li .prdname:hover {text-decoration:none}
+#bt_0_145_01 .TabContentD li .prdname:hover span {color:#E40480; text-decoration:underline}
+#bt_0_145_01 .TabContentD li .prdtxt span {width:145px; height:24px; line-height:24px; font-size:12px; color:#FF0000; overflow:hidden; display:inline-block}
+#bt_0_145_01 .TabContentD li .prdtxt .price {float:right; width:auto; font-size:22px; font-family:"Century Gothic",Arial,Verdana; color:#D62672; font-weight:bold; position:relative; top:0px; top:-6px \9; margin-right:5px}
+#bt_0_145_01 .TabContentD li .prdtxt .price:not(*:root) {top:-4px}
+#bt_0_145_01 .TabContentD .first {float:left; width:135px; height:180px; margin:0px 10px 5px; _margin:0px 5px 5px}
+#bt_0_145_01 .TabContentD .first img {border:1px solid #CCCCCC}
+#bt_0_145_01 .TabContentD .first .prdname {width:135px; height:16px; margin-top:5px; overflow:hidden; display:inline-block}
+#bt_0_145_01 .TabContentD .first .prdname span {font-size:12px; font-family:Arial, sans-serif; color:#6F6F6f}
+#bt_0_145_01 .TabContentD .first .prdname:hover {text-decoration:none}
+#bt_0_145_01 .TabContentD .first .prdname:hover span {color:#E40480; text-decoration:underline}
+#bt_0_145_01 .TabContentD .first .priceArea {width:100%; height:auto; line-height:inherit; text-align:right; position:relative; top:-8px; top:-6px \9; #top:0px}
+#bt_0_145_01 .TabContentD .first .priceArea span {font-size:24px; font-family:"Century Gothic",Arial,Verdana; color:#D62672; font-weight:bold; position:relative; top:0px}
+
+#bt_0_146_01 {border:1px solid #DDDDDD; display:inline-block} /** ��~��~�W��϶� **/
+#bt_0_146_01 h3 {background-color:#EE653B; font-size:16px; color:#FFFFFF; height:25px; line-height:25px; padding:0px 5px}
+#bt_0_146_01 h3 span {font-size:16px; color:#FFFFFF}
+#bt_0_146_01 .prdArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/overseas_salebkimg.gif) no-repeat; float:left; width:189px; padding:23px 0px 2px; padding-top:25px \9; text-align:center}
+#bt_0_146_01 .prdArea:not(*:root) {padding-top:25px}
+#bt_0_146_01 .prdArea .prdimg img {border:1px solid #CCCCCC}
+#bt_0_146_01 .prdArea .prdname {height:14px; display:block; padding:8px 10px 0px; overflow:hidden}
+#bt_0_146_01 .prdArea .prdname span {font-size:12px; color:#6F6F6F}
+#bt_0_146_01 .prdArea a:hover span {color:#E40480; text-decoration:underline}
+#bt_0_146_01 .prdArea .prdprice {color:#666666; text-align:right; padding:0px 10px}
+#bt_0_146_01 .prdArea .prdprice span {font-size:24px; font-family:"Century Gothic",Arial,Verdana; color:#D62672; font-weight:bold}
+#bt_0_146_01 .first {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/overseas_newbkimg.gif) no-repeat; width:188px; border-right:1px dashed #E5E5E5}
+/** yfchi 20120230�s�W end**/

@@ -1,0 +1,393 @@
+.thrColFixHdr #container { 
+	width: 980px;
+	background: #FFFFFF;
+	margin: 0 auto;
+	text-align: left;
+   padding: 0px;
+   overflow: visible;
+} 
+.thrColFixHdr #sidebar1 {
+	float: left;
+	width: 199px;
+	background: #ffffff;
+	padding:0px;
+   padding-top: 5px;
+   overflow: hidden;
+   margin: 0px;
+}
+.thrColFixHdr #sidebar2 {
+	float: left;
+	width: 214px;
+	background: #ffffff;
+	padding:0px;
+   padding-top: 5px;
+   overflow: hidden;
+   margin: 0px;
+}
+.thrColFixHdr #mainContent { 
+	float: left;
+	width: 567px;
+	background: #ffffff;
+	padding:0px;
+   padding-top: 5px;
+   overflow: hidden;
+   margin: 0px;
+} 
+
+
+#newDCatPrdBody {
+	BACKGROUND-POSITION: right 50%; FONT-SIZE: 12px; FLOAT: left; BACKGROUND-IMAGE: url(/category/images/cat-VLine15.gif); MARGIN: 0px; WIDTH: 140px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, "新細明體"; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+
+/* 20090521修改 */
+#new20090521DCatPrdBody {
+	BACKGROUND-POSITION: right 50%;
+	FONT-SIZE: 12px;
+	FLOAT: left;
+	BACKGROUND-IMAGE: url(/category/images/cat-VLine15.gif);
+	WIDTH: 120px;
+	BACKGROUND-REPEAT: no-repeat;
+	FONT-FAMILY: Arial, "新細明體";
+	TEXT-ALIGN: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 3px;
+}
+
+.newmomoja18B {
+	FONT-SIZE: 36px;
+	COLOR: #ff0099;
+	LINE-HEIGHT: 36px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+.newmomoja18B2 {
+	FONT-SIZE: 24px;
+	COLOR: #ff0099;
+	LINE-HEIGHT: 18px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+}
+.productWord16 {
+	FONT-SIZE: 16px;
+	COLOR: #ff0099;
+	LINE-HEIGHT: 16px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+#newPDLGoodsInfo {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; VERTICAL-ALIGN: top; WIDTH: 720px; PADDING-TOP: 4px; TEXT-ALIGN: left
+}
+.momoja13Pink {
+	color: #ff0099;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 150%;
+}
+.momoja24Pink {
+	color: #ff0099;
+  font-family: "Arial", "新細明體";
+  font-size: 24px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 150%;
+}
+
+#newDCatPrdBody2 {
+	BACKGROUND-POSITION: right 50%; 
+	FONT-SIZE: 12px; 
+	FLOAT: left; 
+	BACKGROUND-IMAGE: url(..http://www.momoshop.com.tw/goods/images/cat-VLine15.gif); 
+	MARGIN: 0px; 
+	WIDTH: 175px; 
+	height: 240px;
+	BACKGROUND-REPEAT: no-repeat; 
+	FONT-FAMILY: Arial, "新細明體"; 
+	BACKGROUND-COLOR: #ffffff; 
+	TEXT-ALIGN: center
+}
+#newDCatPrdBody2B {
+	FONT-SIZE: 12px; FLOAT: left; 
+	BACKGROUND-IMAGE: url(..http://www.momoshop.com.tw/goods/images/pages_bg_oripink2b.gif); 
+	MARGIN: 0px; 
+	Padding-top:12px;
+	WIDTH: 175px; 
+	height: 240px;
+	BACKGROUND-REPEAT: no-repeat; 
+	FONT-FAMILY: Arial, "新細明體"; 
+	BACKGROUND-COLOR: #ffffff; 
+	TEXT-ALIGN: center
+}
+.newDCatPrdBody2B150 {
+	FONT-SIZE: 12px; 
+	margin:auto; 
+	WIDTH: 145px; 
+	height: 35px; 
+	overflow:hidden;
+	FONT-FAMILY: Arial, "新細明體"; 
+	BACKGROUND-COLOR: #ffffff; 
+	TEXT-ALIGN: center;
+}
+.DCatLine700 {
+	width: 700px;
+	background-image:url(..http://www.momoshop.com.tw/goods/images/cat-Line730.gif);
+	text-align:center;
+	background-repeat: no-repeat;
+	margin: 5 0 0 0px;
+	height: 8px;
+	clear:both;
+}
+
+/* 20090602修改 */
+#PDOverHide {
+	FONT-SIZE: 12px;
+	WIDTH: 120px;
+	FONT-FAMILY: Arial, "新細明體";
+	TEXT-ALIGN: center;
+	height: 40px;
+	overflow: hidden;
+
+}
+
+/* 20100908修改 */
+#paybuy {
+	font-size:12px;
+	font-family:"新細明體";
+	line-height:24px;
+	width:380px;
+    margin-bottom: 3px;
+	}
+.paybuyr {
+	font-size:12px;
+	font-family:"新細明體";
+	line-height:24px;
+	color:#F00;
+	font-weight:bold;
+	}
+.paybuyf {
+	font-size:12px;
+	font-family:"新細明體";
+	line-height:24px;
+	color: #666;
+	}
+.paybuy a {
+	font-size:12px;
+	font-family:"新細明體";
+	line-height:24px;
+	color: #009;
+	text-decoration:underline;
+	}
+#presents {
+	width:380px;
+	height:24px;
+	}
+.presents a{
+	font-size:12px;
+	font-family:"新細明體";
+	line-height:24px;
+	color: #666;
+	text-decoration:underline;
+	}
+.pointfont {
+	font-size:15px;
+	color:#F23B97;
+	font-family: "新細明體";
+	line-height:20px;
+	font-weight:bold;
+	}
+.productname {
+	font-size:15px;
+	color: #000;
+	font-family: Arial,"新細明體";
+	line-height:20px;
+	font-weight:bold;
+	}
+.eventime {
+	font-size:15px;
+	color: #F00;
+	font-family: Arial,"新細明體";
+	line-height:20px;
+	font-weight:bold;
+		}
+.mainitemb {
+	border-bottom:#999999 1px dotted;
+	}
+.mainitemb1 {
+	border-bottom:#999999 1px dotted;
+	line-height:20px;
+	}
+.momoja28 {
+	color: #ff0099;
+	font-family:Arial, "新細明體";
+	font-size:30px;
+	font-weight:bold;
+	line-height:150%;
+		}
+.redmomoja18 {
+	color: #F00;
+	font-family:Arial,;
+	font-size:18px;
+	font-weight:bold;
+	}
+.redmomoja30 {
+	color: #F00;
+	font-family:Arial,;
+	font-size:24px;
+	font-weight:bold;
+	line-height:32px;
+	}
+.howtouse{
+	color:#039;
+	font-family:"新細明體";
+	font-size:12px;
+	text-decoration:underline;
+	}
+.howtouse a{
+	color:#039;
+	font-family:"新細明體";
+	font-size:12px;
+	text-decoration:underline;
+	}
+.carcar {
+    font-size:12px;
+	font-family:"新細明體";
+	line-height:20px;
+	width:220px;
+	}
+#carvarf {
+	padding-left:4px;
+	font-size:12px;
+	font-family:"新細明體";
+	color:#039;
+		}
+.carcara {
+	font-size:12px;
+	font-family:"新細明體";
+	color: #F00;
+	text-decoration:underline;
+		}
+.carcara a {
+	font-size:12px;
+	font-family:"新細明體";
+	color: #F00;
+	text-decoration:underline;
+		}
+.carcarb {
+	font-size:12px;
+	font-family:"新細明體";
+	color: #333;
+	text-decoration:underline;
+		}
+#shopcar {
+	width:181px;
+	position:absolute;
+	left:980px;
+	top: 550px;
+				}
+#shopcar1 {
+	width:228px;
+				}
+#shopcar2 {
+	width:181px;
+				}
+.toptop {
+	position:relative;
+		}
+.conmain {
+	width:380px;
+	}
+.conmainf {
+	text-align:left;
+	}
+#bluelayer a{
+	width:390px;
+	color:#039;
+	font-size:12px;
+	font-family:"新細明體";
+	text-align:right;
+	padding-right:5px;
+	}
+#graylayer a{
+	width:300px;
+	color:#999999;
+	font-size:12px;
+	font-family:"新細明體";
+	text-align:right;
+	padding-right:5px;
+	line-height:16px;
+	}
+#photore {
+	width:320px;}
+#jajago{
+	width:320px;
+	}
+#jajagos{
+	width:316px;
+	}
+#jajagol{
+	width:316px;
+	}
+#sharebox{
+	width:318px;
+	margin: 5px 0 10px 0;}
+#loginnew{
+	background-color:#FFF;
+	width:600px;
+	border: 2px solid #666666;
+	}
+#loginm {
+	width:420px;
+	margin: 0 auto;
+	text-align:left;
+	}
+.loginfont {
+    text-align:left;
+	line-height:36px;}
+.loginredfont {
+    text-align:left;
+	color:#F00;
+	font-size:12px;
+	line-height:20px;}
+.loginbluefont a{
+	padding-left:30px;
+	color: #039;
+	font-size:12px;
+	line-height:20px;
+	text-decoration:underline;}
+.loginbluefont1 a{
+	padding-right:45px;
+	color: #039;
+	font-size:12px;
+	line-height:20px;
+	text-decoration:underline;}
+#morela{
+	width:332px;
+	text-align:left;
+	}
+#morelb{
+	width:332px;
+	text-align:left;
+	}
+.morelabf{
+	color:#039;
+	font-size:15px;
+	line-height:28px;
+	padding-left:5px;
+	}
+.morelarf{
+	color: #F00;
+	font-size:12px;
+	}
+.fontpp{
+	font-size:12px;
+	color:#333;
+	background-color:#cd93e8;}
+#moreinfofram{
+	width:380px;
+	text-align:left;
+	}

@@ -1,0 +1,313 @@
+/* =================================== Main 頁面 ==================================*/
+#LeftTableBase199 {
+ 	margin: auto;
+	PADDING-TOP: 0px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+
+}
+
+#LeftTable2Base199 {
+	margin: auto;
+	PADDING-TOP: 3px;
+	PADDING-RIGHT: 5px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+
+#BrandTable {
+	margin: auto;
+	PADDING-TOP: 3px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+
+#RightTable2Base780 {
+	margin: auto;
+	PADDING-TOP: 0px;
+	text-align:right;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+
+/* =================================== Main 熱門品牌 ==================================*/
+#MainMarquee2 {height:50px;overflow:hidden;position:relative;}
+#MainMarquee2 div {position:absolute;top:0;left:0;line-height:0px;visibility:hidden;}
+#MainMarquee2 marquee{height:1em;display:block;}
+#MainMarquee2 a {padding-right:5px;}
+
+#HotBrand {
+	width: 100px;
+	height: 40px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 30 1 1px;
+	//padding-right: 2px;
+	text-align:center;
+	float: left;
+}
+
+/* =================================== momo ==================================*/
+/*瀏覽記錄*/
+.blist{
+	margin-left: 913px;
+	margin-top: 23px;
+	z-index: 5;
+}
+.POPHistory {
+   position: absolute;
+   top: -100px;
+   left: -100px;
+   z-index: 10;
+   width: 64px;
+   overflow: hidden;
+   visibility: hidden;
+}
+.POPButton {
+   cursor: pointer;
+   margin: 0px;
+}
+/*文字部分*/
+
+
+.PDWord a:link, .PDWord a:visited {
+  color: #666666;
+  text-align:left;
+	text-decoration: underline;
+}
+.PDWord a:hover {
+  color: #000000;
+  text-align:left;  
+	text-decoration: underline;
+}
+
+.search_word a:link,.search_word a:visited {
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+.search_word a:hover {
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.yword{
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFF66;
+}
+
+/*大看板*/
+#mainad 
+	{
+	padding:0px;
+	margin:0px;
+	width:374px;
+	height: 94px;
+	border: 3px solid #FF6699;
+	}
+
+/*熱門品牌*/
+#scroller_brand {
+	position: absolute;
+	font-size:12px;
+	top: 9px;
+	border: 1px;
+	height: 40px;
+	width: 860px;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 117px;
+}
+#scroller_brand a {
+color: #FFFFFF;
+}
+.hotbrand{
+}
+
+
+/*上層目錄*/
+#allitem {
+	margin:auto;
+	display: inline;
+	width: 980px;
+}
+
+.word {
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #ff0099;
+}
+.whiteword {
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-align: center;
+	vertical-align: text-bottom;
+	color: #FFFFFF;
+}
+.word_price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ff0099;
+}
+.word_shadow {
+	background-color: #000000;
+}
+
+.menu_word {
+	font-family: "新細明體",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-align: center;
+	vertical-align: text-bottom;
+}
+
+.search_table {
+	float: left;
+	position: absolute;
+	margin-top: 4px;
+}
+.style2 {
+	color: #FFFF66;
+	font-weight: bold;
+}
+.Table_All {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: "新細明體",Arial, Helvetica, sans-serif;
+	BORDER-COLLAPSE: collapse;
+	margin-top: 5px;
+}
+
+.Table_All2 {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: "新細明體",Arial, Helvetica, sans-serif;
+	BORDER-COLLAPSE: collapse;
+	margin-top: 3px;
+}
+
+.Table_no {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: "新細明體",Arial, Helvetica, sans-serif;
+	BORDER-COLLAPSE: collapse;
+	margin-top: -5px;
+}
+
+#TableSet TABLE {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: "新細明體",Arial, Helvetica, sans-serif;
+	BORDER-COLLAPSE: collapse;
+	margin-top: 5px;
+}
+#TableSet TABLE.nogap {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: "新細明體",Arial, Helvetica, sans-serif;
+	BORDER-COLLAPSE: collapse;
+	margin-top: 0px;
+}
+.imgg {
+	padding-top: 3px;
+}
+.dotspace {
+	padding-top: 8px;
+	padding-right: 6px;
+	padding-bottom: 8px;
+	padding-left: 20px;
+	vertical-align: text-bottom;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.TdArrIco{
+   width:60px;
+   height:4px;
+   overflow: hidden;
+}
+
+/* =================================== momonav ==================================*/
+
+#TopSubTemp {
+   display: none;
+}
+
+/* =================================== momoTab ==================================*/
+
+/*- Menu Tabs F--------------------------- */
+.Tabs {
+	padding:0px;
+	margin:0px;
+	width:379px;
+	height: 170px;
+}
+
+.TabaF {
+	width:277px;
+	height: 31px;
+	font-size:13px;
+	line-height:normal;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0px;
+	padding-left: 108px;
+	margin-top:5px;
+}
+.TabaF a {
+	width: 91px;
+   height: 31px;
+   display: block;
+	float:left;
+	margin: 0px;
+	text-decoration:none;
+	background-repeat: no-repeat;
+	text-align: center;
+   line-height: 35px;
+   color: #666666;
+   overflow: hidden;
+}
+
+.LeftWord a:link, .LeftWord a:visited {
+  color: #000000;
+  text-align:left;
+	text-decoration: none;
+}
+.LeftWord a:hover {
+  color: #000000;
+  text-align:left;
+	text-decoration: underline;
+}
+
+.Leftword_price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ff0099;
+}
+
+.Mainword_price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #ff0099;
+}
+
+.Mainword2_price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #ff0099;
+}
+
+.Mainhot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}

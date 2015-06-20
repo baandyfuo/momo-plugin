@@ -1,0 +1,453 @@
+.bt_2_layout {width:980px; overflow:hidden; margin-top:0px}
+#bt_2_layout_b2 {width:200px;overflow:hidden;float:left}
+.bt_2_layout_Content {width:770px;overflow:hidden;float:left;}
+#bt_2_layout_NAV {width:770px;overflow:hidden;height:18px}
+#bt_2_layout_NAV div {width:16px;height:13px;float:left;margin:1px 6px 0 0}
+#bt_2_layout_NAV div img {width:16px;height:13px;border:0px}
+#bt_2_layout_NAV .Home {height:18px;line-height:18px;color:#CC6600}
+#bt_2_layout_b1 {width:770px}
+#bt_2_layout_b1 .btclass {margin-top:10px} 
+
+/**edm**/
+.bt_2_layout_new .bt_2_layout_Content,
+.bt_2_layout_new #bt_2_layout_b1 {width:980px;}
+
+.ft15 #bt_2_layout_b1 #bt_2_056_01 {margin-bottom:10px} 
+
+.ft19 #bt_2_058_06 {border: 2px solid #3e7ff5;} 
+.ft19 #bt_2_058_06 .TabMenu .selected {background-color: #ffffff;}
+.ft19 #bt_2_058_06 .TabMenu .selected span {color: #3e7ff5;}
+.ft19 #bt_2_058_06 .TabMenu li { background-color: #3e7ff5; }
+
+.ft20 #bt_2_058_04 {border: 2px solid #f55d1c;} 
+.ft20 #bt_2_058_04 .TabMenu .selected {background-color: #ffffff;}
+.ft20 #bt_2_058_04 .TabMenu .selected span {color: #f55d1c;}
+#bt_2_058_04 .TabMenu .selected span {font-weight: bold;}
+#bt_2_058_04 .TabMenu li span { font-family: Arial; font-size: 13px;}
+.ft20 #bt_2_058_04 .TabMenu li { background-color: #f55d1c; }
+#bt_2_058_04 .TabMenu li { border-left: 1px solid #ffffff; cursor: default; float: left; height: 28px; line-height: 28px; text-align: center; width: 184px; }
+#bt_2_058_04 .TabContent .TabContentD .txtArea {height: 18px;}
+#bt_2_058_04 .TabContent .TabContentD .txtArea span { color: #ff0000; display: inline-block; font-family: Arial; font-size: 13px; height: 20px; overflow: hidden; width: 160px; }
+
+#bt_0_142_01 #tips #bt_category_Content {width:194px; margin:0px}
+
+#bt_2_019_01 {float:left; width:768px; margin:0px}
+
+#bt_2_008_01 {float:left; width:770px}
+#bt_2_008_01 .bt_2_008_01 {float:left; width:567px; height:335px; padding-top:0px; overflow:hidden}
+#bt_2_008_01 .topFrameArea {float:right; width:202px; height:168px; margin-bottom:0px}
+#bt_2_008_01 .bottomFrameArea {float:right; width:202px; height:168px}
+#bt_2_008_01_RT .TabMenu,
+#bt_2_008_01_RB .TabMenu {position:relative; top:-21px; left:5px; z-index:1}
+
+#bt_2_022_01,
+#bt_2_022_02,
+#bt_2_022_03,
+#bt_2_022_04,
+#bt_2_022_05,
+#bt_2_022_06,
+#bt_2_022_07,
+#bt_2_022_08 ,
+#bt_2_022_11 {float:left; width:770px; display:inline-block}
+
+#bt_2_022_01 .AreaLL .txt div a span,
+#bt_2_022_02 .AreaLL .txt div a span,
+#bt_2_022_03 .AreaLL .txt div a span,
+#bt_2_022_04 .AreaLL .txt div a span,
+#bt_2_022_05 .AreaLL .txt div a span,
+#bt_2_022_06 .AreaLL .txt div a span,
+#bt_2_022_07 .AreaLL .txt div a span,
+#bt_2_022_08 .AreaLL .txt div a span {font-size:12px; line-height:14px; color:#666666; display:block}
+
+#bt_2_022_01 .AreaRR .txt div a span,
+#bt_2_022_02 .AreaRR .txt div a span,
+#bt_2_022_03 .AreaRR .txt div a span,
+#bt_2_022_04 .AreaRR .txt div a span,
+#bt_2_022_05 .AreaRR .txt div a span,
+#bt_2_022_06 .AreaRR .txt div a span,
+#bt_2_022_07 .AreaRR .txt div a span,
+#bt_2_022_08 .AreaRR .txt div a span {font-size:12px; line-height:16px; color:#666666; display:block}
+
+#bt_2_033_01 {float:left; width:770px}
+
+#bt_2_015_01,
+#bt_2_015_02,
+#bt_2_015_03,
+#bt_2_015_04 {float:left; width:770px; height:52px; overflow:hidden; margin:0px; display:block}
+
+#bt_2_050_01,
+#bt_2_050_02 {width:768px; height:118px; margin:0px}
+
+#bt_2_051_01,
+#bt_2_051_02 {width:560px; margin:0px; overflow:hidden}
+
+#bt_2_054_01 {width:198px; margin:0px; border:1px solid #DEDEDE}
+#bt_2_054_01 .ContentArea dl {width:190px; height:40px; margin-top:4px; display:block}
+#bt_2_054_01 .ContentArea .priceArea {float:right; width:80px; height:40px; text-align:left; line-height:35px; display:inline-block}
+
+#bt_2_052_01 {width:560px; margin:0px}
+
+#bt_2_056_01,
+#bt_2_056_02,
+#bt_2_056_03 {height:52px; margin:0px}
+
+#bt_2_040_01,
+#bt_2_040_02,
+#bt_2_040_03,
+#bt_2_040_04 {float:left; width:770px; margin:0px; overflow:hidden}
+
+#bt_2_032_01,
+#bt_2_032_02,
+#bt_2_032_03,
+#bt_2_032_04,
+#bt_2_032_05,
+#bt_2_032_06,
+#bt_2_032_07 {float:left; width:770px; margin:0px}
+#bt_2_032_01 .TabMenu,
+#bt_2_032_02 .TabMenu,
+#bt_2_032_03 .TabMenu,
+#bt_2_032_04 .TabMenu,
+#bt_2_032_05 .TabMenu,
+#bt_2_032_06 .TabMenu,
+#bt_2_032_07 .TabMenu {height:28px}
+#bt_2_032_01 .bt_2_032_01 .TabContent .TabContentD .imgArea span
+#bt_2_032_02 .bt_2_032_02 .TabContent .TabContentD .imgArea span,
+#bt_2_032_03 .bt_2_032_03 .TabContent .TabContentD .imgArea span,
+#bt_2_032_04 .bt_2_032_04 .TabContent .TabContentD .imgArea span,
+#bt_2_032_05 .bt_2_032_05 .TabContent .TabContentD .imgArea span,
+#bt_2_032_06 .bt_2_032_06 .TabContent .TabContentD .imgArea span,
+#bt_2_032_07 .bt_2_032_07 .TabContent .TabContentD .imgArea span {height:15px; font-size:12px; colro:#666666; display:block}
+#bt_2_032_01 .bt_2_032_01 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_02 .bt_2_032_02 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_03 .bt_2_032_03 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_04 .bt_2_032_04 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_05 .bt_2_032_05 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_06 .bt_2_032_06 .TabContent .TabContentD p .prdtxt,
+#bt_2_032_07 .bt_2_032_07 .TabContent .TabContentD p .prdtxt {width:135px; height:35px; font-size:12px; color:#000000; margin:0px; padding:0px; overflow:hidden; display:block}
+
+#bt_2_061_01,
+#bt_2_061_02,
+#bt_2_061_03 {width:770px; margin:0px; overflow:hidden}
+
+#bt_2_002_01 {float:left; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/2/bt_2_002/bg-1.jpg) no-repeat; width:770px; height:320px; display:inline-block}
+
+#bt_2_030_01,
+#bt_2_030_02 {float:left; width:770px; margin-top:10px; display:inline-block}
+
+#bt_2_009_01,
+#bt_2_009_02 {float:left; width:770px; margin-top:10px; display:inline-block}
+
+#bt_2_007_01 {float:left; width:770px; font-size:12px; color:#3E3E3E}
+#bt_2_007_01 .boxFrameContent ul li {padding:7px 4px 4px}
+
+#bt_2_053_01 {width:560px; margin:0px}
+#bt_2_053_01 .TabContent .TabContentD .txtArea span {width:110px; height:28px; font:12px/14px Helvetica; color:#333333; display:inline-block}
+
+#bt_2_055_01,
+#bt_2_055_02 {width:198px; margin:0px; border:1px solid #DEDEDE}
+#bt_2_055_01 .TabContent .TabContentD li,
+#bt_2_055_02 .TabContent .TabContentD li {float:left; width:198px; padding:10px 0px; display:inline-block}
+#bt_2_055_02 .TabMenu {background: url("http://www.momoshop.com.tw/ecm/img/de/2/bt_2_055/bt_2_055_01titlebk.jpg") repeat-x scroll 0 0 transparent; height: 28px; line-height: 28px; position: relative;}
+#bt_2_058_01,
+#bt_2_058_02,
+#bt_2_058_03 ,
+#bt_2_058_04,
+#bt_2_058_06 {width:556px; height:263px; margin:0px; overflow:hidden}
+#bt_2_058_01 .TabMenu,
+#bt_2_058_02 .TabMenu,
+#bt_2_058_03 .TabMenu ,
+#bt_2_058_04 .TabMenu,
+#bt_2_058_06 .TabMenu  {height:28px}
+#bt_2_058_01 .TabContent .TabContentD .txtArea,
+#bt_2_058_02 .TabContent .TabContentD .txtArea,
+#bt_2_058_03 .TabContent .TabContentD .txtArea,
+#bt_2_058_04 .TabContent .TabContentD .txtArea,
+#bt_2_058_06 .TabContent .TabContentD .txtArea {height:18px}
+#bt_2_058_01 .TabContent .TabContentD .prdname a span,
+#bt_2_058_02 .TabContent .TabContentD .prdname a span,
+#bt_2_058_03 .TabContent .TabContentD .prdname a span,
+#bt_2_058_04 .TabContent .TabContentD .prdname a span,
+#bt_2_058_06 .TabContent .TabContentD .prdname a span {width:160px; height:34px; font:13px/16px Arial; color:#333333; display:inline-block; overflow:hidden}
+#bt_2_058_01 .TabContent .TabContentD .details,
+#bt_2_058_02 .TabContent .TabContentD .details,
+#bt_2_058_03 .TabContent .TabContentD .details ,
+#bt_2_058_04 .TabContent .TabContentD .details,
+#bt_2_058_06 .TabContent .TabContentD .details {top:2px}
+
+#bt_2_059_01 {width:198px; border:1px solid #DEDEDE; margin:0px; overflow:hidden}
+#bt_2_059_01 .TabContent .TabContentD .dd {float:left; width:198px; padding:10px 0px; display:inline-block}
+
+#bt_2_060_01 {margin:0px}
+
+#bt_2_011_01,
+#bt_2_011_02,
+#bt_2_011_03,
+#bt_2_011_04,
+#bt_2_011_05,
+#bt_2_011_06 {width:770px; font-size:12px; color:#3E3E3E; display:inline-block}
+
+#bt_2_017_01,
+#bt_2_017_02,
+#bt_2_017_03 {width:770px; font-size:12px; color:#3E3E3E; display:inline-block}
+#bt_2_017_01 .boxFrameContent,
+#bt_2_017_02 .boxFrameContent,
+#bt_2_017_03 .boxFrameContent {_width:763px; border:1px solid #DDDDDD; border-top:0px; border-bottom:0px; padding:0px 2px; _padding:0px 5px}
+
+#bt_2_062_01 {margin:0px}
+#bt_2_062_01 #bt_2_062_01_Main {height:28px}
+
+#bt_2_057_01,
+#bt_2_057_02,
+#bt_2_057_03,
+#bt_2_057_04 {width:560px; margin:0px}
+#bt_2_057_01 .TabMenu ul,
+#bt_2_057_02 .TabMenu ul,
+#bt_2_057_03 .TabMenu ul,
+#bt_2_057_04 .TabMenu ul {position:absolute; top:15px; right:5px}
+#bt_2_057_01 .TabContent .TabContentD .txtArea,
+#bt_2_057_02 .TabContent .TabContentD .txtArea,
+#bt_2_057_03 .TabContent .TabContentD .txtArea,
+#bt_2_057_04 .TabContent .TabContentD .txtArea {height:20px}
+#bt_2_057_01 .TabContent .TabContentD .details,
+#bt_2_057_02 .TabContent .TabContentD .details,
+#bt_2_057_03 .TabContent .TabContentD .details,
+#bt_2_057_04 .TabContent .TabContentD .details {top:0px}
+
+#bt_2_041_01,
+#bt_2_041_02 {float:left; width:770px}
+
+#bt_9_001_01 {float:left; width:770px; margin-top:10px; overflow:hidden; display:none}
+#bt_9_002_01 {width:770px; height:370px; margin-top:10px; overflow:hidden; display:none}
+
+#bt_2_005_01,
+#bt_2_005_02,
+#bt_2_005_03,
+#bt_2_005_04 {float:left; width:770px}
+
+#bt_2_006_01,
+#bt_2_006_02,
+#bt_2_006_03,
+#bt_2_006_04,
+#bt_2_006_05,
+#bt_2_006_06,
+#bt_2_006_07 {width:770px; font-size:12px; color:#3E3E3E}
+#bt_2_006_01 .boxFrameContent,
+#bt_2_006_02 .boxFrameContent,
+#bt_2_006_03 .boxFrameContent,
+#bt_2_006_04 .boxFrameContent,
+#bt_2_006_05 .boxFrameContent,
+#bt_2_006_06 .boxFrameContent,
+#bt_2_006_07 .boxFrameContent {_width:753px;border:1px solid #DDDDDD;border-top:0px;border-bottom:0px;padding:5px 9px 0px}
+
+#bt_2_023_01 {float:left; width:770px; display:inline-block}
+
+#bt_2_010_01 {float:left; width:770px; height:370px; font-size:12px; color:#3E3E3E}
+#bt_2_010_01 .bt_2_010_01 .TabMenu li {float:left; width:192px}
+
+#bt_2_001_01,
+#bt_2_001_02 {float:left; width:770px; height:100%}
+
+#bt_2_063_01 {float:left; margin:0px; overflow:hidden}
+
+#bt_2_003_01 {float:left; width:770px}
+#bt_2_003_01 .bt_2_003_01 .TabMenu li {float:left; width:192px}
+
+#bt_2_013_01 {float:left; width:770px; font-size:12px; color:#3E3E3E; display:inline-block}
+
+
+/*.ft29 #subnav a:hover, .ft29 #subnav .selected a {background-color:#556BF6; color:#FFFFFF}*/
+/** 品牌館 **/
+:root #bt_9_002_01 {height:380px\9}
+#bt_9_002_01 {width:770px; height:380px; height:380px\0/; _height:361px; margin-top:10px; overflow:hidden; display:none; padding:0px 0px 20px 0px}
+#bt_9_002_01 ul li { height:395px; margin-bottom:10px}
+#bt_9_002_01 ul li a .prdPrice {font-size:17px; font-family:Century Gothic; color:#D62672; font-weight:bold; display:block; text-align:left; padding:0px 10px; margin-top:0px; #line-height:24px; #margin-top:3px}
+#bt_9_002_01 ul li a .eventredBox {width:100%; height:20px; display:inline-block; padding:0px 10px; font:13px/23px Helvetica; color:#e54b4b; text-align:left; overflow:hidden; }
+#bt_9_002_01 ul li a .specialTitle {color:#e54b4b;}
+#bt_0_162_01 .TabContent{height:100px}
+
+#Dgrp_LCatRightPBase {margin-top:10px}
+
+.CustomerInput .topArea .footerArea .innerArea {width:auto; height:auto; position:relative; display:inline-block}
+.CustomerInput .topArea .footerArea .innerArea ul {padding:20px; position:relative; top:0px; left:0px}
+.CustomerInput .topArea .footerArea .innerArea li {font:13px/30px Helvetica; height:auto; display:block}
+.CustomerInput .topArea .footerArea .innerArea LI input {position:relative}
+
+/** 荷蘭式搶購 **/
+.panic_buying .containerArea .information .quantityArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/event/dutchPromo/quantityAreaBk.png) no-repeat; width:84px; height:100px; font-size:34px; font-family:Arial; color:#E90000; font-weight:bold; display:inline-block; position:absolute; top:-38px; right:38px; padding:217px 0px 0px 23px}
+.panic_buying .containerArea .information .dateArea {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/event/dutchPromo/dateBk.png) no-repeat; width:87px; height:33px; font-size:36px; font-family:Arial; color:#E90000; font-weight:bold; text-align:right; padding:24px 20px 0px 0px; display:inline-block; position:absolute; top:-15px}
+.panic_buying .containerArea .information .panicbuying {font-size:13px; color:#FF0099; position:relative; top:235px}
+.panic_buying .containerArea .information .remarks {width:240px; width:245px \9; margin:0px; position:relative; top:240px}
+.panic_buying .noticeArea li .priceArea span {float:right; font-size:13px; font-family:Verdana; color:#FF0099; margin-top:5px}
+
+/** 小分類列表頁(本館熱銷TOP30) **/
+#prdlistArea .Dgrp_sgrayw {height:34px; overflow:hidden; margin:0px 10px; display:inline-block}
+:root #prdlistArea .priceline {margin:5px 0px 0px 10px\9}
+#prdlistArea .priceline {float:left; margin:8px 0px 0px 10px; margin:5px 0px 0px 10px\0/}
+
+
+#bt_0_layout_b206 {float:left; width:180px; border:0px;margin:0px 0px 5px 0px}
+#bt_0_106_01 {width:180px; height:280px; background-color:#FBFBFB; overflow:hidden}
+#bt_0_106_01 h2 {background:#c78322 url(http://www.momoshop.com.tw/ecm/img/online/10/001/00/000/contentAreah2Bk.png) no-repeat 3px 3px; height:35px; border:1px solid #CCCCCC; border-bottom:0px; margin:0px}
+#bt_0_106_01 h2 img {border:3px solid #c78322}
+#bt_0_106_01 .TabMenu {position:absolute; top:12px; right:5px; margin:0px; float:inherit}
+#bt_0_106_01 .TabMenu li {float:left; width:10px; height:10px; background-color:#7C7C7C; font:10px/10px Helvetica; color:#FFFFFF; text-align:center; margin:0px 0px 0px 3px; border:1px solid #626262; cursor:default}
+#bt_0_106_01 .TabMenu li:first-child {margin:0px}
+#bt_0_106_01 .TabMenu li span {background:none; width:10px; height:10px; font:10px/10px Helvetica; text-align:center; padding:0px; color:#FFFFFF}
+#bt_0_106_01 .TabMenu .selected {background-color:#FFFFFF; border:1px solid #8E887B; color:#1F1F1F}
+#bt_0_106_01 .TabMenu .selected span {background:none; width:10px; height:10px; font:10px/10px Helvetica; text-align:center; padding:0px; color:#1F1F1F}
+#bt_0_106_01 .TabContent {width:178px; border:1px solid #CCCCCC; border-top:0px; padding:0px}
+#bt_0_106_01 .TabContentD {width:178px; height:128px; margin:0px; overflow:hidden; position:relative}
+#bt_0_106_01 .TabContentD .priceArea span {color:#D42570; position:absolute; right:10px; bottom:20px; font-family:"Century Gothic",Arial,Verdana; font-weight:bold; letter-spacing:-1px; font-size:30px; cursor:pointer; display:none}
+#bt_0_106_01 .TabContentD .prdnameArea {position:absolute; bottom:0px; width:190px; height:24px; line-height:24px; opacity:0.75; background-color:#D62671; display:none}
+#bt_0_106_01 .TabContentD h3 {display:none}
+#bt_0_106_01 .TabContentD h3 span {position:absolute; bottom:0px; font-size:13px; color:#FFFFFF; width:190px; height:24px; line-height:24px; overflow:hidden; text-align:center; z-index:100; cursor:pointer} /** 0725???t??? **/
+#bt_0_106_01 .TabContentD img {width:178px}
+#bt_0_106_01 .TabContent .TabContentD {display:none}
+#bt_0_106_01 .TabContent .selected {display:block}
+#bt_0_106_01 dl {display:inline-block; width:178px; padding:0px;#padding:0px 0px 5px 0px; margin:7px 0px 0px 0px; border:1px solid #CCCCCC}
+#bt_0_106_01 dt, #bt_0_106_01 dd {float:left}
+:root #bt_0_106_01 dd {margin:0px 0px 0px 5px\9}
+#bt_0_106_01 dd {margin:0px 0px 5px 5px; margin:0px 0px 0px 5px\0/}
+#bt_0_106_01 dt {height:32px; margin:0px 0px 6px 0px}
+#bt_0_106_01 dl a {width:30px; height:60px; display:inline-block}
+#bt_0_106_01 dl .first {margin-left:4px; _margin-left:4px}
+#bt_0_106_01 dl dd .selected, #bt_0_106_01 dl dd a:hover .unselected {display:inline-block}
+#bt_0_106_01 dl dd .unselected, #bt_0_106_01 dl dd a:hover .selected {width:30px; height:60px; display:none}
+#LCatLeftMenu210new {float:left; margin:10px 0px}
+
+/** 地設定 **/
+.footerArea .innerArea .e21 {position:absolute; top:142px; left:3px}
+
+/** 點點賺設定(暫時放這裡) **/
+#bt_0_layout_b250 {background:transparent url(http://www.momoshop.com.tw/ecm/img/online/10/001/00/000/bt_0_150_01/bt_0_150_01Bk.png?t=1234) repeat-x 0px -170px; width:100%; height:34px; margin:0px auto; position:fixed; z-index:4; left:0px}
+#bt_0_150_01 ul li:first-child {margin:0px 0px 0px 52px}
+#bt_0_150_01 ul li .fansgroup {background:transparent url(http://www.momoshop.com.tw/ecm/img/online/10/001/00/000/bt_0_150_01/bt_0_150_01Bk.png?t=12345) no-repeat 0px -59px; padding:0px 0px 0px 18px}
+#bt_0_150_01 ul li .fansgroup:hover {background-position:0px -247px}
+#bt_0_150_01 ul li .league {background:transparent url(http://www.momoshop.com.tw/ecm/img/online/10/001/00/000/bt_0_150_01/bt_0_150_01Bk.png?t=12345) no-repeat 0px -283px; padding:0px 0px 0px 20px}
+#bt_0_150_01 ul li .league:hover {background-position:0px -319px}
+#bt_0_150_01 a:hover {color:#FF3399}
+
+#bt_0_168_01{overflow:hidden;}
+
+/** 暫用 **/
+/** 生活用品 **/
+.ft34 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft34 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft34 #bt_0_142_01 .curvy,
+.ft34 #bt_0_142_01 #tips em,
+.ft34 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#74A000}
+.ft34 #bt_0_142_01 .curvy .cbr,
+.ft34 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft34 #bt_0_142_01 .curvy em,
+.ft34 #bt_0_142_01 .curvy em b,
+.ft34 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#74A000}
+.ft34 #bt_0_142_01 #tips .curvy,
+.ft34 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#EEFBE9}
+.ft34 #bt_0_142_01 #tips .curvy .ctl b,
+.ft34 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft34 #bt_0_142_01 #tips .curvy .cbl b,
+.ft34 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft34 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft34 #bt_0_142_01 .cateS,
+.ft34 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #99CC66}
+.ft34 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+.ft34 #bt_2_050_01 {border:1px solid #74A000}
+.ft34 #bt_2_050_01 h2 {background-color:#74A000}
+.ft34 #bt_2_052_01 dl, .ft17 #bt_2_052_01 dt, .ft17 #bt_2_052_01 .tips {background-color:#74A000}
+
+.ft34 #bt_2_058_01 {border:2px solid #74A000}
+.ft34 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft34 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft34 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+.ft34 #bt_2_058_02 {border:2px solid #74A000}
+.ft34 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft34 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft34 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+.ft34 #bt_2_058_03 {border:2px solid #74A000}
+.ft34 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft34 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft34 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 型錄 **/
+.ft33 #bt_0_142_01 .title {border:1px solid #D74F7D; border-bottom:0px; background-color:#D74F7D} /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy em, /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy,
+.ft33 #bt_0_142_01 #tips em,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#D74F7D}
+.ft33 #bt_0_142_01 .curvy .cbr,
+.ft33 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy em,
+.ft33 #bt_0_142_01 .curvy em b,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#D74F7D}
+.ft33 #bt_0_142_01 #tips .curvy,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFE4ED}
+.ft33 #bt_0_142_01 #tips .curvy .ctl b,
+.ft33 #bt_0_142_01 #tips .curvy .ctr b {color:#FFB4C7}
+.ft33 #bt_0_142_01 #tips .curvy .cbl b,
+.ft33 #bt_0_142_01 #tips .curvy .cbr b {color:#FFE4ED}
+.ft33 #bt_0_142_01 .cateM {background-color:#FFB8CA; border-bottom:1px solid #E3739A; display:block}
+.ft33 #bt_0_142_01 .cateS,
+.ft33 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #FFB4C7}
+.ft33 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+
+/** 型錄 **/
+.ft33 #bt_2_050_01 {border:1px solid #D74F7D}
+.ft33 #bt_2_050_01 h2 {background-color:#D74F7D}
+
+/** 型錄 **/
+.ft33 #bt_2_052_01 dl, .ft33 #bt_2_052_01 dt, .ft33 #bt_2_052_01 .tips {background-color:#D74F7D}
+
+/** 型錄 **/
+.ft33 #bt_2_058_01 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_01 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_01 .TabMenu .selected span {color:#D74F7D}
+
+/** 型錄 **/
+.ft33 #bt_2_058_02 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_02 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_02 .TabMenu .selected span {color:#D74F7D}
+
+/** 型錄 **/
+.ft33 #bt_2_058_03 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_03 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_03 .TabMenu .selected span {color:#D74F7D}
+
+/** 摩漾 **/
+.ft35 #bt_0_142_01 .title {border:1px solid #00A2A5; border-bottom:0px; background-color:#00A2A5}
+.ft35 #bt_0_142_01 .curvy em,
+.ft35 #bt_0_142_01 .curvy,
+.ft35 #bt_0_142_01 #tips em,
+.ft35 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#00A2A5}
+.ft35 #bt_0_142_01 .curvy .cbr,
+.ft35 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft35 #bt_0_142_01 .curvy em,
+.ft35 #bt_0_142_01 .curvy em b,
+.ft35 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#00A2A5}
+.ft35 #bt_0_142_01 #tips .curvy,
+.ft35 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#E3EDEE}
+.ft35 #bt_0_142_01 #tips .curvy .ctl b,
+.ft35 #bt_0_142_01 #tips .curvy .ctr b {color:#00D3DA}
+.ft35 #bt_0_142_01 #tips .curvy .cbl b,
+.ft35 #bt_0_142_01 #tips .curvy .cbr b {color:#E0F1FB}
+.ft35 #bt_0_142_01 .cateM {background-color:#00D3DA; border-bottom:1px solid #00D3DA; display:block}
+.ft35 #bt_0_142_01 .cateS,
+.ft35 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #C1C1C1}
+.ft35 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 摩漾 **/
+.ft35 #bt_2_050_01 {border:1px solid #00A2A5}
+.ft35 #bt_2_050_01 h2 {background-color:#00A2A5}
+
+/** 摩漾 **/
+.ft35 #bt_2_052_01 dl, .ft35 #bt_2_052_01 dt, .ft35 #bt_2_052_01 .tips {background-color:#00A2A5}
+
+/** 摩漾 **/
+.ft35 #bt_2_058_01 {border:2px solid #00A2A5}
+.ft35 #bt_2_058_01 .TabMenu li {background-color:#00A2A5}
+.ft35 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft35 #bt_2_058_01 .TabMenu .selected span {color:#00A2A5}

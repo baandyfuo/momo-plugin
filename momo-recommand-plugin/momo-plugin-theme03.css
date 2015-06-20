@@ -1,0 +1,46 @@
+@import url("reset.css");
+
+.momo-plugin {
+  position: absolute;
+  margin-left: 50px;
+}
+
+.momo-plugin ul.cols {
+  display: inline-block;
+  list-style: none;
+}
+
+.momo-plugin li.col {
+  display: block;
+  min-width: 100px;
+  min-height: 100px;
+  padding: 5px 0;
+  background: #fff;
+}
+
+.momo-plugin .product {
+  width: 120px;
+}
+
+.momo-plugin .product-image img{
+  width: 100%;
+}
+
+.momo-plugin .product-body {
+
+}
+
+.momo-plugin .product-name {
+  font-size: 12px;
+}
+
+.momo-plugin .product-price {
+
+}
+
+.momo-plugin .momo-header {
+  background: #8b8b8b;
+  padding: 5px;
+  color: #fff;
+  text-align: center;
+}

@@ -1,0 +1,1113 @@
+/** 分類選單 **/
+.bt_2_layout {margin-top:0px}
+#bt_2_layout_b2 {float:left; width:200px; margin-right:10px; _margin-right:0px}
+.bt_2_layout_b1 {float:left; width:770px; overflow:hidden}
+
+#bt_2_layout_NAV {height:20px; line-height:20px; width:770px}
+#bt_2_layout_NAV dl {float:left}
+#bt_2_layout_NAV dt, #bt_2_layout_NAV dd {float:left; font-family:Arial; font-size:13px; color:#666666; line-height:19px}
+#bt_2_layout_NAV dt {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/2/bt_2_052/nav-Icon.gif) no-repeat; padding-left:20px}
+#bt_2_layout_NAV dt a {color:#CC6600; font-family:Arial; font-size:13px; color:#666666}
+#bt_2_layout_NAV dt a:hover {color:#E40480; text-decoration:underline}
+#bt_2_layout_NAV dd {background:transparent url(http://www.momoshop.com.tw/ecm/img/de/2/bt_2_052/nav-line.gif) no-repeat 0px 5px; padding-left:8px; margin-left:4px}
+#bt_2_layout_NAV dd {color:#E40480}
+#bt_2_layout_NAV dd a {color:#0059A5; font-family:Arial; font-size:13px; color:#666666}
+#bt_2_layout_NAV dd a:hover {color:#E40480; text-decoration:underline}
+
+.bt_2_layout {width:980px; overflow:hidden; margin-top:6px}
+#bt_2_layout_G {width:200px; overflow:hidden; float:left;margin-right:10px}
+.bt_2_layout_Content {width:770px; margin-left:0px; float:left; overflow:hidden}
+.bt_2_layout_Left {width:200px;float:left;margin-right:10px; _margin-right:0px}
+#bt_2_layout_NAV {width:770px; overflow:hidden; height:25px}
+#bt_2_layout_NAV div {width:15px; height:19px; float:left; margin:1px 6px 0px 0px}
+#bt_2_layout_NAV div img {width:15px; height:19px; border:0px}
+#bt_2_layout_NAV .Home {height:18px; line-height:18px; color:#CC6600; font-family:arial}
+#bt_2_layout_NAV .Nav {font-family:arial}
+#bt_2_layout_b1 {width:770px}
+#bt_2_layout_b1 .btclass {overflow:hidden}
+#bt_2_layout_b2 .btclass {margin-top:10px}
+
+
+#bt_0_142_01 .title {width:198px; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_142/bt_0_142_h2bk.png) repeat-x; height:30px; overflow:hidden; display:block} /** 新增20111122 **/
+#bt_0_142_01 .title h2 {height:30px; line-height:34px; background:transparent url(http://www.momoshop.com.tw/ecm/img/de/0/bt_0_142/bt_0_142_h2img.png) no-repeat 0px 0px; padding-left:9px; margin-left:5px; text-align:left} /** 新增20111122 **/
+#bt_0_142_01 .title h2 a {font-size:15px; color:#FFFFFF; display:block} /** 新增20111122 **/
+.curvy {position:relative; margin:0px auto; width:200px}
+.curvy em {position:absolute; z-index:1; background-color:#FFFFFF; width:7px; height:7px; overflow:hidden}
+.curvy em b {position:absolute; line-height:40px; font-family:Arial; font-size:50px; font-weight:normal}
+.ctl {top:0px; left:0px;}
+.ctl b {left:-4px; top:-13px; left:-3px \9; top:-14px \9; _left:-4px}
+.ctl b:not(*:root) {top:-15px}
+.ctr {top:0px; right:0px}
+.ctr b {left:-9px; top:-13px; left:-8px \9; top:-14px \9; _left:-9px}
+.ctr b:not(*:root) {top:-15px}
+.cbl {bottom:0px; _bottom:-1px; left:0px}
+.cbl b {left:-4px; top:-19px; left:-3px \9; top:-20px \9; _left:-4px}
+.cbl b:not(*:root) {top:-20px}
+.cbr {bottom:0px; _bottom:-1px; right:0px}
+.cbr b {left:-9px; top:-19px; left:-8px \9; top:-20px \9; _left:-9px}
+.cbr b:not(*:root) {top:-20px}
+#bt_0_142_01 {width:200px}
+#bt_0_142_01 #tips {padding:3px}
+#bt_0_142_01 #tips .curvy {width:194px; position:relative; z-index:1}
+#bt_0_142_01 #tips #bt_category_Content {width:194px}
+#bt_0_142_01 #tips #bt_category_Content a {display:block}
+#bt_0_142_01 #tips #bt_category_Content a span {padding:0px 10px}
+#bt_0_142_01 #tips #bt_category_Content .cateM, #bt_0_142_01 #tips #bt_category_Content .cateM a {height:30px; overflow:hidden; font-size:15px; font-family:Arial; color:#333333; font-weight:bold; line-height:32px; text-align:left; padding-left:10px;}
+#bt_0_142_01 #tips #bt_category_Content .cateM a {cursor:pointer; padding:0px 20px 0px 0px}
+#bt_0_142_01 #tips #bt_category_Content .cateM img{display:none;}
+#bt_0_142_01 #tips #bt_category_Content .cateS a {height: 28px; overflow:hidden; padding:0px 10px; font-size:13px; font-family:Arial; color:#333333; line-height:28px; text-align:left}
+#bt_0_142_01 #tips #bt_category_Content .cateS a:hover {color:#E40480; text-decoration:underline}
+#bt_0_142_01 #tips #bt_category_Content .BGO a {color:#FFFFFF;background-color:#D72672}
+#bt_0_142_01 #tips #bt_category_Content .BGO a:hover {color:#FFFFFF}
+#bt_0_142_01 #tips #bt_category_Content .MoreHide{display:none;}
+#bt_0_142_01 #tips #bt_category_Content .More {text-align:right; line-height:28px}
+#bt_0_142_01 #tips #bt_category_Content .More a {display:inline; color:#333333; font-size:13px; font-family:Arial; padding:0px 10px 0px 13px; background-position:0px 5px; #background-position:0px 2px}
+#bt_0_142_01 #tips #bt_category_Content .More a:hover {color:#E40480; text-decoration:underline}
+#bt_0_142_01 #tips #bt_category_Content #allcategory {padding-bottom:5px}
+#bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {width:180px; margin:5px auto 0px}
+#bt_0_142_01 #tips #bt_category_Content #allcategory p {text-align:center; font-size:13px; font-family:Arial; color:#FFFFFF; line-height:24px}
+#bt_0_142_01 #allcategory .cbl {_bottom:0px}
+#bt_0_142_01 #allcategory .cbr {_bottom:0px}
+
+/** 電視購物 **/
+.ft24 #bt_0_142_01 .title {border:1px solid #D62672; border-bottom:0px; background-color:#D62672} /** 新增20111122 **/
+.ft24 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft24 #bt_0_142_01 .curvy,
+.ft24 #bt_0_142_01 #tips em,
+.ft24 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#D62672}
+.ft24 #bt_0_142_01 .curvy .cbr,
+.ft24 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft24 #bt_0_142_01 .curvy em,
+.ft24 #bt_0_142_01 .curvy em b,
+.ft24 #bt_0_142_01 #tips #bt_category_Content #allcategory em b {color:#D62672}
+.ft24 #bt_0_142_01 #tips .curvy,
+.ft24 #bt_0_142_01 #tips #bt_category_Content #allcategory em {background-color:#FFF0F6}
+.ft24 #bt_0_142_01 #tips .curvy .ctl b,
+.ft24 #bt_0_142_01 #tips .curvy .ctr b {color:#E7C5C2}
+.ft24 #bt_0_142_01 #tips .curvy .cbl b,
+.ft24 #bt_0_142_01 #tips .curvy .cbr b {color:#FFF0F6}
+.ft24 #bt_0_142_01 .cateM {background-color:#E7C5C2; border-bottom:1px solid #CE988D; display:block}
+.ft24 #bt_0_142_01 .cateS,
+.ft24 #bt_0_142_01 #tips #bt_category_Content .More {border-bottom:1px dashed #E29DB7}
+.ft24 #bt_0_142_01 .More a {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat}
+
+/** 快速到貨 **/
+.ft22 #bt_0_142_01 .title {border:1px solid #C40909; border-bottom:0px; background-color:#C40909} /** 新增20111122 **/
+.ft22 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft22 #bt_0_142_01 .curvy,
+.ft22 #bt_0_142_01 #tips em,
+.ft22 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#C40909}
+.ft22 #bt_0_142_01 .curvy .cbr,
+.ft22 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft22 #bt_0_142_01 .curvy em,
+.ft22 #bt_0_142_01 .curvy em b,
+.ft22 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#C40909}
+.ft22 #bt_0_142_01 #tips .curvy,
+.ft22 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFEBEB}
+.ft22 #bt_0_142_01 #tips .curvy .ctl b,
+.ft22 #bt_0_142_01 #tips .curvy .ctr b {color:#FFBCBC}
+.ft22 #bt_0_142_01 #tips .curvy .cbl b,
+.ft22 #bt_0_142_01 #tips .curvy .cbr b {color:#FFEBEB}
+.ft22 #bt_0_142_01 .cateM {background-color:#FFBCBC; border-bottom:1px solid #D91A1A; display:block}
+.ft22 #bt_0_142_01 .cateS,
+.ft22 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #F2BABA}
+.ft22 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 美妝 **/
+.ft11 #bt_0_142_01 .title {border:1px solid #D74F7D; border-bottom:0px; background-color:#D74F7D} /** 新增20111122 **/
+.ft11 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft11 #bt_0_142_01 .curvy,
+.ft11 #bt_0_142_01 #tips em,
+.ft11 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#D74F7D}
+.ft11 #bt_0_142_01 .curvy .cbr,
+.ft11 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft11 #bt_0_142_01 .curvy em,
+.ft11 #bt_0_142_01 .curvy em b,
+.ft11 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#D74F7D}
+.ft11 #bt_0_142_01 #tips .curvy,
+.ft11 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFE4ED}
+.ft11 #bt_0_142_01 #tips .curvy .ctl b,
+.ft11 #bt_0_142_01 #tips .curvy .ctr b {color:#FFB4C7}
+.ft11 #bt_0_142_01 #tips .curvy .cbl b,
+.ft11 #bt_0_142_01 #tips .curvy .cbr b {color:#FFE4ED}
+.ft11 #bt_0_142_01 .cateM {background-color:#FFB8CA; border-bottom:1px solid #E3739A; display:block}
+.ft11 #bt_0_142_01 .cateS,
+.ft11 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #FFB4C7}
+.ft11 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 保健 **/
+.ft12 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft12 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft12 #bt_0_142_01 .curvy,
+.ft12 #bt_0_142_01 #tips em,
+.ft12 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#74A000}
+.ft12 #bt_0_142_01 .curvy .cbr,
+.ft12 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft12 #bt_0_142_01 .curvy em,
+.ft12 #bt_0_142_01 .curvy em b,
+.ft12 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#74A000}
+.ft12 #bt_0_142_01 #tips .curvy,
+.ft12 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#EEFBE9}
+.ft12 #bt_0_142_01 #tips .curvy .ctl b,
+.ft12 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft12 #bt_0_142_01 #tips .curvy .cbl b,
+.ft12 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft12 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft12 #bt_0_142_01 .cateS,
+.ft12 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #99CC66}
+.ft12 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 服飾 **/
+.ft13 #bt_0_142_01 .title {border:1px solid #412365; border-bottom:0px; background-color:#412365} /** 新增20111122 **/
+.ft13 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft13 #bt_0_142_01 .curvy,
+.ft13 #bt_0_142_01 #tips em,
+.ft13 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#412365}
+.ft13 #bt_0_142_01 .curvy .cbr,
+.ft13 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft13 #bt_0_142_01 .curvy em,
+.ft13 #bt_0_142_01 .curvy em b,
+.ft13 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#412365}
+.ft13 #bt_0_142_01 #tips .curvy,
+.ft13 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFFFFF}
+.ft13 #bt_0_142_01 #tips .curvy .ctl b,
+.ft13 #bt_0_142_01 #tips .curvy .ctr b {color:#e6e6e6}
+.ft13 #bt_0_142_01 #tips .curvy .cbl b,
+.ft13 #bt_0_142_01 #tips .curvy .cbr b {color:#FFFFFF}
+.ft13 #bt_0_142_01 .cateM {background-color:#e6e6e6; border-bottom:1px solid #c1c1c1; display:block}
+.ft13 #bt_0_142_01 .cateS,
+.ft13 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #e5e5e5}
+.ft13 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 內塑衣 **/
+.ft14 #bt_0_142_01 .title {border:1px solid #412365; border-bottom:0px; background-color:#412365} /** 新增20111122 **/
+.ft14 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft14 #bt_0_142_01 .curvy,
+.ft14 #bt_0_142_01 #tips em,
+.ft14 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#412365}
+.ft14 #bt_0_142_01 .curvy .cbr,
+.ft14 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft14 #bt_0_142_01 .curvy em,
+.ft14 #bt_0_142_01 .curvy em b,
+.ft14 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#412365}
+.ft14 #bt_0_142_01 #tips .curvy,
+.ft14 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFFFFF}
+.ft14 #bt_0_142_01 #tips .curvy .ctl b,
+.ft14 #bt_0_142_01 #tips .curvy .ctr b {color:#e6e6e6}
+.ft14 #bt_0_142_01 #tips .curvy .cbl b,
+.ft14 #bt_0_142_01 #tips .curvy .cbr b {color:#FFFFFF}
+.ft14 #bt_0_142_01 .cateM {background-color:#e6e6e6; border-bottom:1px solid #c1c1c1; display:block}
+.ft14 #bt_0_142_01 .cateS,
+.ft14 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #e5e5e5}
+.ft14 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 錶/飾品 **/
+.ft26 #bt_0_142_01 .title {border:1px solid #4E0000; border-bottom:0px; background-color:#4E0000} /** 新增20111122 **/
+.ft26 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft26 #bt_0_142_01 .curvy,
+.ft26 #bt_0_142_01 #tips em,
+.ft26 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#4E0000}
+.ft26 #bt_0_142_01 .curvy .cbr,
+.ft26 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft26 #bt_0_142_01 .curvy em,
+.ft26 #bt_0_142_01 .curvy em b,
+.ft26 #bt_0_142_01 #tips #bt_category_Content #allcategory em b {color:#4E0000}
+.ft26 #bt_0_142_01 #tips .curvy,
+.ft26 #bt_0_142_01 #tips #bt_category_Content #allcategory em {background-color:#F4F4F4}
+.ft26 #bt_0_142_01 #tips .curvy .ctl b,
+.ft26 #bt_0_142_01 #tips .curvy .ctr b,
+.ft26 #bt_0_142_01 #tips .curvy .cbl .cbB,
+.ft26 #bt_0_142_01 #tips .curvy .cbr .cbB {color:#DCD5C8}
+.ft26 #bt_0_142_01 #tips .curvy .cbl b,
+.ft26 #bt_0_142_01 #tips .curvy .cbr b {color:#F4F4F4}
+.ft26 #bt_0_142_01 .cateM {background-color:#DCD5C8; border-bottom:1px solid #C2B59A; display:block}
+.ft26 #bt_0_142_01 .cateS,
+.ft26 #bt_0_142_01 #tips #bt_category_Content .More {border-bottom:1px dashed #B59C9C}
+.ft26 #bt_0_142_01 .More a {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat}
+.ft26 #bt_0_142_01 #tips #bt_category_Content .CatMenu {background:#DCD5C8 url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat 180px 11px}
+.ft26 #bt_0_142_01 #tips #bt_category_Content .CatMenuB {background:#DCD5C8 url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIconB.gif) no-repeat 180px 11px}
+
+
+/** 生活用品 **/
+.ft17 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft17 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft17 #bt_0_142_01 .curvy,
+.ft17 #bt_0_142_01 #tips em,
+.ft17 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#74A000}
+.ft17 #bt_0_142_01 .curvy .cbr,
+.ft17 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft17 #bt_0_142_01 .curvy em,
+.ft17 #bt_0_142_01 .curvy em b,
+.ft17 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#74A000}
+.ft17 #bt_0_142_01 #tips .curvy,
+.ft17 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#EEFBE9}
+.ft17 #bt_0_142_01 #tips .curvy .ctl b,
+.ft17 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft17 #bt_0_142_01 #tips .curvy .cbl b,
+.ft17 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft17 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft17 #bt_0_142_01 .cateS,
+.ft17 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #99CC66}
+.ft17 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft18 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft18 #bt_0_142_01 .curvy,
+.ft18 #bt_0_142_01 #tips em,
+.ft18 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#74A000}
+.ft18 #bt_0_142_01 .curvy .cbr,
+.ft18 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft18 #bt_0_142_01 .curvy em,
+.ft18 #bt_0_142_01 .curvy em b,
+.ft18 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#74A000}
+.ft18 #bt_0_142_01 #tips .curvy,
+.ft18 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#EEFBE9}
+.ft18 #bt_0_142_01 #tips .curvy .ctl b,
+.ft18 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft18 #bt_0_142_01 #tips .curvy .cbl b,
+.ft18 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft18 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft18 #bt_0_142_01 .cateS,
+.ft18 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #99CC66}
+.ft18 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 親子/文教 **/
+.ft27 #bt_0_142_01 .title {border:1px solid #D74F7D; border-bottom:0px; background-color:#D74F7D} /** 新增20111122 **/
+.ft27 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft27 #bt_0_142_01 .curvy,
+.ft27 #bt_0_142_01 #tips em,
+.ft27 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#D74F7D}
+.ft27 #bt_0_142_01 .curvy .cbr,
+.ft27 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft27 #bt_0_142_01 .curvy em,
+.ft27 #bt_0_142_01 .curvy em b,
+.ft27 #bt_0_142_01 #tips #bt_category_Content #allcategory em b {color:#D74F7D}
+.ft27 #bt_0_142_01 #tips .curvy,
+.ft27 #bt_0_142_01 #tips #bt_category_Content #allcategory em {background-color:#FFE4ED}
+.ft27 #bt_0_142_01 #tips .curvy .ctl b,
+.ft27 #bt_0_142_01 #tips .curvy .ctr b {color:#FFB4C7}
+.ft27 #bt_0_142_01 #tips .curvy .cbl b,
+.ft27 #bt_0_142_01 #tips .curvy .cbr b {color:#FFE4ED}
+.ft27 #bt_0_142_01 .cateM {background-color:#FFB8CA; border-bottom:1px solid #E3739A; display:block}
+.ft27 #bt_0_142_01 .cateS,
+.ft27 #bt_0_142_01 #tips #bt_category_Content .More {border-bottom:1px dashed #FFB4C7}
+.ft27 #bt_0_142_01 .More a {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat}
+
+/** 宗教/藝術 **/
+.ft28 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft28 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft28 #bt_0_142_01 .curvy,
+.ft28 #bt_0_142_01 #tips em,
+.ft28 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#74A000}
+.ft28 #bt_0_142_01 .curvy .cbr,
+.ft28 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft28 #bt_0_142_01 .curvy em,
+.ft28 #bt_0_142_01 .curvy em b,
+.ft28 #bt_0_142_01 #tips #bt_category_Content #allcategory em b {color:#74A000}
+.ft28 #bt_0_142_01 #tips .curvy,
+.ft28 #bt_0_142_01 #tips #bt_category_Content #allcategory em {background-color:#EEFBE9}
+.ft28 #bt_0_142_01 #tips .curvy .ctl b,
+.ft28 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft28 #bt_0_142_01 #tips .curvy .cbl b,
+.ft28 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft28 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft28 #bt_0_142_01 .cateS,
+.ft28 #bt_0_142_01 #tips #bt_category_Content .More {border-bottom:1px dashed #99CC66}
+.ft28 #bt_0_142_01 .More a {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat}
+
+/** 旅遊/車類 **/
+.ft16 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft16 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft16 #bt_0_142_01 .curvy,
+.ft16 #bt_0_142_01 #tips em,
+.ft16 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#74A000}
+.ft16 #bt_0_142_01 .curvy .cbr,
+.ft16 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft16 #bt_0_142_01 .curvy em,
+.ft16 #bt_0_142_01 .curvy em b,
+.ft16 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#74A000}
+.ft16 #bt_0_142_01 #tips .curvy,
+.ft16 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#EEFBE9}
+.ft16 #bt_0_142_01 #tips .curvy .ctl b,
+.ft16 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft16 #bt_0_142_01 #tips .curvy .cbl b,
+.ft16 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft16 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft16 #bt_0_142_01 .cateS,
+.ft16 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #99CC66}
+.ft16 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_0_142_01 .title {border:1px solid #8A8A8A; border-bottom:0px; background-color:#8A8A8A} /** 新增20111122 **/
+.ft21 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft21 #bt_0_142_01 .curvy,
+.ft21 #bt_0_142_01 #tips em,
+.ft21 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#8A8A8A}
+.ft21 #bt_0_142_01 .curvy .cbr,
+.ft21 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft21 #bt_0_142_01 .curvy em,
+.ft21 #bt_0_142_01 .curvy em b,
+.ft21 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#8A8A8A}
+.ft21 #bt_0_142_01 #tips .curvy,
+.ft21 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#F2F2F2}
+.ft21 #bt_0_142_01 #tips .curvy .ctl b,
+.ft21 #bt_0_142_01 #tips .curvy .ctr b {color:#D1D1D1}
+.ft21 #bt_0_142_01 #tips .curvy .cbl b,
+.ft21 #bt_0_142_01 #tips .curvy .cbr b {color:#F2F2F2}
+.ft21 #bt_0_142_01 .cateM {background-color:#D1D1D1; border-bottom:1px solid #8A8A8A; display:block}
+.ft21 #bt_0_142_01 .cateS,
+.ft21 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #BDBDBD}
+.ft21 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 樂遊網 **/
+.ft25 #bt_0_142_01 .title {border:1px solid #74A000; border-bottom:0px; background-color:#74A000} /** 新增20111122 **/
+.ft25 #bt_0_142_01 .curvy em, /** 新增20111122 **/
+.ft25 #bt_0_142_01 .curvy,
+.ft25 #bt_0_142_01 #tips em,
+.ft25 #bt_0_142_01 #tips #bt_category_Content #allcategory .curvy {background-color:#74A000}
+.ft25 #bt_0_142_01 .curvy .cbr,
+.ft25 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20111122 **/
+.ft25 #bt_0_142_01 .curvy em,
+.ft25 #bt_0_142_01 .curvy em b,
+.ft25 #bt_0_142_01 #tips #bt_category_Content #allcategory em b {color:#74A000}
+.ft25 #bt_0_142_01 #tips .curvy,
+.ft25 #bt_0_142_01 #tips #bt_category_Content #allcategory em {background-color:#EEFBE9}
+.ft25 #bt_0_142_01 #tips .curvy .ctl b,
+.ft25 #bt_0_142_01 #tips .curvy .ctr b {color:#99CC66}
+.ft25 #bt_0_142_01 #tips .curvy .cbl b,
+.ft25 #bt_0_142_01 #tips .curvy .cbr b {color:#EEFBE9}
+.ft25 #bt_0_142_01 .cateM {background-color:#99CC66; border-bottom:1px solid #74A000; display:block}
+.ft25 #bt_0_142_01 .cateS,
+.ft25 #bt_0_142_01 #tips #bt_category_Content .More {border-bottom:1px dashed #99CC66}
+.ft25 #bt_0_142_01 .More a {background:transparent url(http://www.momoshop.com.tw/ecm/img/cmm/category/moreIcon.gif) no-repeat}
+
+/** 型男(20130129) **/
+.ft30 #bt_0_142_01 .title {border:1px solid #3E3E3E; border-bottom:0px; background-color:#3E3E3E}
+.ft30 #bt_0_142_01 .curvy em,
+.ft30 #bt_0_142_01 .curvy,
+.ft30 #bt_0_142_01 #tips em,
+.ft30 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#3E3E3E}
+.ft30 #bt_0_142_01 .curvy .cbr,
+.ft30 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft30 #bt_0_142_01 .curvy em,
+.ft30 #bt_0_142_01 .curvy em b,
+.ft30 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#3E3E3E}
+.ft30 #bt_0_142_01 #tips .curvy,
+.ft30 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#F7F7F7}
+.ft30 #bt_0_142_01 #tips .curvy .ctl b,
+.ft30 #bt_0_142_01 #tips .curvy .ctr b {color:#B0B0B0}
+.ft30 #bt_0_142_01 #tips .curvy .cbl b,
+.ft30 #bt_0_142_01 #tips .curvy .cbr b {color:#F7F7F7}
+.ft30 #bt_0_142_01 .cateM {background-color:#B0B0B0; border-bottom:1px solid #757575; display:block}
+.ft30 #bt_0_142_01 .cateS,
+.ft30 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #BFBFBF}
+.ft30 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 3C **/
+.ft19 #bt_0_142_01 .title {border:1px solid #3E7FF5; border-bottom:0px; background-color:#3E7FF5}
+.ft19 #bt_0_142_01 .curvy em,
+.ft19 #bt_0_142_01 .curvy,
+.ft19 #bt_0_142_01 #tips em,
+.ft19 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#3E7FF5}
+.ft19 #bt_0_142_01 .curvy .cbr,
+.ft19 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft19 #bt_0_142_01 .curvy em,
+.ft19 #bt_0_142_01 .curvy em b,
+.ft19 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#3E7FF5}
+.ft19 #bt_0_142_01 #tips .curvy,
+.ft19 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#DFF1FB}
+.ft19 #bt_0_142_01 #tips .curvy .ctl b,
+.ft19 #bt_0_142_01 #tips .curvy .ctr b {color:#B5D5FC}
+.ft19 #bt_0_142_01 #tips .curvy .cbl b,
+.ft19 #bt_0_142_01 #tips .curvy .cbr b {color:#E0F1FB}
+.ft19 #bt_0_142_01 .cateM {background-color:#AFDCFD; border-bottom:1px solid #7BB7F5; display:block}
+.ft19 #bt_0_142_01 .cateS,
+.ft19 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #AED6FA}
+.ft19 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 家電 **/
+.ft29 #bt_0_142_01 .title {border:1px solid #3E7FF5; border-bottom:0px; background-color:#3E7FF5}
+.ft29 #bt_0_142_01 .curvy em,
+.ft29 #bt_0_142_01 .curvy,
+.ft29 #bt_0_142_01 #tips em,
+.ft29 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#3E7FF5}
+.ft29 #bt_0_142_01 .curvy .cbr,
+.ft29 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft29 #bt_0_142_01 .curvy em,
+.ft29 #bt_0_142_01 .curvy em b,
+.ft29 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#3E7FF5}
+.ft29 #bt_0_142_01 #tips .curvy,
+.ft29 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#DFF1FB}
+.ft29 #bt_0_142_01 #tips .curvy .ctl b,
+.ft29 #bt_0_142_01 #tips .curvy .ctr b {color:#B5D5FC}
+.ft29 #bt_0_142_01 #tips .curvy .cbl b,
+.ft29 #bt_0_142_01 #tips .curvy .cbr b {color:#E0F1FB}
+.ft29 #bt_0_142_01 .cateM {background-color:#AFDCFD; border-bottom:1px solid #7BB7F5; display:block}
+.ft29 #bt_0_142_01 .cateS,
+.ft29 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #AED6FA}
+.ft29 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 食品 **/
+.ft20 #bt_0_142_01 .title {border:1px solid #F55D1C; border-bottom:0px; background-color:#F55D1C}
+.ft20 #bt_0_142_01 .curvy em,
+.ft20 #bt_0_142_01 .curvy,
+.ft20 #bt_0_142_01 #tips em,
+.ft20 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#F55D1C}
+.ft20 #bt_0_142_01 .curvy .cbr,
+.ft20 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft20 #bt_0_142_01 .curvy em,
+.ft20 #bt_0_142_01 .curvy em b,
+.ft20 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#F55D1C}
+.ft20 #bt_0_142_01 #tips .curvy,
+.ft20 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFEADC}
+.ft20 #bt_0_142_01 #tips .curvy .ctl b,
+.ft20 #bt_0_142_01 #tips .curvy .ctr b {color:#FFB6A3}
+.ft20 #bt_0_142_01 #tips .curvy .cbl b,
+.ft20 #bt_0_142_01 #tips .curvy .cbr b {color:#FEF7DB}
+.ft20 #bt_0_142_01 .cateM {background-color:#FFB6A3; border-bottom:1px solid #FF6D60; display:block}
+.ft20 #bt_0_142_01 .cateS,
+.ft20 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #FAB7A7}
+.ft20 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 鞋包表 **/
+.ft15 #bt_0_142_01 .title {border:1px solid #412365; border-bottom:0px; background-color:#412365}
+.ft15 #bt_0_142_01 .curvy em,
+.ft15 #bt_0_142_01 .curvy,
+.ft15 #bt_0_142_01 #tips em,
+.ft15 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#412365}
+.ft15 #bt_0_142_01 .curvy .cbr,
+.ft15 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft15 #bt_0_142_01 .curvy em,
+.ft15 #bt_0_142_01 .curvy em b,
+.ft15 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#412365}
+.ft15 #bt_0_142_01 #tips .curvy,
+.ft15 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFFFFF}
+.ft15 #bt_0_142_01 #tips .curvy .ctl b,
+.ft15 #bt_0_142_01 #tips .curvy .ctr b {color:#DCD5C8}
+.ft15 #bt_0_142_01 #tips .curvy .cbl b,
+.ft15 #bt_0_142_01 #tips .curvy .cbr b {color:#F4F4F4}
+.ft15 #bt_0_142_01 .cateM {background-color:#DDD7C9; border-bottom:1px solid #C2B79B; display:block}
+.ft15 #bt_0_142_01 .cateS,
+.ft15 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #B3A6A0}
+.ft15 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 精品珠寶 **/
+.ft31 #bt_0_142_01 .title {border:1px solid #412365; border-bottom:0px; background-color:#412365}
+.ft31 #bt_0_142_01 .curvy em,
+.ft31 #bt_0_142_01 .curvy,
+.ft31 #bt_0_142_01 #tips em,
+.ft31 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#412365}
+.ft31 #bt_0_142_01 .curvy .cbr,
+.ft31 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft31 #bt_0_142_01 .curvy em,
+.ft31 #bt_0_142_01 .curvy em b,
+.ft31 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#412365}
+.ft31 #bt_0_142_01 #tips .curvy,
+.ft31 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFFFFF}
+.ft31 #bt_0_142_01 #tips .curvy .ctl b,
+.ft31 #bt_0_142_01 #tips .curvy .ctr b {color:#E6E6E6}
+.ft31 #bt_0_142_01 #tips .curvy .cbl b,
+.ft31 #bt_0_142_01 #tips .curvy .cbr b {color:#FFFFFF}
+.ft31 #bt_0_142_01 .cateM {background-color:#E6E6E6; border-bottom:1px solid #C1C1C1; display:block}
+.ft31 #bt_0_142_01 .cateS,
+.ft31 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #E5E5E5}
+.ft31 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 直配大陸 **/
+.ft32 #bt_0_142_01 .title {border:1px solid #3a96ff; border-bottom:0px; background-color:#3a96ff}
+.ft32 #bt_0_142_01 .curvy em,
+.ft32 #bt_0_142_01 .curvy,
+.ft32 #bt_0_142_01 #tips em,
+.ft32 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#3a96ff}
+.ft32 #bt_0_142_01 .curvy .cbr,
+.ft32 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF}
+.ft32 #bt_0_142_01 .curvy em,
+.ft32 #bt_0_142_01 .curvy em b,
+.ft32 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#3a96ff}
+.ft32 #bt_0_142_01 #tips .curvy,
+.ft32 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#F4F4F4}
+.ft32 #bt_0_142_01 #tips .curvy .ctl b,
+.ft32 #bt_0_142_01 #tips .curvy .ctr b {color:#DCD5C8}
+.ft32 #bt_0_142_01 #tips .curvy .cbl b,
+.ft32 #bt_0_142_01 #tips .curvy .cbr b {color:#F4F4F4}
+.ft32 #bt_0_142_01 .cateM {background-color:#DDD7C9; border-bottom:1px solid #C2B79B; display:block}
+.ft32 #bt_0_142_01 .cateS,
+.ft32 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #B3A6A0}
+.ft32 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** 型錄 **/
+.ft33 #bt_0_142_01 .title {border:1px solid #D74F7D; border-bottom:0px; background-color:#D74F7D} /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy em, /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy,
+.ft33 #bt_0_142_01 #tips em,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory .curvy {background-color:#D74F7D}
+.ft33 #bt_0_142_01 .curvy .cbr,
+.ft33 #bt_0_142_01 .curvy .cbl {background-color:#FFFFFF} /** 新增20141216 **/
+.ft33 #bt_0_142_01 .curvy em,
+.ft33 #bt_0_142_01 .curvy em b,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory em b {color:#D74F7D}
+.ft33 #bt_0_142_01 #tips .curvy,
+.ft33 #bt_0_142_01 #tips .contentArea #allcategory em {background-color:#FFE4ED}
+.ft33 #bt_0_142_01 #tips .curvy .ctl b,
+.ft33 #bt_0_142_01 #tips .curvy .ctr b {color:#FFB4C7}
+.ft33 #bt_0_142_01 #tips .curvy .cbl b,
+.ft33 #bt_0_142_01 #tips .curvy .cbr b {color:#FFE4ED}
+.ft33 #bt_0_142_01 .cateM {background-color:#FFB8CA; border-bottom:1px solid #E3739A; display:block}
+.ft33 #bt_0_142_01 .cateS,
+.ft33 #bt_0_142_01 #tips .contentArea .more {border-bottom:1px dashed #FFB4C7}
+.ft33 #bt_0_142_01 .more a {background:transparent url(img/ft17moreIcon.gif) no-repeat}
+
+/** for bt_2_050 **/
+/** 電視購物 **/
+.ft24 #bt_2_050_01 {border:1px solid #D62672}
+.ft24 #bt_2_050_01 h2 {background-color:#D62672}
+.ft24 .bt_2_050 {border:1px solid #E3739A}
+.ft24 .bt_2_050 h2 {background-color:#D988A7}
+
+/** 快速到貨 **/
+.ft22 #bt_2_050_01 {border:1px solid #C40909}
+.ft22 #bt_2_050_01 h2 {background-color:#C40909}
+
+/** 美妝 **/
+.ft11 #bt_2_050_01 {border:1px solid #D74F7D}
+.ft11 #bt_2_050_01 h2 {background-color:#D74F7D}
+
+/** 保健 **/
+.ft12 #bt_2_050_01 {border:1px solid #74A000}
+.ft12 #bt_2_050_01 h2 {background-color:#74A000}
+
+/** 服飾 **/
+.ft13 #bt_2_050_01 {border:1px solid #412365}
+.ft13 #bt_2_050_01 h2 {background-color:#412365}
+
+/** 內塑衣 **/
+.ft14 #bt_2_050_01 {border:1px solid #412365}
+.ft14 #bt_2_050_01 h2 {background-color:#412365}
+
+/** 錶/精品 **/
+.ft26 #bt_2_050_01 {border:1px solid #4E0000}
+.ft26 #bt_2_050_01 h2 {background-color:#4E0000}
+
+/** 生活用品 **/
+.ft17 #bt_2_050_01 {border:1px solid #74A000}
+.ft17 #bt_2_050_01 h2 {background-color:#74A000}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_2_050_01 {border:1px solid #74A000}
+.ft18 #bt_2_050_01 h2 {background-color:#74A000}
+
+/** 親子文教 **/
+.ft27 #bt_2_050_01 {border:1px solid #D74F7D}
+.ft27 #bt_2_050_01 h2 {background-color:#D74F7D}
+
+/** 宗教/藝術 **/
+.ft28 #bt_2_050_01 {border:1px solid #74A000}
+.ft28 #bt_2_050_01 h2 {background-color:#74A000}
+
+/** 運動/車類 **/
+.ft16 #bt_2_050_01 {border:1px solid #74A000}
+.ft16 #bt_2_050_01 h2 {background-color:#74A000}
+
+/** 型男 **/
+.ft30 #bt_2_050_01 {border:1px solid #3E3E3E}
+.ft30 #bt_2_050_01 h2 {background-color:#3E3E3E}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_2_050_01 {border:1px solid #8A8A8A}
+.ft21 #bt_2_050_01 h2 {background-color:#8A8A8A}
+
+/** 3C **/
+.ft19 #bt_2_050_01 {border:1px solid #3E7FF5}
+.ft19 #bt_2_050_01 h2 {background-color:#3E7FF5}
+
+/** 家電 **/
+.ft29 #bt_2_050_01 {border:1px solid #3E7FF5}
+.ft29 #bt_2_050_01 h2 {background-color:#3E7FF5}
+
+/** 食品 **/
+.ft20 #bt_2_050_01 {border:1px solid #F55D1C}
+.ft20 #bt_2_050_01 h2 {background-color:#F55D1C}
+
+/** 精包表 **/
+.ft15 #bt_2_050_01 {border:1px solid #4F1E00}
+.ft15 #bt_2_050_01 h2 {background-color:#412365}
+
+/**  精品珠寶 **/
+.ft31 #bt_2_050_01 {border:1px solid #4F1E00}
+.ft31 #bt_2_050_01 h2 {background-color:#412365}
+
+/**  直配大陸_ **/
+.ft32 #bt_2_050_01 {border:1px solid #3a96ff}
+.ft32 #bt_2_050_01 h2 {background-color:#3a96ff}
+
+/** 型錄 **/
+.ft33 #bt_2_050_01 {border:1px solid #D74F7D}
+.ft33 #bt_2_050_01 h2 {background-color:#D74F7D}
+
+/** for bt_2_052 **/
+/** 電視購物 **/
+.ft24 #bt_2_052_01 dl, .ft24 #bt_2_052_01 dt, .ft24 #bt_2_052_01 .tips {background-color:#D62672}
+
+/** 快速到貨 **/
+.ft22 #bt_2_052_01 dl, .ft22 #bt_2_052_01 dt, .ft22 #bt_2_052_01 .tips {background-color:#C40909}
+
+/** 美妝 **/
+.ft11 #bt_2_052_01 dl, .ft11 #bt_2_052_01 dt, .ft11 #bt_2_052_01 .tips {background-color:#D74F7D}
+
+/** 保健 **/
+.ft12 #bt_2_052_01 dl, .ft12 #bt_2_052_01 dt, .ft12 #bt_2_052_01 .tips {background-color:#74A000}
+
+/** 食品 **/
+.ft20 #bt_2_052_01 dl, .ft20 #bt_2_052_01 dt, .ft20 #bt_2_052_01 .tips {background-color:#F55D1C}
+
+/** 服飾 **/
+.ft13 #bt_2_052_01 dl, .ft13 #bt_2_052_01 dt, .ft13 #bt_2_052_01 .tips {background-color:#412365}
+
+/** 內塑衣 **/
+.ft14 #bt_2_052_01 dl, .ft14 #bt_2_052_01 dt, .ft14 #bt_2_052_01 .tips {background-color:#412365}
+
+/** 錶/精品 **/
+.ft26 #bt_2_052_01 dl, .ft26 #bt_2_052_01 dt, .ft26 #bt_2_052_01 .tips {background-color:#4E0000}
+
+/** 精品鞋包 **/
+.ft15 #bt_2_052_01 dl, .ft15 #bt_2_052_01 dt, .ft15 #bt_2_052_01 .tips {background-color:#412365}
+
+/** 3C **/
+.ft19 #bt_2_052_01 dl, .ft19 #bt_2_052_01 dt, .ft19 #bt_2_052_01 .tips {background-color:#3E7FF5}
+
+/** 家電 **/
+.ft29 #bt_2_052_01 dl, .ft29 #bt_2_052_01 dt, .ft29 #bt_2_052_01 .tips {background-color:#3E7FF5}
+
+/** 生活用品 **/
+.ft17 #bt_2_052_01 dl, .ft17 #bt_2_052_01 dt, .ft17 #bt_2_052_01 .tips {background-color:#74A000}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_2_052_01 dl, .ft18 #bt_2_052_01 dt, .ft18 #bt_2_052_01 .tips {background-color:#74A000}
+
+/** 親子/文教 **/
+.ft27 #bt_2_052_01 dl, .ft27 #bt_2_052_01 dt, .ft27 #bt_2_052_01 .tips {background-color:#D74F7D}
+
+/** 宗教/藝術 **/
+.ft28 #bt_2_052_01 dl, .ft28 #bt_2_052_01 dt, .ft28 #bt_2_052_01 .tips {background-color:#74A000}
+
+/** 旅遊/車類 **/
+.ft16 #bt_2_052_01 dl, .ft16 #bt_2_052_01 dt, .ft16 #bt_2_052_01 .tips {background-color:#74A000}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_2_052_01 dl, .ft21 #bt_2_052_01 dt, .ft21 #bt_2_052_01 .tips {background-color:#898989}
+
+/** 不知道什麼館名 **/
+.ft25 #bt_2_052_01 dl, .ft25 #bt_2_052_01 dt, .ft25 #bt_2_052_01 .tips {background-color:#7ABABA}
+
+/** 型男 **/
+.ft30 #bt_2_052_01 dl, .ft30 #bt_2_052_01 dt, .ft30 #bt_2_052_01 .tips {background-color:#3E3E3E}
+
+/** 精品珠寶 **/
+.ft31 #bt_2_052_01 dl, .ft31 #bt_2_052_01 dt, .ft31 #bt_2_052_01 .tips {background-color:#412365}
+
+/** 直配大陸_ **/
+.ft32 #bt_2_052_01 dl, .ft32 #bt_2_052_01 dt, .ft32 #bt_2_052_01 .tips {background-color:#3a96ff}
+
+/** 型錄 **/
+.ft33 #bt_2_052_01 dl, .ft33 #bt_2_052_01 dt, .ft33 #bt_2_052_01 .tips {background-color:#D74F7D}
+
+/** for bt_2_058 **/
+/** 電視購物 **/
+.ft24 #bt_2_058_01 {border:2px solid #D62672}
+.ft24 #bt_2_058_01 .TabMenu li {background-color:#D62672}
+.ft24 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft24 #bt_2_058_01 .TabMenu .selected span {color:#D62672}
+
+/** 快速到貨 **/
+.ft22 #bt_2_058_01 {border:2px solid #C40909}
+.ft22 #bt_2_058_01 .TabMenu li {background-color:#C40909}
+.ft22 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft22 #bt_2_058_01 .TabMenu .selected span {color:#C40909}
+
+/** 美妝 **/
+.ft11 #bt_2_058_01 {border:2px solid #D74F7D}
+.ft11 #bt_2_058_01 .TabMenu li {background-color:#D74F7D}
+.ft11 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft11 #bt_2_058_01 .TabMenu .selected span {color:#D74F7D}
+
+/** 保健 **/
+.ft12 #bt_2_058_01 {border:2px solid #74A000}
+.ft12 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft12 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft12 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+
+/** 食品 **/
+.ft20 #bt_2_058_01 {border:2px solid #F55D1C}
+.ft20 #bt_2_058_01 .TabMenu li {background-color:#F55D1C}
+.ft20 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft20 #bt_2_058_01 .TabMenu .selected span {color:#F55D1C}
+
+/** 服飾 **/
+.ft13 #bt_2_058_01 {border:2px solid #412365}
+.ft13 #bt_2_058_01 .TabMenu li {background-color:#412365}
+.ft13 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft13 #bt_2_058_01 .TabMenu .selected span {color:#412365}
+
+/** 內塑衣 **/
+.ft14 #bt_2_058_01 {border:2px solid #412365}
+.ft14 #bt_2_058_01 .TabMenu li {background-color:#412365}
+.ft14 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft14 #bt_2_058_01 .TabMenu .selected span {color:#412365}
+
+/** 錶/精品 **/
+.ft26 #bt_2_058_01 {border:2px solid #4E0000}
+.ft26 #bt_2_058_01 .TabMenu li {background-color:#4E0000}
+.ft26 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft26 #bt_2_058_01 .TabMenu .selected span {color:#4E0000}
+
+/** 精品鞋包 **/
+.ft15 #bt_2_058_01 {border:2px solid #4F1E00}
+.ft15 #bt_2_058_01 .TabMenu li {background-color:#412365}
+.ft15 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft15 #bt_2_058_01 .TabMenu .selected span {color:#4F1E00}
+
+/** 3C **/
+.ft19 #bt_2_058_01 {border:2px solid #3E7FF5}
+.ft19 #bt_2_058_01 .TabMenu li {background-color:#3E7FF5}
+.ft19 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft19 #bt_2_058_01 .TabMenu .selected span {color:#3E7FF5}
+
+/** 家電 **/
+.ft29 #bt_2_058_01 {border:2px solid #3E7FF5}
+.ft29 #bt_2_058_01 .TabMenu li {background-color:#3E7FF5}
+.ft29 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft29 #bt_2_058_01 .TabMenu .selected span {color:#3E7FF5}
+
+/** 生活用品 **/
+.ft17 #bt_2_058_01 {border:2px solid #74A000}
+.ft17 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft17 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft17 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_2_058_01 {border:2px solid #74A000}
+.ft18 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft18 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft18 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+
+/** 親子/文教 **/
+.ft27 #bt_2_058_01 {border:2px solid #D74F7D}
+.ft27 #bt_2_058_01 .TabMenu li {background-color:#D74F7D}
+.ft27 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft27 #bt_2_058_01 .TabMenu .selected span {color:#D74F7D}
+
+/** 宗教/藝術 **/
+.ft28 #bt_2_058_01 {border:2px solid #74A000}
+.ft28 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft28 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft28 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+
+/** 旅遊/車類 **/
+.ft16 #bt_2_058_01 {border:2px solid #74A000}
+.ft16 #bt_2_058_01 .TabMenu li {background-color:#74A000}
+.ft16 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft16 #bt_2_058_01 .TabMenu .selected span {color:#74A000}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_2_058_01 {border:2px solid #8A8A8A}
+.ft21 #bt_2_058_01 .TabMenu li {background-color:#8A8A8A}
+.ft21 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft21 #bt_2_058_01 .TabMenu .selected span {color:#8A8A8A}
+
+/** 型男 **/
+.ft30 #bt_2_058_01 {border:2px solid #3E3E3E}
+.ft30 #bt_2_058_01 .TabMenu li {background-color:#3E3E3E}
+.ft30 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft30 #bt_2_058_01 .TabMenu .selected span {color:#3E3E3E}
+
+/** 精品珠寶 **/
+.ft31 #bt_2_058_01 {border:2px solid #4F1E00}
+.ft31 #bt_2_058_01 .TabMenu li {background-color:#412365}
+.ft31 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft31 #bt_2_058_01 .TabMenu .selected span {color:#4F1E00}
+
+/** 型錄 **/
+.ft33 #bt_2_058_01 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_01 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_01 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_01 .TabMenu .selected span {color:#D74F7D}
+
+/** 電視購物 **/
+.ft24 #bt_2_058_02 {border:2px solid #D62672}
+.ft24 #bt_2_058_02 .TabMenu li {background-color:#D62672}
+.ft24 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft24 #bt_2_058_02 .TabMenu .selected span {color:#D62672}
+
+/** 快速到貨 **/
+.ft22 #bt_2_058_02 {border:2px solid #C40909}
+.ft22 #bt_2_058_02 .TabMenu li {background-color:#C40909}
+.ft22 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft22 #bt_2_058_02 .TabMenu .selected span {color:#C40909}
+
+/** 美妝 **/
+.ft11 #bt_2_058_02 {border:2px solid #D74F7D}
+.ft11 #bt_2_058_02 .TabMenu li {background-color:#D74F7D}
+.ft11 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft11 #bt_2_058_02 .TabMenu .selected span {color:#D74F7D}
+
+/** 保健 **/
+.ft12 #bt_2_058_02 {border:2px solid #74A000}
+.ft12 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft12 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft12 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+
+/** 食品 **/
+.ft20 #bt_2_058_02 {border:2px solid #F55D1C}
+.ft20 #bt_2_058_02 .TabMenu li {background-color:#F55D1C}
+.ft20 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft20 #bt_2_058_02 .TabMenu .selected span {color:#F55D1C}
+
+/** 服飾 **/
+.ft13 #bt_2_058_02 {border:2px solid #412365}
+.ft13 #bt_2_058_02 .TabMenu li {background-color:#412365}
+.ft13 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft13 #bt_2_058_02 .TabMenu .selected span {color:#412365}
+
+/** 內塑衣 **/
+.ft14 #bt_2_058_02 {border:2px solid #412365}
+.ft14 #bt_2_058_02 .TabMenu li {background-color:#412365}
+.ft14 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft14 #bt_2_058_02 .TabMenu .selected span {color:#412365}
+
+/** 錶/精品 **/
+.ft26 #bt_2_058_02 {border:2px solid #4E0000}
+.ft26 #bt_2_058_02 .TabMenu li {background-color:#4E0000}
+.ft26 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft26 #bt_2_058_02 .TabMenu .selected span {color:#4E0000}
+
+/** 精品鞋包 **/
+.ft15 #bt_2_058_02 {border:2px solid #4F1E00}
+.ft15 #bt_2_058_02 .TabMenu li {background-color:#412365}
+.ft15 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft15 #bt_2_058_02 .TabMenu .selected span {color:#4F1E00}
+
+/** 3C **/
+.ft19 #bt_2_058_02 {border:2px solid #3E7FF5}
+.ft19 #bt_2_058_02 .TabMenu li {background-color:#3E7FF5}
+.ft19 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft19 #bt_2_058_02 .TabMenu .selected span {color:#3E7FF5}
+
+/** 家電 **/
+.ft29 #bt_2_058_02 {border:2px solid #3E7FF5}
+.ft29 #bt_2_058_02 .TabMenu li {background-color:#3E7FF5}
+.ft29 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft29 #bt_2_058_02 .TabMenu .selected span {color:#3E7FF5}
+
+/** 生活用品 **/
+.ft17 #bt_2_058_02 {border:2px solid #74A000}
+.ft17 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft17 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft17 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_2_058_02 {border:2px solid #74A000}
+.ft18 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft18 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft18 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+
+/** 親子/文教 **/
+.ft27 #bt_2_058_02 {border:2px solid #D74F7D}
+.ft27 #bt_2_058_02 .TabMenu li {background-color:#D74F7D}
+.ft27 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft27 #bt_2_058_02 .TabMenu .selected span {color:#D74F7D}
+
+/** 宗教/藝術 **/
+.ft28 #bt_2_058_02 {border:2px solid #74A000}
+.ft28 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft28 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft28 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+
+/** 旅遊/車類 **/
+.ft16 #bt_2_058_02 {border:2px solid #74A000}
+.ft16 #bt_2_058_02 .TabMenu li {background-color:#74A000}
+.ft16 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft16 #bt_2_058_02 .TabMenu .selected span {color:#74A000}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_2_058_02 {border:2px solid #8A8A8A}
+.ft21 #bt_2_058_02 .TabMenu li {background-color:#8A8A8A}
+.ft21 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft21 #bt_2_058_02 .TabMenu .selected span {color:#8A8A8A}
+
+/** 型男 **/
+.ft30 #bt_2_058_02 {border:2px solid #3E3E3E}
+.ft30 #bt_2_058_02 .TabMenu li {background-color:#3E3E3E}
+.ft30 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft30 #bt_2_058_02 .TabMenu .selected span {color:#3E3E3E}
+
+/** 精品珠寶 **/
+.ft31 #bt_2_058_02 {border:2px solid #4F1E00}
+.ft31 #bt_2_058_02 .TabMenu li {background-color:#412365}
+.ft31 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft31 #bt_2_058_02 .TabMenu .selected span {color:#4F1E00}
+
+/** 型錄 **/
+.ft33 #bt_2_058_02 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_02 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_02 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_02 .TabMenu .selected span {color:#D74F7D}
+
+/** 電視購物 **/
+.ft24 #bt_2_058_03 {border:2px solid #D62672}
+.ft24 #bt_2_058_03 .TabMenu li {background-color:#D62672}
+.ft24 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft24 #bt_2_058_03 .TabMenu .selected span {color:#D62672}
+
+/** 快速到貨 **/
+.ft22 #bt_2_058_03 {border:2px solid #C40909}
+.ft22 #bt_2_058_03 .TabMenu li {background-color:#C40909}
+.ft22 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft22 #bt_2_058_03 .TabMenu .selected span {color:#C40909}
+
+/** 美妝 **/
+.ft11 #bt_2_058_03 {border:2px solid #D74F7D}
+.ft11 #bt_2_058_03 .TabMenu li {background-color:#D74F7D}
+.ft11 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft11 #bt_2_058_03 .TabMenu .selected span {color:#D74F7D}
+
+/** 保健 **/
+.ft12 #bt_2_058_03 {border:2px solid #74A000}
+.ft12 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft12 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft12 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 食品 **/
+.ft20 #bt_2_058_03 {border:2px solid #F55D1C}
+.ft20 #bt_2_058_03 .TabMenu li {background-color:#F55D1C}
+.ft20 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft20 #bt_2_058_03 .TabMenu .selected span {color:#F55D1C}
+
+/** 服飾 **/
+.ft13 #bt_2_058_03 {border:2px solid #412365}
+.ft13 #bt_2_058_03 .TabMenu li {background-color:#412365}
+.ft13 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft13 #bt_2_058_03 .TabMenu .selected span {color:#412365}
+
+/** 內塑衣 **/
+.ft14 #bt_2_058_03 {border:2px solid #412365}
+.ft14 #bt_2_058_03 .TabMenu li {background-color:#412365}
+.ft14 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft14 #bt_2_058_03 .TabMenu .selected span {color:#412365}
+
+/** 錶/精品 **/
+.ft26 #bt_2_058_03 {border:2px solid #4E0000}
+.ft26 #bt_2_058_03 .TabMenu li {background-color:#4E0000}
+.ft26 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft26 #bt_2_058_03 .TabMenu .selected span {color:#4E0000}
+
+/** 精品鞋包 **/
+.ft15 #bt_2_058_03 {border:2px solid #4F1E00}
+.ft15 #bt_2_058_03 .TabMenu li {background-color:#412365}
+.ft15 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft15 #bt_2_058_03 .TabMenu .selected span {color:#4F1E00}
+
+/** 3C **/
+.ft19 #bt_2_058_03 {border:2px solid #3E7FF5}
+.ft19 #bt_2_058_03 .TabMenu li {background-color:#3E7FF5}
+.ft19 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft19 #bt_2_058_03 .TabMenu .selected span {color:#3E7FF5}
+
+/** 家電 **/
+.ft29 #bt_2_058_03 {border:2px solid #3E7FF5}
+.ft29 #bt_2_058_03 .TabMenu li {background-color:#3E7FF5}
+.ft29 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft29 #bt_2_058_03 .TabMenu .selected span {color:#3E7FF5}
+
+/** 生活用品 **/
+.ft17 #bt_2_058_03 {border:2px solid #74A000}
+.ft17 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft17 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft17 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 傢俱寢飾 **/
+.ft18 #bt_2_058_03 {border:2px solid #74A000}
+.ft18 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft18 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft18 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 親子/文教 **/
+.ft27 #bt_2_058_03 {border:2px solid #D74F7D}
+.ft27 #bt_2_058_03 .TabMenu li {background-color:#D74F7D}
+.ft27 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft27 #bt_2_058_03 .TabMenu .selected span {color:#D74F7D}
+
+/** 宗教/藝術 **/
+.ft28 #bt_2_058_03 {border:2px solid #74A000}
+.ft28 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft28 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft28 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 旅遊/車類 **/
+.ft16 #bt_2_058_03 {border:2px solid #74A000}
+.ft16 #bt_2_058_03 .TabMenu li {background-color:#74A000}
+.ft16 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft16 #bt_2_058_03 .TabMenu .selected span {color:#74A000}
+
+/** 品牌名店(此館已刪除) **/
+.ft21 #bt_2_058_03 {border:2px solid #8A8A8A}
+.ft21 #bt_2_058_03 .TabMenu li {background-color:#8A8A8A}
+.ft21 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft21 #bt_2_058_03 .TabMenu .selected span {color:#8A8A8A}
+
+/** 型男 **/
+.ft30 #bt_2_058_03 {border:2px solid #3E3E3E}
+.ft30 #bt_2_058_03 .TabMenu li {background-color:#3E3E3E}
+.ft30 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft30 #bt_2_058_03 .TabMenu .selected span {color:#3E3E3E}
+
+/** 精品珠寶 **/
+.ft31 #bt_2_058_03 {border:2px solid #4F1E00}
+.ft31 #bt_2_058_03 .TabMenu li {background-color:#412365}
+.ft31 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft31 #bt_2_058_03 .TabMenu .selected span {color:#4F1E00}
+
+/** 直配大陸_ **/
+.ft32 #bt_2_058_03 {border:2px solid #3a96ff}
+.ft32 #bt_2_058_03 .TabMenu li {background-color:#3a96ff}
+.ft32 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft32 #bt_2_058_03 .TabMenu .selected span {color:#3a96ff}
+
+/** 型錄 **/
+.ft33 #bt_2_058_03 {border:2px solid #D74F7D}
+.ft33 #bt_2_058_03 .TabMenu li {background-color:#D74F7D}
+.ft33 #bt_2_058_03 .TabMenu .selected {background-color:#FFFFFF}
+.ft33 #bt_2_058_03 .TabMenu .selected span {color:#D74F7D}
+
+/** 20110930 SP **/
+.FuncYN {width:95px; display:inline-block; #float:left; _float:left}
+.FuncYN a {width:75px}
+.cateM {clear:both;}
+
+#relatedArea {margin:10px 0px 0px 0px}
+#relatedArea #tips {padding:3px}
+#relatedArea #tips .curvy {width:194px; position:relative; z-index:1}
+#relatedArea #tips .contentArea a {display:block; padding:0px 10px}
+#relatedArea #tips .contentArea .cateM {font-size:15px; font-family:Arial; color:#333333; font-weight:bold; line-height:32px; padding:0px 10px}
+#relatedArea #tips .contentArea .BGO a {background-color:#D72672}
+#relatedArea #tips .contentArea .cateM {overflow:hidden; height:30px}/** sW **/
+#relatedArea #tips .contentArea .cateS {overflow:hidden; height:28px}/** sW **/
+#relatedArea #tips .contentArea .cateS a {padding:0px 15px; font-size:13px; font-family:Arial; color:#333333; line-height:28px}
+#relatedArea #tips .contentArea .cateS a span{font-size:13px; font-family:Arial; color:#333333; line-height:28px}
+#relatedArea #tips .contentArea .BGO a {color:#FFFFFF}
+#relatedArea #tips .contentArea .cateS a:hover span{color:#E40480; text-decoration:underline}
+
+#relatedArea .curvy,
+#relatedArea #tips em,
+#relatedArea #tips .contentArea #allcategory .curvy {background-color:#FEB708}
+#relatedArea .curvy em,
+#relatedArea .curvy em b,
+#relatedArea #tips .contentArea #allcategory em b {color:#FEB708}
+#relatedArea #tips .curvy,
+#relatedArea #tips .contentArea #allcategory em {background-color:#FFFFFF}
+#relatedArea #tips .curvy .ctl b,
+#relatedArea #tips .curvy .ctr b {color:#FFE332}
+#relatedArea #tips .curvy .cbl b,
+#relatedArea #tips .curvy .cbr b {color:#FFFFFF}
+#relatedArea .cateM {background-color:#FFE332; border-bottom:1px solid #FEB708; display:block}
+#relatedArea .cateS {border-bottom:1px dashed #999999}

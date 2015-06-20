@@ -1,0 +1,57 @@
+@import url("reset.css");
+
+.momo-recommand-plugin {
+  position: fixed;
+}
+
+.momo-recommand-plugin ul.cols {
+  width: 72px;
+  display: inline-block;
+  list-style: none;
+}
+
+.momo-recommand-plugin li.col {
+  display: block;
+  background: #fff;
+}
+
+.momo-recommand-plugin .product {
+  display: inline-block;
+  border: 1px solid #CECECE;
+  border-top: 0;
+}
+
+.momo-recommand-plugin .product-image img{
+  display: inline-block;
+  width: 100%;
+}
+
+.momo-recommand-plugin .product-body {
+
+}
+
+.momo-recommand-plugin .product-name {
+  font-size: 12px;
+}
+
+.momo-recommand-plugin .product-price {
+
+}
+
+.momo-recommand-plugin .momo-header {
+  background: #A0A0A0;
+  padding: 5px;
+  color: #fff;
+  text-align: center;
+}
+
+.recommand-price{
+  color: #D62672;
+  font-family: Century Gothic;
+  font-size: 24px;
+}
+.recommand-name {
+  font-family: Century Gothic;
+  font-size: 24px;
+  font-weight: bold;
+}

@@ -1,0 +1,459 @@
+.GoodsDetail .bt_2_layout_Content {float:right}
+
+/** 商品說明頁面設定 **/
+.prdwarp {width:770px; margin-top:10px; display:inline-block; position:relative}
+/** 右側商品說明設定 **/
+.prdwarp .prdnoteArea {float:right; width:420px; margin-bottom:5px}
+.prdwarp .prdnoteArea h1 {font-size:15px; font-family:Verdana; line-height:22px; margin-bottom:5px; color:#F23B97} /** 商品名稱 **/
+.prdwarp .prdnoteArea .limit {font-size:13px; color:#000000}
+.prdwarp .prdnoteArea .limit b {font-family:Verdana, Geneva, sans-serif; font-size:13px; color:#FF0000}
+.prdwarp .prdnoteArea .promoRange span {font-size:15px; font-family:Verdana}
+.prdwarp .prdnoteArea #sloganTitle {font-size:15px; color:#FF0000; margin-bottom:5px} /** 特色標語 **/
+.prdwarp .prdnoteArea .categoryActivityInfo {margin:0px 0px 5px 5px; list-style:disc outside none; position:relative; height:68px;overflow:hidden;} /** 說明文(含12小時速達及TV現折100) **/
+.prdwarp .prdnoteArea .categoryActivityInfo .hide {display:none}
+.prdwarp .prdnoteArea .categoryActivityInfo .fast,
+.prdwarp .prdnoteArea .categoryActivityInfo .tvlogo {background:none; float:right; width:auto; list-style-type:none; text-align:right; font-size:13px; color:#666666; overflow:visible}
+.prdwarp .prdnoteArea .categoryActivityInfo li {background:transparent url(..http://www.momoshop.com.tw/goods/images/categoryActivityInfo.jpg) no-repeat 0px 9px; background-position:0px 7px \9; width:230px; font-size:13px; font-family:Verdana; color:#666666; height:22px; line-height:22px; padding-left:13px; overflow:hidden}
+.prdwarp .prdnoteArea .categoryActivityInfo img {width:50px; height:auto; vertical-align:top }
+.prdwarp .prdnoteArea .relateMarketing li {font-size:13px; color:#666666; font-family:新細明體}
+.prdwarp .prdnoteArea .relateMarketing a {font-size:13px; color:#3366FF; font-family:新細明體}
+.prdwarp .prdnoteArea .relateMarketing a:hover {color:#E40480}
+.prdwarp .prdnoteArea .relateMarketing a b{font-weight:normal}
+.prdwarp .prdnoteArea .tips td {color:#666666}
+/** 20121011新增貸量倒數幾組 **/
+:root .prdwarp .prdnoteArea .tips td .reciprocal {background-position:55px 0px\9}
+.prdwarp .prdnoteArea .tips td .reciprocal {background:transparent url(..http://www.momoshop.com.tw/goods/images/reciprocalbk.jpg) no-repeat; background-position:54px 0px; background-position:55px 0px\0/; height:26px; line-height:26px; font-size:13px; color:#006600; font-weight:normal; margin-left:5px; display:inline-block}
+.prdwarp .prdnoteArea .tips td .reciprocal span {margin:0px 10px; font-size:15px; font-family:Helvetica; color:#FFFFFF; display:inline-block; line-height:24px; font-weight:bold}
+
+/** 各項說明設定 **/
+.prdwarp .prdnoteArea .PriceDetail {width:100%; margin:5px 0px; padding-top:5px; border-top:1px solid #CCCCCC}
+.prdwarp .prdnoteArea .tips {border:0px; padding: 0px;margin: 0px}
+.prdwarp .prdnoteArea .PriceDetail th {width:60px; padding:0px; #padding-top:4px; font-weight:normal; padding-left:5px; color:#000000; text-align:left}
+.prdwarp .prdnoteArea .PriceDetail th,
+.prdwarp .prdnoteArea .PriceDetail td {font-size:13px; font-family:Arial; height:24px; line-height:24px; #height:26px; #line-height:26px; padding:1px 5px 1px 0px}
+.prdwarp .prdnoteArea .PriceDetail .special {font-size:15px}
+.prdwarp .prdnoteArea .PriceDetail .web {width: 80px}
+.prdwarp .prdnoteArea .PriceDetail td .semicolon {float:left; width:10px; display:inline-block}
+.prdwarp .prdnoteArea .PriceDetail td .combination {display:block; padding-left:10px; font-size:13px; color:#0066FF}
+.prdwarp .prdnoteArea .PriceDetail td .combination select {max-width:260px; top:0px}
+.prdwarp .prdnoteArea .PriceDetail .tips {line-height:18px} /** 修改 **/
+.prdwarp .prdnoteArea .PriceDetail .webprice {margin-left:10px; color:#E40480}
+.prdwarp .prdnoteArea .PriceDetail .promotions {font-size:16px; font-family:Century Gothic; color:#666666}
+.prdwarp .prdnoteArea .PriceDetail del,
+.prdwarp .prdnoteArea .PriceDetail b {font-size:16px; color:#666666; font-family:Century Gothic; font-weight:bold; margin-right:3px; margin-left:3px}
+.prdwarp .prdnoteArea .PriceDetail b {font-size:26px; color:#D62672; margin-left:10px}
+.prdwarp .prdnoteArea .PriceDetail a {font-size:13px; color:#666666; text-decoration:underline}
+.prdwarp .prdnoteArea .PriceDetail a:hover {color:#E40480; text-decoration:none}
+.prdwarp .prdnoteArea .PriceDetail span {font-size:13px; color:#999999; margin-left:5px; cursor:default}
+.prdwarp .prdnoteArea .PriceDetail .gifs:hover {color: #E40480}
+.prdwarp .prdnoteArea .PriceDetail .payment {line-height:20px; padding-top:4px; padding-top:5px \9}
+.prdwarp .prdnoteArea .PriceDetail .payment dt,
+.prdwarp .prdnoteArea .PriceDetail .payment dd {display:inline; font-size:13px; font-family:Verdana, sans-serif; margin-right:2px}
+.prdwarp .prdnoteArea .PriceDetail .payment dd {background:transparent url(..http://www.momoshop.com.tw/ecm/img/cmm/category/nav-line.gif) no-repeat 0px 4px; padding-left:10px}
+.prdwarp .prdnoteArea .PriceDetail label {font-size:13px; font-family:Verdana, sans-serif; margin-right:5px}
+.prdwarp .prdnoteArea .PriceDetail label input {position:relative; top:3px; #top:2px}
+.prdwarp .prdnoteArea .PriceDetail .bulletin {margin-left:10px}
+.prdwarp .prdnoteArea .PriceDetail .gifts li:first-child {border-top:0px}
+.prdwarp .prdnoteArea .PriceDetail .set li {font-size:13px; font-family:Verdana, Geneva, sans-serif; color:#666666}
+.prdwarp .prdnoteArea .PriceDetail .gifts li {font-size:13px; font-family:Verdana, Geneva, sans-serif; color:#666666; border-top:1px dashed #666666}
+/** 分期資訊設定 **/
+.prdwarp .prdnoteArea .PriceDetail .installments {border-top:1px solid #CCCCCC; border-left:1px solid #CCCCCC; position:relative; top:2px}
+.prdwarp .prdnoteArea .PriceDetail .installments th,
+.prdwarp .prdnoteArea .PriceDetail .installments td {width:auto; border-right:1px solid #CCCCCC; border-bottom:1px solid #CCCCCC; background-color:#F0F0F0; height:16px; line-height:16px; #height:18px; #line-height:18px; padding:0px 10px}
+.prdwarp .prdnoteArea .PriceDetail .installments td span {font-family:Arial; color:#E40840; margin:0px 3px}
+.prdwarp .prdnoteArea .PriceDetail .installments td a {font-size:11px; color:#999999; margin-left:5px; text-decoration:none; cursor:pointer}
+.prdwarp .prdnoteArea .PriceDetail .installments td a:hover {color:#E40480}
+.prdwarp .prdnoteArea .PriceDetail .installments th a {background:transparent url(..http://www.momoshop.com.tw/goods/images/moreinstallments.gif) no-repeat 0px 4px; padding-left:10px; font-family:新細明體; color:#999999; white-space:nowrap; cursor:pointer; text-decoration:none}
+.prdwarp .prdnoteArea .PriceDetail .installments th a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/moreinstallmentsA.gif) no-repeat 0px 4px; color:#E40480}
+.prdwarp .prdnoteArea .PriceDetail .installments .tips {display:none}
+.prdwarp .prdnoteArea .PriceDetail td .fuboncard {background:transparent url(..http://www.momoshop.com.tw/goods/images/fuboncardlogo.jpg) no-repeat 0px 3px; #background-position:0px 2px; color:#000000; padding-left:20px; text-decoration:underline}
+.prdwarp .prdnoteArea .PriceDetail td .fuboncard:not(*:root) {background-position:0px 3px}
+.prdwarp .prdnoteArea .PriceDetail select {border:1px solid #444444; padding:0px; border:1px solid #CCCCCC; color:#6B6B6B; #height:21px; #line-height:21px}
+.prdwarp .prdnoteArea .PriceDetail select,
+.prdwarp .prdnoteArea .PriceDetail option {font-size:13px; font-family:Verdana; position:relative; top:3px; #top:0px}
+/** 結帳區塊設定 **/
+.prdwarp .prdnoteArea .checkoutArea {border:1px solid #CCCCCC; background-color:#E4E4E4; float:left; padding:0px 5px; #padding-bottom:10px; margin:5px 0px 10px 0px}
+.prdwarp .prdnoteArea .checkoutArea .hide {display:none}
+.prdwarp .prdnoteArea .checkoutArea dt,
+.prdwarp .prdnoteArea .checkoutArea dd {float:left; margin:10px 5px}
+.prdwarp .prdnoteArea .checkoutArea a {cursor:pointer}
+
+.prdwarp .prdnoteArea .notapplicable {font-size:12px; color:#666666; margin:0px 0px 10px; clear:both}
+.prdwarp .prdnoteArea .giftsnote {font-size:12px; margin:0px 0px 10px; font-weight:bold}
+.prdwarp .prdnoteArea .giftsnote b {margin:0px 3px; font-family:Verdana, Geneva, sans-serif}
+.prdwarp .prdnoteArea .redtxt {color:#FF0000}
+.prdwarp .prdnoteArea .darkorangetxt {color:#FF6600}
+.prdwarp .prdnoteArea .panic_buying {width:auto; font-size:12px; margin:0px; padding-top:5px; font-weight:bold; border-top:1px solid #CCCCCC}
+
+/** 缺貨補貨中視窗設定 **/
+.prdwarp .prdnoteArea #ask_1 {background-color:#FFFFCC; border:1px solid #CCCCCC; padding:10px; margin:0px 18px 10px 0px; display:none; clear:both}
+.prdwarp .prdnoteArea #ask_1 p {width:auto; font-size:13px; font-family:Verdana; color:#666666; line-height:18px; margin:0px}
+.prdwarp .prdnoteArea #ask_1 p a {font-size:13px; font-family:Verdana; color:#FF3300; cursor:pointer}
+.prdwarp .prdnoteArea #ask_1 li {font-size:13px; font-family:Verdana; color:#666666; line-height:18px; list-style:outside decimal none; margin-left:25px}
+.prdwarp .prdnoteArea #ask_1 .hide {display:none}
+.prdwarp .prdnoteArea #ask_1 .btnArea {text-align:center}
+.prdwarp .prdnoteArea #ask_1 .btn {background-color:#0059A5; border:0px; border-radius:8px; color:#FFFFFF; height:22px; line-height:22px; margin-top:10px; cursor:pointer}
+
+/** 商品圖呈現區 **/
+.prdwarp .prdimgArea {float:left; width:322px; margin-bottom:10px; position:relative}
+.prdwarp .prdimgArea .zoomimg {position:absolute; top:299px; left:5px; z-index:999}
+.prdwarp .prdimgArea .bigimg {margin:0px 0px 5px 0px}
+.prdwarp .prdimgArea .hide {display:none}
+/** 商品影音播放設定 **/
+.prdwarp .prdimgArea .container {width:320px; height:300px; overflow:hidden}
+.prdwarp .prdimgArea #btnVod {margin-bottom:5px; display:inline-block}
+.prdwarp .prdimgArea #btnVod dt,
+.prdwarp .prdimgArea #btnVod dd {float:left}
+.prdwarp .prdimgArea #btnVod dt {width:146px; background:transparent url(..http://www.momoshop.com.tw/goods/images/dt-vod-title.gif) no-repeat right}
+.prdwarp .prdimgArea #btnVod .btn_350K a {background:transparent url(..http://www.momoshop.com.tw/goods/images/dt-vod-350k.gif) no-repeat; width:86px; height:36px; display:inline-block}
+.prdwarp .prdimgArea #btnVod .btn_350K a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/dt-vod-350k_hilite.gif) no-repeat}
+.prdwarp .prdimgArea #btnVod .btn_750K a {background:transparent url(..http://www.momoshop.com.tw/goods/images/dt-vod-750k.gif) no-repeat; width:90px; height:36px; display:inline-block}
+.prdwarp .prdimgArea #btnVod .btn_750K a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/dt-vod-750k_hilite.gif) no-repeat}
+/** 小圖水平列表設定 **/
+.prdwarp .prdimgArea .smallimgArea {margin:5px auto; clear:both}
+.prdwarp .prdimgArea .smallimgArea th {width:11px; height:62px; background-color:#D3D3D3; display:inline-block; text-align:center}
+.prdwarp .prdimgArea .smallimgArea th:not(*:root) {height:62px}
+.prdwarp .prdimgArea .smallimgArea th img {margin-top:22px; margin-top:0px \9}
+.prdwarp .prdimgArea .smallimgArea th img:not(*:root) {margin-top:23px}
+.prdwarp .prdimgArea .smallimgArea ul {width:272px; height:62px; margin:0px 1px; white-space:nowrap; overflow:hidden}
+.prdwarp .prdimgArea .smallimgArea li {display:inline; margin-right:5px}
+.prdwarp .prdimgArea .smallimgArea img {border:1px solid #D3D3D3}
+.prdwarp .prdimgArea .smallimgArea td a:hover img {border:1px solid #E40480}
+.prdwarp .prdimgArea .smallimgArea #GoodsDetailPic_S {width:264px; padding-left:1px; overflow:hidden}
+.prdwarp .prdimgArea .smallimgArea #GoodsDetailPic_S td {padding-right:5px; background-color:#FFFFFF}
+/** 分享設定 **/
+.prdwarp .prdimgArea .shareArea {float:left; border:1px solid #CCCCCC; height:23px; line-height:23px; padding:0px 0px 0px 6px; margin-left:53px; margin-bottom:10px; overflow:hidden; display:inline-block}
+.prdwarp .prdimgArea .shareArea dt,
+.prdwarp .prdimgArea .shareArea dd {float:left; height:23px; line-height:23px; margin-right:6px}
+.prdwarp .prdimgArea .shareArea dd {margin-right:5px}
+.prdwarp .prdimgArea .shareArea dt,
+.prdwarp .prdimgArea .shareArea dd a {font-size:13px; color:#666666}
+.prdwarp .prdimgArea .shareArea dd img {margin-top:3px; #margin-top:0px; _margin-top:3px}
+/** 揪朋友拿$70設定 **/
+.prdwarp .prdimgArea .findFriend {float:left; margin-left:6px; padding:0px; border:1px solid #CCCCCC}
+.prdwarp .prdimgArea .findFriend a {background:transparent url(..http://www.momoshop.com.tw/goods/images/findFriendBk.jpg) no-repeat 0px 0px; padding:0px 10px 0px 32px; height:23px; font:13px/23px Helvetica; color:#666666; display:inline-block}
+.prdwarp .prdimgArea .findFriend a:hover {color:#BE425D}
+
+/** 活動設定 **/
+.prdnoteArea .ineventArea .moreFancy{color: #999999; cursor:pointer; display:inline-block; font:13px/20px Helvetica,新細明體; text-decoration:none; margin-left:10px}
+.prdnoteArea .ineventArea .moreFancy:hover {color:#e40480}
+.prdnoteArea .ineventArea td,
+.prdnoteArea .ineventArea th{ padding:0px;}
+.prdnoteArea .ineventArea th span { padding:1px 2px;}
+.prdnoteArea .ineventArea td p { margin:-2px 0px 0px 0px }
+.prdwarp .preferential {width:322px; margin-bottom:0px; display:inline-block}
+.prdwarp .prdimgArea .coupon {font-size:13px; clear:both}
+.prdwarp .prdimgArea p {width:320px; color:#FF0000; line-height:18px; margin-bottom:5px}
+.prdwarp .notapplicable {font-size:13px}
+.prdwarp .prdimgArea .preferential a{font-size:13px; color:#999999; text-decoration:none; cursor:pointer; margin-left:5px; /*display:inline-block*/}
+.prdwarp .prdimgArea .preferential i {font-style:normal; margin-left:5px;}
+.prdwarp .prdimgArea .preferential a:hover {font-size:13px; color:#E40480; text-decoration:none}
+.prdwarp .prdimgArea .preferential dd span a {color: #0059A5}
+.prdwarp .prdimgArea .preferential dd a:hover span {color: #E40480}
+.prdwarp .prdimgArea .preferential dt,
+/*.prdwarp .prdimgArea .preferential dd,*/
+.prdwarp .prdimgArea .preferential dd span {float:left; font-size:13px; line-height:18px; padding:2px 5px 0px; font-family:Verdana; color:#000000}
+.prdwarp .prdimgArea .preferential dd {width:280px; margin-bottom:5px; float:left;}
+.prdwarp .prdimgArea .preferential dd .note {color: #666666; cursor:pointer;}
+.prdwarp .prdimgArea .preferential dd span {padding:0px}
+.prdwarp .prdimgArea .preferential .neopromo {background-color:#FF0099; color:#FFFFFF; font-size:11px}
+.prdwarp .prdimgArea .preferential .clear {width:320px; height:0px}
+.ineventArea th {white-space:nowrap; width:75px; padding:3px 0px;vertical-align:text-top;}
+.ineventArea th span {padding:3px 4px; display:inline-block; width:60px; font:11px/13px Helvetica; font:12px/13px Helvetica\0; color:#d62672; border:1px solid #d62672; text-align:center; }
+.ineventArea td p {color: #000; font: 13px/20px Helvetica,新細明體; margin: 0; padding: 0;}
+.ineventArea td p a {color:#3366FF;}
+.ineventArea td p a:hover {color:#E40480;TEXT-DECORATION:none}
+.ineventArea .eventListTable td p{/*height:20px;*/ margin-top:0px; padding:0px; overflow:hidden; margin-bottom: 0px;}
+.ineventArea td span a {cursor:pointer; height:20px; margin:0px; padding:0px; overflow:hidden}
+.ineventArea .eventListTable .tips  td p {height:20px; margin:0px; padding:0px; overflow:hidden}
+.ineventArea td .eventListTable tr td {vertical-align:bottom}
+.ineventArea td .eventListTable tr td:first-child { width:310px;}
+.ineventArea td .eventListTable tr .eventBtns { width:140px;}
+.ineventArea td .eventListTable tr td a{color: #999999; cursor:pointer; display:inline-block; font:13px/20px Helvetica,新細明體; text-decoration:none; margin-left:10px}
+.ineventArea td .eventListTable tr td .moreBtn { margin-left:10px; display:inline-block; width:50px; height:20px;font:13px/20px Helvetica,新細明體;cursor:pointer; position:relative}
+.ineventArea td .eventListTable tr td a:hover,
+.ineventArea td .eventListTable tr td .moreBtn:hover {color:#e40480}
+.ineventArea td .eventListTable tr td .moreBtn::before {width:0px; height:0px; content:''; border-bottom:5px solid #404040; border-left:5px solid rgba(44, 44, 44, 0); border-right:5px solid rgba(44, 44, 44, 0); position:absolute; top:8px; right:0px}
+.ineventArea td .eventListTable tr td .moreBtn:hover::before {border-bottom:5px solid #E40480; border-left:5px solid rgba(228, 4, 128, 0); border-right:5px solid rgba(228, 4, 128, 0)}
+.ineventArea .tips .eventListTable td .moreBtn::before {display:none}
+.ineventArea .tips .eventListTable td .moreBtn::after {width:0px; height:0px; content:''; border-top:5px solid #404040; border-left:5px solid rgba(44, 44, 44, 0); border-right:5px solid rgba(44, 44, 44, 0); position:absolute; top:8px; right:0px}
+.ineventArea td .eventListTable .tips td .moreBtn:hover::after {border-top:5px solid #E40480; border-left:5px solid rgba(228, 4, 128, 0); border-right:5px solid rgba(228, 4, 128, 0)}
+
+/** 優惠加購設定 **/
+.prdwarp .increase {border:1px solid #DEDEDE; margin:10px 50px 10px; clear:both}
+.prdwarp .increase h2 {background-color:#DDDDDD; border-bottom:1px solid #DEDEDE; color:#3F3F3F; font-size:15px; height:25px; line-height:28px; padding:0px 10px; overflow:hidden}
+.prdwarp .increase h2 a {float:right; background:transparent url(..http://www.momoshop.com.tw/goods/images/increase_explain.gif) no-repeat 0px 5px; background-position:0px 2px \9; margin-top:2px; margin-top:5px \9; padding-left:14px; font-weight:normal; color:#666666; line-height:18px; cursor:pointer}
+.prdwarp .increase h2 a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/increase_explainA.gif) no-repeat 0px 5px; background-position:0px 2px \9; text-decoration:none}
+.prdwarp .increase h2 span {color:#FF0000; font-weight:normal}
+.prdwarp .increase ul {margin:3px 10px}
+.prdwarp .increase li {width:648px; height:24px; line-height:24px; padding:2px 0px; margin:3px 0px; display:inline-block; overflow:hidden}
+.prdwarp .increase li:hover {background-color:#E4E4E4}
+.prdwarp .increase .tips {background-color:#EEEEEE}
+.prdwarp .increase a {font-size:13px; font-family:Verdana; color:#666666; line-height:26px; line-height:28px \9; #line-height:24px; cursor:pointer}
+.prdwarp .increase a:hover {color:#E40480; text-decoration:none}
+.prdwarp .increase input {float:left; margin-top:7px; margin-top:4px \9; #margin-top:3px}
+.prdwarp .increase input:not(*:root) {margin-top:8px}
+.prdwarp .increase .price {float:right; width:70px; margin-right:5px; color:#D62672; text-align:right}
+.prdwarp .increase .price b {font-family:Century Gothic; font-size:22px; color:#D62672}
+.prdwarp .increase .more {width:auto; margin:5px 10px; text-align:right; display:none}
+.prdwarp .increase .more a {background:transparent url(..http://www.momoshop.com.tw/goods/images/moreinstallments.gif) no-repeat 0px 5px; padding-left:10px; font-size:12px; color:#999999}
+.prdwarp .increase .more a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/moreinstallmentsA.gif) no-repeat 0px 5px; color:#E40480; text-decoration:none}
+.prdwarp .increase .pieces {float:right; margin-right:5px; font-size:13px}
+.prdwarp .increase .pieces select {padding:0px; border:1px solid #444444; margin-right:3px}
+.prdwarp .increase .pieces select, .prdwarp .pieces option {font-size:13px; font-family:Verdana; position:relative; top:2px}
+.prdwarp .increase .type {float:right; margin-right:5px; position:relative; top:2px}
+.prdwarp .increase .type select {width:160px; padding:0px; border:1px solid #444444; margin:0px 3px 0px 5px; font-size:13px; font-family:Verdana}
+.prdwarp .type option {font-size:13px; font-family:Verdana}
+
+/** 旅遊商品出發日期設定 **/
+.prdwarp .departure {border:1px solid #DEDEDE; margin-bottom:10px; padding-bottom:5px; display:none}
+.prdwarp .departure h2 {background-color:#DDDDDD; border-bottom:1px solid #DEDEDE; color:#FF0000; font-size:15px; height:25px; line-height:28px; padding:0px 10px; overflow:hidden}
+.prdwarp .departure dl {margin:5px 10px 0px 0px; list-style-position:inside}
+.prdwarp .departure dt,
+.prdwarp .departure dd {display:inline; line-height:20px; margin-right:5px}
+.prdwarp .departure dt {display:inline; margin:5px 0px 5px 10px; font-size:13px; font-family:Verdana; font-weight:bold; color#333333; line-height:20px; clear:left}
+.prdwarp .departure a {font-family:13px; font-family:Verdana; color:#0059A5; text-decoration:underline}
+.prdwarp .departure a:hover {color:#E40480; text-decoration:none}
+
+/** 腰帶Banner設定 **/
+.bannerArea {width:770px; margin-bottom:10px}
+
+/** 商品詳情頁籤及呈現區設定 **/
+.prdwarp .vendordetailmenu {width:770px; border-bottom:1px solid #323232; height:34px; margin-top:20px; display:block; position:relative;clear: both}
+.prdwarp .vendordetailmenu li {float:left; background:transparent url(..http://www.momoshop.com.tw/goods/images/vendordetailmenu_newliBk.gif) repeat-x; border:1px solid #CBCBCB; border-left:0px; border-bottom:0px; height:30px; line-height:30px; padding:0px 20px; position:relative; top:3px; cursor:pointer}
+.prdwarp .vendordetailmenu .first {border-left:1px solid #CBCBCB; border-right:1px solid #CBCBCB; left:0px; z-index:3}
+.prdwarp .vendordetailmenu li span {font-size:15px; font-family:新細明體; color:#666666; font-weight:normal}
+.prdwarp .vendordetailmenu .selected {background:#FFFFFF url(..http://www.momoshop.com.tw/goods/images/vendordetailmenu_newlileftBk.gif) no-repeat; height:35px; top:0px; padding:0px 0px 0px 3px; border:0px; position:relative; z-index:4}
+.prdwarp .vendordetailmenu .selected b {background:transparent url(..http://www.momoshop.com.tw/goods/images/vendordetailmenu_newlirightBk.gif) no-repeat right; height:35px; padding-right:4px; display:block}
+.prdwarp .vendordetailmenu .selected b span {border:1px solid #323232; border-top:3px solid #323232; border-bottom:0px; display:block; height:32px; line-height:32px; color:#1F1F1F; font-weight:bold; padding:0px 20px; position:relative; top:0px}
+
+.prdwarp .vendordetailview {margin-bottom:10px; padding:10px 20px 0px}
+.prdwarp .vendordetailview p {width:auto}
+.prdwarp .vendordetailview .btnArea {text-align:center; padding:10px 0px 0px}
+.prdwarp .vendordetailview .btnArea a {background:transparent url(..http://www.momoshop.com.tw/goods/images/topbkimg.gif) no-repeat 0px 7px; font-size:13px; font-family:Verdana; color:#999999; font-weight:bold; padding:0px 10px; border-radius:4px}
+.prdwarp .vendordetailview .btnArea a:hover {background:transparent url(..http://www.momoshop.com.tw/goods/images/topbkimg_hover.gif) no-repeat 0px 7px; color:#E40480}
+
+.prdwarp .specification p,
+.prdwarp .giftsArea p {font-size:15px; color:#333333; font-family:Verdana; line-height:22px}
+.prdwarp .msgArea ul {line-height:18px}
+.prdwarp .msgArea p {padding-top:10px; font-size:15px; font-weight:bold; color:#434343}
+.prdwarp .msgArea li {font-size:15px; color:#434343; line-height:22px; list-style:disc outside none; margin-left:20px}
+.prdwarp .msgArea a {font-size:15px; color:#3366FF; text-decoration:underline}
+.prdwarp .msgArea a:hover {color:#E40480; text-decoration:none}
+.prdwarp .msgArea .red {font-size:15px; color:#FF0000}
+
+/*
+ 20130808新增提醒您文字 
+*/
+.prdwarp .msgArea .remindtxt {background-color:#FFFFCC; border:1px solid #FFCC33; padding:0px 10px 5px}
+.prdwarp .msgArea .remindtxt p,
+.prdwarp .msgArea .remindtxt li {color:#CC0000; line-height:22px}
+
+.prdwarp .credit li {line-height:22px}
+.prdwarp .credit li,
+.prdwarp .credit b {font-size:15px; font-family:Verdana}
+.prdwarp .credit .tips {color:#FF0000; border-bottom:1px solid #000000; margin:0px 5px}
+.prdwarp .credit a {font-size:15px; color:#0066FF; text-decoration:underline; cursor:pointer}
+.prdwarp .credit h2 {font:bold 15px/22px Helvetica}
+.prdwarp .credit .Qli {color:#365F91;font-weight:bold}
+.prdwarp .credit .Ali {margin:5px 0px 10px}
+.prdwarp .related_category dl {margin:5px 0px 10px; padding:0px}
+.prdwarp .related_category dt {background:transparent url(..http://www.momoshop.com.tw/goods/images/listimg.gif) no-repeat 0px 2px; padding-left:13px}
+.prdwarp .related_category dd {background:transparent url(..http://www.momoshop.com.tw/ecm/img/cmm/category/nav-line.gif) no-repeat 0px 2px; padding-left:12px}
+.prdwarp .related_category dt,
+.prdwarp .related_category dd {display:inline; font-size:15px; margin-right:5px}
+.prdwarp .related_category a {font-size:15px; color:#3366FF}
+.prdwarp .related_category a:hover {color:#E40480; text-decoration:none}
+
+/** 瀏覽記錄設定 **/
+.prdwarp .recordArea {margin-bottom:10px; border-bottom:1px solid #3F3F3F; #height:216px}
+.prdwarp .recordArea h2 {background-color:#DDDDDD; border-bottom:1px solid #3F3F3F; color:#3F3F3F; font-size:15px; height:25px; line-height:28px; padding:0px 10px; overflow:hidden}
+.prdwarp .recordArea dl {display:inline-block; #float:left; border-right:1px dashed #999999; padding:5px 0px 5px 1px; text-align:center}
+.prdwarp .recordArea dt,
+.prdwarp .recordArea dd {float:left; width:152px; height:180px}
+.prdwarp .recordArea dd {border-left:1px dashed #999999}
+.prdwarp .recordArea p {width:143px; height:32px; margin:5px auto 0px; font-size:13px; font-family:Verdana; color:#000000; line-height:16px; font-weight:bold; display:inline-block; overflow:hidden}
+.prdwarp .recordArea b {font-size:24px; font-family:Century Gothic; color:#D62672}
+
+/** 商品圖放大區塊 **/
+.enlargeArea {border:1px solid #000000; background-color:#FFFFFF; width:414px; height:414px; position:absolute; top:0px; right:0px; z-index:2000; overflow:hidden; display:none}
+.enlargeArea img {position:absolute}
+
+/** 優惠加購說明視窗 **/
+.fancybox-overlay {background-color:#000000; position:absolute; top:0px; left:0px; display:none; z-index:1000}
+#addBuyText {width:640px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+#addBuyText h2 {font-size:13px; text-align:left}
+#addBuyText h2 img {float:right; cursor:pointer}
+#addBuyText ul {text-align:left; margin:5px 0px; padding-left:20px}
+#addBuyText li {font-size:13px; color:#000000; font-family:Verdana, sans-serif; line-height:18px; list-style-type:decimal; list-style-position:outside}
+#addBuyText li .red {color:#FF0000;}
+
+/** 活動說明視窗 **/
+.activitynote {width:640px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.activitynote h2 {font-size:13px; text-align:left}
+.activitynote h2 img {float:right; cursor:pointer}
+.activitynote p {text-align:left; font-size:13px; font-family:Verdana, sans-serif; line-height:18px; margin:5px 0px}
+.activitynote ul {text-align:left; margin:5px 0px; padding-left:20px}
+.activitynote li {font-size:13px; color:#000000; font-family:Verdana, sans-serif; line-height:18px; list-style-type:decimal; list-style-position:outside}
+.activitynote li span {color:#FF0000; font-size:13px}
+
+/** 指定時段冷凍宅配說明視窗 **/
+.freezingDely {width:640px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.freezingDely h2 {font-size:13px; text-align:left}
+.freezingDely h2 img {float:right; cursor:pointer}
+.freezingDely p {text-align:left; font-size:13px; font-family:Verdana, sans-serif; line-height:18px; margin:5px 0px}
+.freezingDely ul {text-align:left; margin:5px 0px; padding-left:20px}
+.freezingDely li {font-size:13px; color:#000000; font-family:Verdana, sans-serif; line-height:18px; list-style-type:decimal; list-style-position:outside}
+.freezingDely li span {color:#FF0000; font-size:13px}
+
+/** 快速結帳未設定視窗 **/
+.fastnotsetup {width:410px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.fastnotsetup h2 {font-size:13px; text-align:left}
+.fastnotsetup p {text-align:left; font-size:13px; font-family:Verdana, sans-serif; line-height:18px; margin:5px 0px}
+.fastnotsetup p b {font-size:13px}
+.fastnotsetup ul {text-align:right; margin-right:10px}
+.fastnotsetup li {display:inline; margin-left:10px}
+.fastnotsetup a {font-size:13px; color:#0059A5; cursor:pointer}
+.fastnotsetup a:hover {color:#E40480; text-decoration:underline}
+
+/** 快速結帳視窗 **/
+.fastArea {width:430px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.fastArea p {text-align:left; font-size:13px; font-family:Verdana, sans-serif; line-height:22px; margin:5px 0px}
+.fastArea p b {font-size:22px; color:#D62672; font-family:Century Gothic}
+.fastArea ul {text-align:right; margin-right:10px}
+.fastArea li {display:inline; margin-left:10px}
+.fastArea a {font-size:13px; color:#0059A5; cursor:pointer}
+.fastArea a:hover {color:#E40480; text-decoration:underline}
+
+/** 廢四機視窗 **/
+.recoverArea {width:410px; background:#FFFFFF url(..http://www.momoshop.com.tw/ecm/img/cmm/main/mid_banner.gif) no-repeat top center; border:1px solid #000000; border-radius:5px; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.recoverArea h2 {font-size:13px; text-align:left}
+.recoverArea p {text-align:left; font-size:13px; font-family:Verdana, sans-serif; line-height:18px; margin:5px 0px}
+.recoverArea p b {font-size:13px}
+.recoverArea ul {text-align:right; margin-right:10px}
+.recoverArea li {display:inline; margin-left:10px; font-size:13px}
+.recoverArea a {background-color:#FF3399; font-size:13px; color:#FFFFFF; border-radius:5px; padding:4px 10px 2px; cursor:pointer}
+.recoverArea a:hover {color:#FFFFFF; text-decoration:none}
+
+/** 信託說明點擊其他相關說明視窗 **/
+.creditnote {width:640px; background-color:#FFFFFF; border:1px solid #000000; padding:10px; display:none; position:absolute; top:0px; left:0px; z-index:1001}
+.creditnote h2 {font-size:15px; text-align:left}
+.creditnote h2 img {float:right; cursor:pointer}
+.creditnote ul,
+.creditnote li {margin:0px; padding:0px; text-align:left; font-size:13px; font-family:Verdana; line-height:20px}
+.creditnote ul {margin:10px; list-style-position:inside}
+.creditnote .Qli {font-weight:bold}
+.creditnote .Ali {margin-bottom:5px}
+.creditnote li b {margin-right:5px; width:18px; height:18px; line-height:18px; display:inline-block; text-align:center; color:#FFFFFF; font-family:Verdana}
+.creditnote .Qli b {background-color:#FF0000} 
+.creditnote .Ali b {background-color:#0066FF}
+
+/** 點點賺加MGM設定 **/
+.prdwarp .prdnoteArea .pointpointEarnArea {height:32px; border:1px solid #D4D4D4; border-radius:6px; clear:both}
+.prdwarp .prdnoteArea .pointpointEarnArea dt,
+.prdwarp .prdnoteArea .pointpointEarnArea dd {float:left}
+.prdwarp .prdnoteArea .pointpointEarnArea a {font:13px/32px Helvetica; color:#353535; text-decoration:none; padding:0px 30px 0px 38px; display:inline-block}
+.prdwarp .prdnoteArea .pointpointEarnArea dt {background:transparent url(..http://www.momoshop.com.tw/goods/images/pointpointEarnAreaDtBk.png) repeat-x; height:32px; border-radius:6px 0px 0px 6px; position:relative}
+.prdwarp .prdnoteArea .pointpointEarnArea dt a {background:transparent url(..http://www.momoshop.com.tw/goods/images/pointpointEarnAreaDtABk.png) no-repeat 19px 3px; height:32px; font:13px/32px Helvetica; color:#FFFFFF; padding:0px 22px 0px 49px}
+.prdwarp .prdnoteArea .pointpointEarnArea dt a span {background-color:#FFFFFF; width:10px; height:10px; font:11px/11px Helvetica; color:#666666; text-align:center; border:1px solid #666666; border-radius:2px; margin-left:4px; display:inline-block}
+.prdwarp .prdnoteArea .pointpointEarnArea dt b {background:#FFFFFF url(..http://www.momoshop.com.tw/goods/images/pointpointEarnAreaDtBBk.png) no-repeat 0px -1px; width:14px; height:32px; position:absolute; top:0px; right:-14px}
+.prdwarp .prdnoteArea .pointpointEarnArea .recommend {background:transparent url(..http://www.momoshop.com.tw/goods/images/pointpointEarnAreaDdBk.png) no-repeat right; margin:0px 0px 0px 14px}
+.prdwarp .prdnoteArea .pointpointEarnArea .recommend a {background:transparent url(..http://www.momoshop.com.tw/goods/images/pointpointEarnArearecommendBk.png) no-repeat 18px 8px}
+.prdwarp .prdnoteArea .pointpointEarnArea .recommendList a {background:transparent url(..http://www.momoshop.com.tw/goods/images/pointpointEarnArearecommendListBk.png) no-repeat 21px 8px; padding:0px 37px 0px 43px}
+
+/** 20140721新增開始 **/
+.prdwarp .prdnoteArea .PriceDetail .warranty b {font:13px/20px Arial; color:#666666; margin:0px 5px}
+.prdwarp .prdnoteArea .PriceDetail .warranty b:first-child {margin:0px 5px 0px 0px}
+.prdwarp .prdnoteArea .PriceDetail .warranty a {font:13px/24px Arial,新細明體; margin-left:50px; cursor:pointer; text-decoration:none; position:relative}
+.prdwarp .prdnoteArea .PriceDetail .warranty a::after {width:0px; height:0px; font:13px/24px Arial,新細明體; content:''; border-top:5px solid #404040; border-left:5px solid rgba(44, 44, 44, 0); border-right:5px solid rgba(44, 44, 44, 0); position:absolute; top:5px; left:-15px}
+.prdwarp .prdnoteArea .PriceDetail .warranty a:hover::after {border-top:5px solid #E40480; border-left:5px solid rgba(228, 4, 128, 0); border-right:5px solid rgba(228, 4, 128, 0)}
+/** 20140721保固期跳出圖層 **/
+.warrantyBox {background:#FFFFFF; width:500px; position:fixed; left:0px; bottom:0px; display:none; border:1px solid #404040; z-index:1001}
+.warrantyBox h2 {background-color:#404040; font:bold 15px/35px Helvetica; color:#FFFFFF; text-align:left; padding:0px 10px; display:block}
+.warrantyBox h2 a {position:absolute; right:10px; top:0px; font:13px/35px Helvetica; color:#FFFFFF; cursor:pointer}
+.warrantyBox .innerArea {padding:10px}
+.warrantyBox table {border-left:1px solid #404040}
+.warrantyBox table th {background-color:#404040; width:50px; font:bold 13px/20px 微軟正黑體; color:#FFFFFF; padding:5px; text-align:center}
+.warrantyBox table th,
+.warrantyBox table td {border-bottom:1px solid #404040; border-right:1px solid #404040; padding:0px}
+.warrantyBox table td h3 {font:bold 18px/20px Helvetica; color:#404040; text-align:left; padding:5px; border-top:1px solid #404040}
+.warrantyBox table td h3 b {font:bold 18px/20px Helvetica; margin:0px 5px}
+.warrantyBox table td h3 b:first-child {margin:0px 5px 0px 0px}
+.warrantyBox table td p {max-height:150px; font:13px/20px Helvetica; color:#404040; border-top:1px solid #404040; text-align:left; padding:10px; overflow-y:auto}
+/** 20140721商品規格裡新增保固期樣式 **/
+.prdwarp .specification .warrantyTable {border-left:1px solid #404040; border-left:1px solid #404040; margin:10px 0px 0px 0px}
+.prdwarp .specification .warrantyTable th {background-color:#404040; width:50px; font:bold 13px/20px 微軟正黑體; color:#FFFFFF; text-align:center; padding:5px}
+.prdwarp .specification .warrantyTable th,
+.prdwarp .specification .warrantyTable td {border-bottom:1px solid #404040; border-right:1px solid #404040; padding:0px}
+.prdwarp .specification .warrantyTable td h3 {font:bold 18px/20px Helvetica; color:#404040; padding:5px; border-top:1px solid #404040}
+.prdwarp .specification .warrantyTable td h3 b {margin:0px 5px}
+.prdwarp .specification .warrantyTable td h3 b:first-child {margin:0px 5px 0px 0px}
+.prdwarp .specification .warrantyTable td p {max-height:150px; font:13px/20px Helvetica; color:#404040; border-top:1px solid #404040; text-align:left; padding:10px; overflow-y:auto}
+/** 20140721新增結束 **/
+
+#goodsimgB {left:0px}
+#goodsimgB .zoomPad {margin-bottom:5px}
+
+/** 商品內搜尋用文字 FOR SEO**/
+.prdwarp .prdimgArea {position:relative}
+.prdwarp .prdimgArea .textinImgArea { display:inline-block; width:0px; height:320px; overflow:hidden; position:absolute; top:0px; left:1px; z-index:-1}
+#bt_2_052_01_e1 a{text-decoration: none; outline: medium none; color: #FFFFFF;}
+
+/** 更多分期資訊框 **/
+.installmentsBox { display:none; background:transparent; position:absolute; left:0px; top:0px; padding:10px; border:0; z-index:1003;}
+.installmentsBox .installmentsCont { background:#FFF; width:830px; border:1px solid #404040; position:relative; box-shadow:2px 3px 5px #797979}
+.installmentsBox h2 {background-color:#404040; font:bold 15px/35px Helvetica; color:#FFFFFF; text-align:center; margin:0px; padding:0px 10px; display:block}
+.installmentsBox h2 a {position:absolute; right:10px; top:0px; font:13px/35px Helvetica; color:#FFFFFF; cursor:pointer}
+.installmentsBox .innerArea {margin:10px; display:inline-block}
+.installmentsBox ul {float:left; margin:0px 5px 0px 0px; padding:0px; list-style:none}
+.installmentsBox li {background-color:#BFBFBF; height:30px; font:15px/30px 微軟正黑體; color:#404040; text-align:right; margin:0px; padding:0px 10px; border:1px solid #666666; border-top:0px; position:relative; cursor:pointer; *width:171px;}
+.installmentsBox li b {font:15px/28px Helvetica; color:#404040; margin:0px 5px}
+.installmentsBox li .price {width:50px; font:bold 15px/28px Century Gothic; border-left:1px solid #FFFFFF; padding:0px 0px 0px 5px; display:inline-block}
+.installmentsBox li span {background-color:#FFFFFF; width:7px; height:30px; border:1px solid #666666; border-left:0px; border-right:0px; position:absolute; top:-1px; right:-7px; display:none}
+.installmentsBox li:first-child {border-top:1px solid #666666}
+.installmentsBox .selected {background-color:#FFFFFF; color:#000000; border-right:1px solid #FFFFFF}
+.installmentsBox .selected b {font:15px/28px Helvetica; color:#e40480; margin:0px 3px}
+.installmentsBox .selected .price {font:bold 15px/28px Century Gothic; border-left:1px solid #333333}
+.installmentsBox .selected span {display:inline-block}
+.installmentsBox .detailList {float:right; width:560px; *width:580px; min-height: 195px; margin:0px; padding:0px 15px; border:1px solid #666666}
+.installmentsBox .detailList .detailArae {display:none}
+.installmentsBox .detailList .detailArae:first-child {display:inline-block}
+.installmentsBox .detailList h3 {font:bold 18px/30px 微軟正黑體; color:#383838; margin:10px 0px 0px; padding:0px}
+.installmentsBox .detailList h3 b {color:#e40480; margin:0px 3px}
+.installmentsBox .detailList p {font:15px/22px 微軟正黑體; color:#383838; margin:10px 0px}
+.installmentsBox .detailList ul {margin:15px 0px 10px 0px; padding:0px; list-style:none; *width:100%}
+.installmentsBox .detailList li {background-color:transparent; height:20px; font:13px/20px 微軟正黑體; color:#7F7F7F; text-align:left; border:0px; margin:0px; padding:0px; cursor:default; *width:100%}
+.installmentsBox .detailList li img {margin:0px 3px}
+.installmentsBox .creditCard { margin:10px 0 0 0; *width:200px; *position:absolute; *left:0px; *bottom:-40px}
+.installmentsBox .creditCard li {background-color: #ffffff; border: 1px solid #666666; display: inline-block; float: left; margin-right:2px; text-align: center; width: 87px; padding:0; *width:93px; *margin-left:2px; *margin-right:0px}
+.installmentsBox .creditCard li a {color:#003399;font: 15px/24px Helvetica; text-decoration: underline;}
+.installmentsBox .creditCard li a:hover, .installmentsBox .creditCard li a .bank:hover { color:#e40480; text-decoration:underline; cursor:pointer}
+.installmentsBox .creditCard li a b {color:#003399;}
+.installmentsBox .creditCard li b {*font:13px/28px Helvetica; cursor:default; color:#404040 }
+/** 折後價行銷活動門檻資訊 **/
+.eventsaletextArea {display:block; margin:0px; padding:0px; font:14px/22px Helvetica; position:relative;}
+.eventsaletextArea .eventindays,
+.eventsaletextArea .eventinbox {display:inline-block; font:15px/22px Helvetica; color:#333333}
+.eventsaletextArea .eventinbox {margin-left:8px; color:#ff0000; cursor:pointer}
+.eventsaletextArea .eventinbox .moreBtn {display:inline-block; font:13px/22px Helvetica; color:#333333; margin-left:10px; padding-right:20px; background:transparent url("http://www.momoshop.com.twhttp://www.momoshop.com.tw/goods/images/moreinstallments.gif") no-repeat 31px 9px }
+.eventsaletextArea .eventsaleNote {display:none; background:#FFF; border:1px solid #000; position:absolute; top:20px; left:140px; z-index:10; box-shadow:0px 2px 2px #5d5d5d}
+.eventsaletextArea .eventsaleNote h2 {margin:0px; padding:0px; text-align:center; background-color:#404040; font:bold 15px/30px Helvetica; color:#FFFFFF; position:relative}
+.eventsaletextArea .eventsaleNote h2  a {position:absolute; right:10px; top:0px; font:13px/30px Helvetica; color:#FFFFFF; cursor:pointer}
+.eventsaletextArea .eventsaleNote p {margin:10px 0px 0px 0px; padding:0px 0px 0px 20px; font:bold 15px/20px Helvetica; color:#5d5d5d;}
+.eventsaletextArea .eventsaleNote ul {margin:0px; padding:10px 10px;}
+.eventsaletextArea .eventsaleNote ul li { margin:2px 10px; font:13px/18px Helvetica; color:#000000; list-style-type:none}
+.eventsaletextArea .eventsaleNote ul li span { color:#ff0000}
+.prdwarp .prdnoteArea .PriceDetail th, 
+.prdwarp .prdnoteArea .PriceDetail td { line-height:22px;}
+.prdwarp .prdnoteArea .PriceDetail td i {font:13px/20px Helvetica,新細明體; color:#999999}
+.prdwarp .prdnoteArea .PriceDetail del {color:#999999; font:14px/20px Century Gothic}
+.prdwarp .prdnoteArea .PriceDetail .special { position:relative}
+.prdwarp .prdnoteArea .PriceDetail .special .originalinPrice {margin-right:5px; font:13px/20px Helvetica,新細明體;}
+.prdwarp .prdnoteArea .PriceDetail .special .saleinPrice,
+.prdwarp .prdnoteArea .PriceDetail .special .otherPrice {color:#000000; margin-right:5px; font:15px/20px Helvetica,新細明體;}
+.prdwarp .prdnoteArea .PriceDetail .special .saleinPrice i,
+.prdwarp .prdnoteArea .PriceDetail .special .otherPrice i  {font:13px/20px Helvetica,新細明體; color:#000000}
+.prdwarp .prdnoteArea .PriceDetail .special .otherPrice { display:inline-block; position:absolute; right:0px; top:0px}
+.prdwarp .prdnoteArea .PriceDetail .forDel .saleinPrice,
+.prdwarp .prdnoteArea .PriceDetail .forDel .saleinPrice i {color:#999999; font:13px/20px Helvetica,新細明體;}
+.prdwarp .prdnoteArea .PriceDetail .forDel .saleinPrice b {color:#999999; font:bold 14px/20px Century Gothic}

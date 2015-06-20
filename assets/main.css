@@ -1,0 +1,2185 @@
+/* =================================== body 基本字型大小 ==================================*/
+body {
+  margin:0px;
+	color: #666666;
+	font-family: Arial, "新細明體";
+	font-size: 12px;
+	font-style: normal;
+	text-align: center;
+	TEXT-DECORATION: none;
+}
+
+td {
+	color: #666666;
+	font-family: Arial, "新細明體";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 160%;
+	font-weight: normal;
+}
+/*==無浮水印時width改為880==*/
+
+/*==首頁最大Table定位==*/
+#IndexBigTableBase {
+	width: 980px;
+	margin: auto;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: top;
+}
+#TableBase880 {
+	margin: auto;
+	PADDING: 10 0 0 0px;
+	text-align:left;
+	vertical-align: top;
+	position: relative;	
+}
+#LeftTableBase210 {
+	margin: auto;
+	PADDING: 0 10 0 5px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+#LeftTableBase200 {
+	margin: auto;
+	PADDING: 0 10 0 5px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+#RightTableBase770 {
+	margin: auto;
+	PADDING: 0px;
+	text-align:right;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+#RightTableBase780 {
+	margin: auto;
+	PADDING: 0px;
+	text-align:right;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+A:link {
+	color: #666666;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+}
+A:visited {
+	color: #666666;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+}
+A:hover, A:active {
+	color: #039;
+	font-family: Arial, "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: underline;
+}
+
+.TopBlue12, A.TopBlue12:link, A.TopBlue12:visited, A.TopBlue12:hover, A.TopBlue12:active {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: none;
+}
+
+.blackLeft12, A.blackLeft12:link, A.blackLeft12:visited {
+	color: #000000;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:left;
+	line-height: 20px;
+}
+.blackLeft12, A.blackLeft12:hover, A.blackLeft12:active {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:left;
+	line-height: 20px;
+}
+
+.black12 {
+	color: #000000;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 20px;
+}
+
+.DGray13B {
+	color: #3E3E3E;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+	text-align:center;
+  font-weight: bold;
+	line-height: 200%;
+}
+
+.GoodsNM {
+	color: #333333;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+
+A.GoodsNM:link {
+	color: #333333;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+A.GoodsNM:visited {
+	color: #333333;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+A.GoodsNM:hover, A.GoodsNM:active {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: none;
+	font-weight: bold;
+}
+
+.GoodsHP {
+	color: #009933;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsHP:link {
+	color: #009933;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsHP:visited {
+	color: #009933;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsHP:hover, A.GoodsHP:active {
+	color: #009933;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: underline;
+	font-weight: normal;
+	line-height: 120%;
+}
+
+.GoodsPP1 {
+	color: #3366FF;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP1:link {
+	color: #3366FF;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP1:visited {
+	color: #3366FF;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP1:hover, A.GoodsPP1:active {
+	color: #3366FF;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: underline;
+	font-weight: normal;
+	line-height: 120%;
+}
+
+.GoodsPP2 {
+	color: #E65C0B;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP2:link {
+	color: #E65C0B;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP2:visited {
+	color: #E65C0B;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP2:hover, A.GoodsPP2:active {
+	color: #E65C0B;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: underline;
+	font-weight: normal;
+	line-height: 120%;
+}
+
+.GoodsPP3 {
+	color: #FF0099;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP3:link {
+	color: #FF0099;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP3:visited {
+	color: #FF0099;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	TEXT-DECORATION: none;
+	font-weight: normal;
+	line-height: 120%;
+}
+A.GoodsPP3:hover, A.GoodsPP3:active {
+	color: #FF0099;
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+	TEXT-DECORATION: underline;
+	font-weight: normal;
+	line-height: 120%;
+}
+
+.LGray12U {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+}
+A.LGray12U:link {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 160%;
+}
+A.LGray12U:visited {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 160%;
+}
+A.LGray12U:hover,A.LGray12U:active {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 160%;
+	text-decoration: underline;
+}
+
+.LGrayU {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+.PriceNM12 {
+	font-size: 12px;
+	color: #333333;
+}
+.PriceSb12 {
+	font-size: 12px;
+	color: #FA0765;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PriceNameHPMain {
+	font-size: 14px;
+	font-weight: bold;
+	color: #009933;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PriceHPMain {
+	font-size: 16px;
+	font-weight: bold;
+	color: #009933;
+	line-height: 16px;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PriceNamePP1Main {
+	font-size: 14px;
+	font-weight: bold;
+	color: #3366FF;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PricePP1Main {
+	font-size: 16px;
+	font-weight: bold;
+	color: #3366FF;
+	line-height: 16px;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+
+.PriceNamePP2Main {
+	font-size: 14px;
+	font-weight: bold;
+	color: #E65C0B;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PricePP2Main {
+	font-size: 16px;
+	font-weight: bold;
+	color: #E65C0B;
+	line-height: 16px;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+
+.PriceNamePP3Main {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0099;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+.PricePP3Main {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FF0099;
+	line-height: 16px;
+	font-family: Arial, Verdana,  Helvetica, sans-serif;
+}
+
+
+.momoja18B {
+	color: #FA0765;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 16px;
+}
+.momoja13B {
+	color: #CC6600;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 150%;
+}
+.momoja13B2 {
+	color: #CC6600;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  font-weight: bold;
+	text-align:left;
+	line-height: 150%;
+}
+.Orange12 {
+	color: #CC6600;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 150%;
+}
+.Orange15B {
+	color: #FF6600;
+  font-family: "Arial", "新細明體";
+  font-size: 15px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 150%;
+}
+.NavOrange12 {
+	color: #CC6600;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+}
+.LightBlue12 {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 150%;
+}
+.LtBlueLeft12 {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:left;
+	line-height: 200%;
+	vertical-align: top;
+}
+.LightBlue12B {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+  font-weight: bold;
+	text-align:center;
+	line-height: 150%;
+}
+.LtBlueLoginMsg12 {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:left;
+	line-height: 120%;
+	padding: 10 0 0 5px;
+}
+.LtRedLoginMsg12 {
+	color: #FF0000;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:left;
+	line-height: 120%;
+	padding: 10 0 0 5px;
+}
+.LoginMsg12 {
+	font-size: 11px;
+  font-family: "Arial", "新細明體";
+	color: #EC0A8F;
+	/*text-align:right;*/
+}
+a.TopMenu,a.TopMenu:hover,a.TopMenu:active,a.TopMenu:visited {
+	font-size: 11px;
+	color: #696969;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.LightGray12 {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 150%;
+	height: 40px;
+	vertical-align: top;
+}
+.LightGray12Main {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	line-height: 120%;
+	height: 40px;
+	vertical-align: top;
+}
+.NavLightGray12 {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 150%;
+	height: 20px;
+}
+A.bottomCl:link {
+	color: #444444;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	text-align:center;
+	letter-spacing : 4px;
+	TEXT-DECORATION: none;
+}
+A.bottomCl:visited {
+	color: #444444;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	text-align:center;
+	letter-spacing : 4px;
+	TEXT-DECORATION: none;
+}
+A.bottomCl:hover, A.bottomCl:active {
+	color: #0066FF;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	text-align:center;
+	letter-spacing : 4px;
+	TEXT-DECORATION: none;
+}
+
+.Red12B {
+	color: #FF0000;
+	font-size: 12px;
+  font-family: "Arial", "新細明體";
+	text-align:center;
+  font-weight: bold;
+	letter-spacing : 2px;
+	TEXT-DECORATION: none;
+}
+
+.TopSearch{
+	/*border: 1px solid #444444;*/
+	font-family: "Arial", "Verdana", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #333333;
+	/*margin: 4px 0px 0px 0px;
+	padding: 2px 0px 0px 2px;
+	Height:20px;*/
+}
+
+.CompareSel{
+	border: 1px solid #444444;
+	font-family: "Arial", "Verdana", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #6B6B6B;
+	margin: 0px;
+	padding: 2px;
+
+}
+.Gray13B {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  font-weight: bold;
+	text-align:left;
+	line-height: 150%;
+}
+.White12 {
+	color: #FFFFFF;
+  font-family: "Arial", "新細明體";
+  font-size: 12px;
+	text-align:center;
+	line-height: 150%;
+}
+/* =================================== Top Cat 設定 ==================================*/
+
+#RecCatBase {
+	position: relative;
+	width: 100%;
+	height: 30px;
+	background-image: url(/com/images/top-CatRecBG.gif);
+}
+#RecCat, #MyCat {
+	width: 100%;
+	left: 3px;
+	top: 0px;
+	white-space:nowrap;
+	vertical-align: middle;
+	height: 30px;
+}
+#KWordCat {
+	width: 100%;
+	left: 3px;
+	top: 0px;
+	white-space:nowrap;
+	vertical-align: middle;
+	height: 20px;
+}
+#RecCat ul, #MyCat ul, #KWordCat ul {
+	width: 100%;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0 2 0 0px; 
+	list-style-type: none;
+	TEXT-DECORATION: none;
+}
+#RecCat li, #MyCat li, #KWordCat li {
+	float: left;
+	margin: 5 0 0 0px;
+  letter-spacing : 2px;
+	vertical-align: middle;
+}
+#RecCat li a:link, #RecCat li a:visited, #MyCat li a:visited, #KWordCat li a:link, #KWordCat li a:visited, {
+	color: #666666;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	letter-spacing : 3px;
+	TEXT-DECORATION: none;
+}
+#RecCat li a:hover, #MyCat li a:hover, #KWordCat li a:hover {
+	color: #0066FF;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+  letter-spacing : 3px;
+	TEXT-DECORATION: none;
+}
+
+/*========================*/
+
+#HotCatBase {
+	position: relative;
+	width: 100%;
+	height: 30px;
+	background-image: url(/com/images/item3-3.gif);
+}
+#HotCat {
+	width: 100%;
+	position: relative;
+	left: 3px;
+	top: 0px;
+	white-space:nowrap
+}
+#HotCat ul {
+	width: 100%;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0 2 0 0px; 
+	list-style-type: none;
+	TEXT-DECORATION: none;
+}
+#HotCat li {
+	float: left;
+	margin: 5 0 0 0px;
+	vertical-align: middle;
+}
+#HotCat li a:link, #HotCat li a:visited {
+	color: #CC66CC;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	letter-spacing : 4px;
+	TEXT-DECORATION: none;
+}
+#HotCat li a:hover, #MyCat li a:hover {
+	color: #0066FF;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+  letter-spacing : 4px;
+	TEXT-DECORATION: none;
+}
+
+/*========================*/
+
+#MyCatBase {
+	position: relative;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(/com/images/item3-5.gif);
+}
+
+/* =================================== Main Body 設定 ==================================*/
+
+#MainTableBase {
+	width: 880px;
+	margin: 0px;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+#MainSPTable535 {
+	margin: 0px;
+	PADDING: 0 10 0 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+#MainSPTable535 {
+	margin: 0px;
+	PADDING: 0 10 0 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+#MainSPTable540 {
+	margin: 0px;
+	PADDING: 0 5 0 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+
+#MainSpaceTop8 {
+	PADDING: 8 0 0 0px;
+}
+#MainSpaceTop5 {
+	PADDING: 5 0 0 0px;
+}
+#MainSPTable215 {
+	margin: 0px;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+#MainSPTable215V3 {
+	margin: 0px;
+	PADDING: 8 0 0 0px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+#MainSPTable215V32 {
+	margin: 0px;
+	PADDING: 0 0 0 2px;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+
+/* =================================== Main 200x90 AD 設定 ==================================*/
+
+#MainSAD {
+	width: 200px;
+	height: 90px;
+	margin: 0 0 0 6px;
+}
+#MainSADLine {
+	width: 200px;
+	height: 6px;
+	margin: 2 0 2 6px;
+}
+
+/* =================================== Main Rec Goods x 4 設定 ==================================*/
+
+#MainRecBase {
+	width: 257px;
+	height: 180px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(/main/images/main-RecBG.gif);
+	vertical-align: top;
+}
+
+#MainRec {
+	width: 120px;
+	height: 50px;
+	PADDING: 0 0 5 7px;
+	margin: 0px;
+	float: left;
+}
+
+/* =================================== Main 170x125 Goods x 3 設定 ==================================*/
+
+#MainSPdBase {
+	width: 535px;
+	height: 125px;
+	margin: 0px;
+	PADDING: 0px;
+	text-align:center;
+	background-image: url(/main/images/s-product-2.gif);
+	background-repeat: no-repeat;
+
+}
+
+#MainSPdBaseV3 {
+	width: 540px;
+	height: 125px;
+	margin: 0px;
+	PADDING: 0px;
+	text-align:center;
+	background-image: url(/main/images/s-product-2.gif);
+	background-repeat: no-repeat;
+
+}
+
+#MainSPd {
+	PADDING: 5 4 5 4px;
+	float: left;
+}
+
+
+/* =================================== Main 人氣 Goods x 4 設定 ==================================*/
+
+#PPpageTitle {
+	wi//dth: 760px;
+	margin: 2 2 0 0px;
+	PADDING: 0 5 0 0px;
+	background-image: url(/main/images/main-PPTitleBG.gif);
+	text-align:right;
+	vertical-align: bottom;
+}
+#PPpageTitleV3 {
+	wi//dth: 765px;
+	margin: 2 2 0 0px;
+	PADDING: 0 0 0 0px;
+	background-image: url(/main/images/main-PPTitleBGV3.gif);
+	text-align:right;
+	vertical-align: top;
+}
+
+#PPpageBodyBG {
+	wi//dth: 760px;
+	margin: 0px;
+	PADDING: 0 1 1 1px;
+	background-color: #CCCCCC;
+}
+
+#PPpageBodyBGV3 {
+	wi//dth: 760px;
+	margin: 0px;
+	PADDING: 0 px;
+	background-image: url(/main/images/main-PPbgV3.gif);
+	
+}
+
+#PPpageBody {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 1px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+#PPpageBodyV3 {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 1px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+#PPpageBodyTop {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 1px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #999999;
+}
+
+#PPpageBodyTopRight {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 6px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #999999;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #999999;
+}
+
+#PPpageBodyRight {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 6px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #999999;
+}
+
+
+#PPpageBodyRBV3 {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 4px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #999999;
+}
+
+#PPpageBodyBottomV3 {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 4px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+}
+
+#PPpageBodyRightV3 {
+	width: 182px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 4px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #999999;
+}
+
+#MainPPImg {
+	border-bottom-width: 1px;
+	border-bottom-style: SOLID;
+	border-bottom-color: #666666;
+	border-right-width: 1px;
+	border-right-style: SOLID;
+	border-right-color: #666666;
+	border-left-width: 1px;
+	border-left-style: SOLID;
+	border-left-color: #666666;
+	border-top-width: 1px;
+	border-top-style: SOLID;
+	border-top-color: #666666;
+	
+	
+}
+
+
+/* =================================== Main Hot Goods x 4 設定 ==================================*/
+
+#xxxxxHPpageTitle {
+	width: 628px;
+	margin: 2 2 0 0px;
+	PADDING: 5 5 0 0px;
+	background-image: url(/main/images/main-HPTitleBG.gif);
+	text-align:right;
+}
+#xxxxxHPpageBase {
+	width: 611px;
+	height: 218px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 2 1 5px;
+	background-color: #FFFFFF;
+	text-align:center;
+
+}
+#HPpageBody {
+	width: 185px;
+	height: 250px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 3 1 1px;
+	padding: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #CCCCCC;	
+}
+
+#HPpageBodyV3 {
+	width: 185px;
+	height: 250px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 3 1 1px;
+	padding: 0px;
+	background-color: #e7eda8;
+	text-align:center;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #CCCCCC;	
+}
+
+#HPpageBodyNoBG {
+	width: 185px;
+	height: 250px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 4 1 1px;
+	padding: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+#HPpageBodyNoBGV3 {
+	width: 185px;
+	height: 250px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 4 1 1px;
+	padding: 0px;
+	background-color: #e7eda8;
+	text-align:center;
+	float: left;
+}
+
+
+#MainMarquee {height:50px;overflow:hidden;position:relative;}
+#MainMarquee div {position:absolute;top:0;left:0;line-height:0px;visibility:hidden;}
+#MainMarquee marquee{height:1em;display:block;}
+#MainMarquee a {padding-right:5px;}
+
+/* =================================== Main Left公告事項 設定 ==================================*/
+
+#LeftNoteBase {
+	position: relative;
+	width: 100%;
+	margin: 5 0 0 0px;
+	background-image: url(/com/images/left-NoteBG.gif);
+}
+.LeftNote{
+	list-style-type: disc;
+	line-height: 150%;
+}
+
+#LeftPrizeBase {
+	position: relative;
+	width: 100%;
+	margin: 5 0 0 0px;
+	background-image: url(/com/images/left-PrizeBG.gif);
+}
+
+/* =================================== Footer Channel 設定 ==================================*/
+#BottomBTableBase {
+	margin: auto;
+	vertical-align: top;
+	position: relative;
+	width: 980px;
+}
+#BottomBTableBaseFirefox {
+	margin: auto;
+	vertical-align: top;
+	position: relative;
+	float: left;
+}
+
+#BottomBase {
+	position: relative;
+	width: 960px;
+	height: 25px;
+	margin: 0px;
+	padding: 2px;
+	background-image: url(/com/images/bottom-CannelBG.jpg);
+	color: #444444;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	letter-spacing : 3px;
+	vertical-align: bottom;
+	z-index:0;
+}
+a.BottomBody:link, a.BottomBody:visited {
+	color: #444444;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	letter-spacing : 3px;
+	TEXT-DECORATION: none;
+	text-align:center;
+}
+a.BottomBody:hover {
+	color: #0066FF;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+  letter-spacing : 3px;
+	TEXT-DECORATION: none;
+	text-align:center;
+}
+
+
+/* =================================== Lgrp 最新流行單品 Goods x 4 設定 ==================================*/
+
+#LCatLeftMenuBase {
+	margin: auto;
+	PADDING: 8 0 0 0px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;	
+}
+#LCatLeftMenu210 {
+	width: 210px;
+	margin: auto;
+	PADDING: 0 0 0 0px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;	
+	float: left;	
+}
+#LCatRightPBase {
+	width: 760px;
+	margin: 10 0 0 0px;
+	PADDING: 0px;
+	text-align:right;
+	vertical-align: top;
+	float: left;
+}
+#LCatRightNav770 {
+	margin: auto;
+	PADDING: 10 0 0 0px;
+	text-align:right;
+	vertical-align: top;
+		
+		
+}
+#LCatRightFL770 {
+	margin: auto;
+	PADDING: 0px;
+	text-align:right;
+	vertical-align: top;
+	position: relative;	
+	float: left;
+}
+#LCatRightFR770 {
+	margin: auto;
+	PADDING: 0 10 0 0px;
+	text-align:right;
+	vertical-align: top;
+	position: relative;	
+	float: right;
+}
+#LCatFashionBG {
+	wi//dth: 608px;
+	margin: 2 0 0 0px;
+	background-image: url(/category/images/cat-FashionBG.gif);
+	text-align:center;
+	vertical-align: top;
+	background-repeat: no-repeat;
+}
+#LCatFashionBody {
+	width: 125px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 2px;
+	padding: 5 0 0 10px;
+	text-align:right;
+	float: left;
+}
+
+#LCatFashionBodyNoBG {
+/*
+	width: 128px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 0 1 2px;
+	padding: 0 0 0 5px;
+	background-color: #FFFFFF;
+	text-align:right;
+	float: left;
+*/
+	clear: right;
+}
+
+#LCatTableBase245 {
+	margin: auto;
+	text-align:left;
+	vertical-align: top;
+	position: relative;
+	float: left; 
+	padding: 5 3 0 3px;
+}
+#LCatPop {
+	width: 615px;
+	margin: 2 2 0 0px;
+	text-align:center;
+	vertical-align: top;
+}
+
+#LCatPopBody {
+	width: 146px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 2 1 2px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	background-image: url(/main/images/main-HPBodyBG.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+#LCatPopBodyNoBG {
+	width: 145px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1 2 1 2px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+#LCatLine580 {
+	width: 580px;
+	background-image: url(/category/images/cat-Line.gif);
+	text-align:center;
+	background-repeat: no-repeat;
+	height: 8px;
+	clear:both;
+}
+
+#LCatTable535 {
+	width: 535px;
+	margin: 0px;
+	PADDING: 0 5 0 5px;
+	text-align:center;
+	vertical-align: top;
+	position: relative;
+	float: left;
+}
+
+#LCatTable215 {
+	width: 215px;
+	margin: 0px;
+	PADDING: 0 0 0 0px;
+	text-align:right;
+	vertical-align: top;
+	float: left;
+}
+
+#LCatTable285 {
+	wi//dth: 275px;
+	ma//rgin: auto;
+	text-align: right;
+	vertical-align: top;
+	position: relative;
+	float: left; 
+	padding: 0 0 0 0px;
+}
+
+#LCatPPpageBody {
+	width: 186px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 1px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+/* =================================== Dgrp Goods List 設定 ==================================*/
+
+.DCatLine608 {
+	width: 608px;
+	background-image:url(/category/images/cat-Line608.gif);
+	text-align:center;
+	background-repeat: no-repeat;
+	margin: 5 0 0 0px;
+	height: 8px;
+	clear:both;
+}
+
+.DCatLine730 {
+	width: 730px;
+	background-image:url(/category/images/cat-Line730.gif);
+	text-align:center;
+	background-repeat: no-repeat;
+	margin: 5 0 0 0px;
+	height: 8px;
+	clear:both;
+}
+
+#DCatPrdBody {
+	width: 185px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	background-image: url(/category/images/cat-VLine15.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+#DCatPrdBodyNoBG {
+	width: 175px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+#DCatPrdBody2 {
+	width: 190px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	background-image: url(/category/images/cat-VLine15.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+#DCatPrdBodyNoBG2 {
+	width: 180px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0px;
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+.DCatPageJump{
+	border: 1px solid #444444;
+	font-family: "Arial", "新細明體";
+	font-size: 12px;
+	color: #0066FF;
+	margin: 1 2 0 0px;
+	padding: 1 0 0 12px;
+
+}
+
+.CatPageDivide{
+	padding: 0 5 0 3px;
+}
+
+#DCatListTitleBG {
+	float: left;
+	background-image: url(/category/images/cat-ListTitleBG.gif);
+}
+
+#DCatListBase {
+	width: 100%;
+	margin: auto;
+}
+#DCatLsTVLine{
+	background-image: url(/category/images/item-line.gif) ; 
+	padding: 0 7 0 0px;
+	float: left;
+}
+/*== 商品比較td ==*/
+#DCatListTd1 {
+	width: 50px;
+	float: left;
+	text-align:center;
+	margin: auto;
+	vertical-align: middle;
+}
+/*== 商品圖td ==*/
+#DCatListTd2 {
+	width: 135px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品編號td ==*/
+#DCatListTd3 {
+	width: 65px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品名稱td ==*/
+#DCatListTd4 {
+	width: 220px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== momo價td ==*/
+#DCatListTd5 {
+	width: 120px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 購買td ==*/
+#DCatListTd6 {
+	width: 80px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+.DCatLsPk {
+	height: 110px;
+	float: left;
+	background-color: #FEE9F5;
+	vertical-align: middle;
+	border-left:1px solid #FFFFFF;	
+
+}
+
+/* =================================== 購物車 設定 ==================================*/
+
+.CartLine860 {
+	width: 860px;
+	background-image:url(/order/images/cart-Line860.gif);
+	text-align:center;
+	background-repeat: no-repeat;
+	margin: 0px;
+	clear:both;
+}
+.CartTableBase {
+	width: 880px;
+	margin: auto;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: top;
+	color: #000;
+	font-weight: normal;
+}
+
+#CartListBase {
+	width: 100%;
+	margin: auto;
+}
+#CartListTitleDivide{
+	background-image: url(/order/images/item-line.gif) ; 
+	padding: 0 5 0 0px;
+	margin: auto;
+	float: left;
+}
+/*== 商品圖td ==*/
+#CartListTd1 {
+	width: 80px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品名稱td ==*/
+#CartListTd2 {
+	width: 250px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 款式td ==*/
+#CartListTd3 {
+	width: 110px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 數量td ==*/
+#CartListTd4 {
+	width: 50px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== momo價td ==*/
+#CartListTd5 {
+	width: 190px;
+	float: left;
+	text-align:center;
+	margin: auto;
+	vertical-align: middle;
+}
+/*== 優專折扣td ==*/
+#CartListTd6 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 小計td ==*/
+#CartListTd7 {
+	width: 90px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== Buttom td ==*/
+#CartListTd8 {
+	width: 110px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+.CartLsPk {
+	height: 70px;
+	float: left;
+	background-color: #FEE9F5;
+	vertical-align: middle;
+	border-left:1px solid #FFFFFF;	
+}
+
+.CartLsPkLive {
+	height: 20px;
+	float: left;
+	background-color: #FEE9F5;
+	vertical-align: middle;
+	border-left:1px solid #FFFFFF;	
+}
+
+/* =================================== 加入會員 設定 ==================================*/
+
+#RegMembDiv {
+
+	PADDING: 15 5 0 5px;
+	MARGIN: 0px 0px 0px 0px;
+	FLOAT: center; 
+	WIDTH: 800px; 
+	BACKGROUND-COLOR: #FFFFFF
+}
+
+#RegMembDiv DIV {
+	PADDING-RIGHT: 2px; OVERFLOW: auto; WIDTH: 820px; HEIGHT: 200px;
+	SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ebebeb; SCROLLBAR-SHADOW-COLOR: #f1e0ce; SCROLLBAR-3DLIGHT-COLOR: #f1e0ce; SCROLLBAR-ARROW-COLOR: #660066; SCROLLBAR-TRACK-COLOR: #ebebeb; SCROLLBAR-DARKSHADOW-COLOR: #f1e0ce
+  font-family: "Arial", "新細明體";
+	font-size: 12px;
+}
+.RegMembDivBC {
+	background-color: #FFFBE6;
+}
+#MembTitle {
+	padding: 20 5 10 0px;
+	margin: auto;		
+}
+/* =================================== 訂購資料 設定 ==================================*/
+
+/*== 商品圖td ==*/
+#OrderMakeListTd1 {
+	width: 80px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品圖(紅利積點)td ==*/
+#OrderMakeListTd1-2 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品名稱td ==*/
+#OrderMakeListTd2 {
+	width: 225px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品名稱td ==*/
+#OrderMakeListTd2-1 {
+	width: 270px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 商品名稱(紅利積點)td ==*/
+#OrderMakeListTd2-2 {
+	width: 205px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 款式td ==*/
+#OrderMakeListTd3 {
+	width: 120px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 款式(紅利積點)td ==*/
+#OrderMakeListTd3-2 {
+	width: 110px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 數量td ==*/
+#OrderMakeListTd4 {
+	width: 50px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 數量td ==*/
+#OrderMakeListTd4-1 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 數量(紅利積點)td ==*/
+#OrderMakeListTd4-2 {
+	width: 35px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== momo價td ==*/
+#OrderMakeListTd5 {
+	width: 150px;
+	float: left;
+	text-align:center;
+	margin: auto;
+	vertical-align: middle;
+}
+/*== momo價td ==*/
+#OrderMakeListTd5-1 {
+	width: 220px;
+	float: left;
+	text-align:center;
+	margin: auto;
+	vertical-align: middle;
+}
+/*== 特價(紅利積點)td ==*/
+#OrderMakeListTd5-2 {
+	width: 120px;
+	float: left;
+	text-align:center;
+	margin: auto;
+	vertical-align: middle;
+}
+/*== 折價券td ==*/
+#OrderMakeListTd6 {
+	width: 90px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 折抵方式(紅利積點)td ==*/
+#OrderMakeListTd6-2 {
+	width: 95px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 折價金額td ==*/
+#OrderMakeListTd7 {
+	width: 75px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 點數(紅利積點)td ==*/
+#OrderMakeListTd7-2 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 自付額(紅利積點)td ==*/
+#OrderMakeListTd7-2-2 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 小計td ==*/
+#OrderMakeListTd8 {
+	width: 90px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 小計td ==*/
+#OrderMakeListTd8-1 {
+	width: 130px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+/*== 小計(紅利積點)td ==*/
+#OrderMakeListTd8-2 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+.OrderMarkLi li{
+	padding: 0 0 0 20px;
+	list-style-position: outside;
+	line-height: 200%;
+}
+.OrderMarkNumLi li{
+	padding: 0px;
+	list-style-type: none;
+	list-style-position: outside;
+	line-height: 200%;
+}
+.Ord//erMarkNumLi ol li{
+	padding: 0px;
+}
+.OrderMark{
+	padding: 0 0 0 20px;
+	line-height: 200%;
+}
+/* =================================== 我的帳戶 設定 ==================================*/
+
+#TableBase250 {
+	margin: auto;
+	text-align:left;
+	vertical-align: top;
+	position: relative;
+	float: left; 
+}
+#TableBase630 {
+	margin: auto;
+	text-align:left;
+	vertical-align: top;
+	position: relative;
+	float: left; 
+}
+#TableBase760 {
+	margin: auto;
+	text-align:left;
+	vertical-align: top;
+	position: relative;
+	float: left; 
+}
+/* =================================== 客服中心 設定 ==================================*/
+
+.FaqAns {
+	PADDING: 8 8 8 15px;
+	text-align:left;
+	vertical-align: top;
+}
+
+.FaqSearch{
+	border: 1px solid #444444;
+	font-family: "Arial", "新細明體";
+	font-size: 12px;
+	color: #6B6B6B;
+	margin: 0px;
+	padding: 2px 0px 0px 2px;
+	Height:20px;
+
+}
+.QnaSearch{
+	border: 1px solid #8F8F8F;
+	font-family: "Arial", "新細明體";
+	font-size: 12px;
+	color: #6B6B6B;
+	margin: 0px;
+	padding: 5px 0px 0px 5px;
+	Height:24px;
+
+}
+.QnaInput{
+	border: 1px solid #8F8F8F;
+	font-family: "Arial", "新細明體";
+	font-size: 12px;
+	color: #6B6B6B;
+	margin: 0px;
+	padding: 5px 0px 0px 5px;
+	Height:150px;
+	width: 450px;
+
+}
+
+/* =================================== SiteMap 設定 ==================================*/
+
+.Pink15B {
+	font-family: "Arial", "新細明體";
+	font-size: 15px; 
+	font-style: normal; 
+	line-height: 20px; 
+	color: #F23B97; 
+	font-weight: bold
+}
+#SitemapLevel2 {
+	width: 140px;
+	text-align:left;
+	float: left;
+	white-space:nowrap;
+	line-height: 200%;
+}
+#SitemapDcatBase{
+	width: 120px;
+	float: left;
+	position: relative;
+	line-height: 20px; 
+	margin: 10 0 0 0px;
+	}
+/* =================================== Goods Detail ==================================*/
+
+#LGoodsInfo {
+	width: 700px;
+	margin: 10 0 0 0px;
+	PADDING: 0px;
+	text-align:left;
+	vertical-align: top;
+	float: left;
+}
+
+#RGoodsLink {
+	width: 160px;
+	margin: 30 0 5 0px;
+	PADDING: 0px;
+	text-align:right;
+	vertical-align: top;
+	float: left;
+}
+
+.charcoal14B {  
+  font-family: "Arial", "新細明體"; 
+  font-size: 15px; 
+  line-height: 20px; 
+  color: #666666; 
+  text-decoration: blink; 
+  font-weight: bold
+}
+
+.momo_color14B {
+  font-family: "Arial", "新細明體";
+  font-size: 15px; 
+  font-style: normal;
+  line-height: 20px;
+  color: #F23B97;
+  font-weight: bold
+}
+
+.ja13B {
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  font-weight: bold; 
+  color: #666666
+}
+
+.orange14B {
+  font-family: "Arial", "新細明體"; 
+  font-size: 15px; 
+  line-height: 20px; 
+  font-weight: bold; 
+  color: #FF6600
+}
+
+.orange12B {
+  font-family: "Arial", "新細明體"; 
+  font-size: 12px; 
+  line-height: 20px; 
+  font-weight: bold; 
+  color: #FF6600
+}
+
+.orange13B {
+  font-family: "Arial", "新細明體"; 
+  font-size: 13px; 
+  line-height: 20px; 
+  font-weight: bold; 
+  color: #FF6600
+}
+
+.GoodsDtColBC {
+	background-color: #F1F1F1;
+}
+
+.tddotline {
+	padding-top: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #C2C2C2;
+	padding-bottom: 4px;
+}
+
+/* =================================== Goods Compare ==================================*/
+
+#CompareListTd1 {
+	height: 40px;	
+	background-color: #FFF9DF;
+	text-align:center;
+	vertical-align: top;
+	float: left;
+}
+
+#CompareListTd2 {  
+	height: 40px;	
+	background-color: #FEE9F5;
+	PADDING: 0px;
+	text-align:left;
+	vertical-align: top;
+	float: left;
+}
+
+#CompareListTd3 {
+	height: 40px;	
+	background-color: #FEE9F5;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: middle;
+	float: left;
+}
+
+#CompareListTd4 {
+	height: 50px;	
+	background-color: #FEE9F5;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: middle;
+	float: left;
+}
+
+/* =================================== TV Broadcast =================================*/
+
+#WindowOnAir {
+	width: 400px;
+	margin: 0 0 0 5px;
+	PADDING: 0px;
+	text-align:left;
+	vertical-align: top;
+	float: left;
+}
+
+#LiveGoodsListBase {
+	width: 580px;	
+	margin: auto;
+}	
+
+.LiveGodosListTitle {
+  height: 25px;
+  color: #000000;
+	float: left;
+	background-color: #FEE9F5;
+}
+
+#LiveGodosListTd1 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+#LiveGodosListTd2 {
+	width: 180px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+#LiveGodosListTd3 {
+	width: 70px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+#LiveGodosListTd4 {
+	width: 140px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+#LiveGodosListTd5 {
+	width: 80px;
+	float: left;
+	text-align:center;
+	margin: auto;
+}
+
+.LiveLsPk {
+	height: 60px;
+	float: left;
+	background-color: #FFFBE6;
+	vertical-align: middle;
+	border-left:1px solid #FFFFFF;	
+}
+
+#TVPresentBottom {
+	width: 30%;
+	margin: 0 0 0 5px;
+	PADDING: 0px;
+	text-align:left;
+	vertical-align: top;
+	float: left;
+}
+
+#BroadCastBase {
+	margin: 0 0 0 5px;
+	PADDING: 0px;
+	float: left;
+}
+
+#ShowHostList {
+	width: 315px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 3px;	
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+	background-image: url(/com/images/cat-VLine15.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+#ShowHostListNoBG {
+	width: 300px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	margin: 0px;	
+	background-color: #FFFFFF;
+	text-align:center;
+	float: left;
+}
+
+.LightGray13 {
+	color: #666666;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+	text-align:left;
+	line-height: 200%;
+	height: 40px;
+	letter-spacing : 2px;
+	vertical-align: top;
+}
+
+.LightBlue13 {
+	color: #0066FF;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+	text-align:center;
+	letter-spacing : 3px;
+	line-height: 150%;
+}
+
+/* =================================== Notice Board =================================*/
+
+#NoticeBoardBase {	
+	width: 860px;
+	float: left;
+}
+
+#NoticeBoardTitle {	
+	margin: 0 0 0 5px;	
+	float: left;
+}
+
+#NoticeBoardContent {
+	width: 700;
+	margin: 0 0 0 30px;
+	float: left;
+}
+
+/* =================================== 行銷活動頁商品名稱連結 =================================*/
+
+.DarkBlue13 {
+	color: #003399;
+  font-family: "Arial", "新細明體";
+  font-size: 13px;
+  text-decoration: underline;
+	text-align:center;
+	line-height: 150%;
+}
+
+/* =================================== 卡友登入 設定 ==================================*/
+
+.tableee {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #CCCCCC;
+	font-size: 12px;
+	color: #000000;
+	padding-bottom: 5px;
+}
+
+.tableee2 {
+	font-size: 12px;
+	color: #000000;
+	padding-bottom: 5px;
+}
+
+.input {
+	font-size: 13px;
+	color: #333333;
+	border: 1px solid #cccccc;
+	letter-spacing: 1px;
+	background-color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* =================================== BcBottom 設定 ==================================*/
+
+.pro_tdline04 {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #999999;
+}
+
+.menuText12 a:link {color: #FFFFFF;}
+.menuText12 a:visited {color: #FFFFFF;}
+.menuText12 a:active {color: #FFFFFF;}
+.menuText12 {
+  color: #FFFFFF;
+  font-size: 12px;
+}
+
+.companyName12 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.companyAddr12 {
+	font-size: 12px;
+	color: #666666;
+	line-height: 120%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+span.border img {
+  float: center;  
+  border-left: 1px solid #666666;
+  border-right: 1px solid #666666;
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;  
+}
+
+/*===========訊息快遞============*/
+.marqueeMsg a:link {color: #0066FF;}
+.marqueeMsg a:visited {color: #0066FF;}
+.marqueeMsg a:active {color: #0066FF;}
+.marqueeMsg {
+  color: #0066FF;
+  font-size: 12px;
+}
+
+/* =================================== edm 設定 ==================================*/
+
+#edmBigTableBase {
+	width: 980px;
+	margin: auto;
+	PADDING: 0px;
+	text-align:center;
+	vertical-align: top;
+}
+
+#edmBannerTableBase {
+	margin: 0px;
+	PADDING: 3 0 0 0px;
+	text-align:center;
+	vertical-align: top;
+}
+
+/* =================================== HotBrand 設定 ==================================*/
+
+#HotBrand {
+	width: 100px;
+	height: 40px;
+	font-size: 12px;
+	font-family: Arial, "新細明體";
+	//margin: 1 30 1 1px;
+	padding-right: 2px;
+	text-align:center;
+	float: left;
+}

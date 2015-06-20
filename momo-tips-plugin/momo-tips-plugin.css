@@ -1,0 +1,49 @@
+.momo-tips-plugin.tip-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+}
+
+.momo-tips-plugin.tip-box {
+  width: 100px;
+  height: 100px;
+  background: #cecece;
+}
+
+
+.my-custom-theme {
+  background: rgba(241, 62, 127, 0.75);
+  color: #fff;
+}
+
+.my-custom-theme {
+}
+
+.my-custom-theme .tooltipster-content {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  padding: 4px 8px;
+  border-color: rgba(241, 62, 127, 0.75);
+}
+
+.my-custom-theme .tooltipster-content table td {
+  color: #fff;
+  font-size: 16px;
+}
+
+.my-custom-theme .tooltipster-content table tr td:first-child {
+  text-align: right;
+}
+
+.my-custom-theme .tooltipster-content table tr td.reason {
+  padding: 5px;
+}
+
+.smiles .smile{
+  font-size: 25px;
+  letter-spacing: -10px
+}
